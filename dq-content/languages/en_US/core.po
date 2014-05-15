@@ -1,0 +1,6564 @@
+# Copyright (C) 2013 {package-name}
+# This file is distributed under the same license as the {package-name} package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Osclass\n"
+"Report-Msgid-Bugs-To: http://osclass.org/\n"
+"POT-Creation-Date: 2013-12-03 16:09:49+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-12-03 17:37+0100\n"
+"Last-Translator: _CONEJO <conejo@conejo.me>\n"
+"Language-Team: Translations <translations@osclass.org>\n"
+
+#: index.php:48
+#: dq-admin/themes/modern/tools/maintenance.php:39
+msgid "Maintenance &raquo; %s"
+msgstr ""
+
+#: index.php:49
+msgid "We are sorry for any inconvenience. %s is undergoing maintenance."
+msgstr ""
+
+#: dq-admin/admins.php:325
+#: dq-admin/emails.php:132
+#: dq-admin/languages.php:367
+#: dq-admin/themes/modern/appearance/widgets.php:87
+#: dq-admin/themes/modern/categories/index.php:337
+#: dq-admin/themes/modern/fields/index.php:137
+#: dq-admin/themes/modern/fields/index.php:207
+#: dq-admin/themes/modern/settings/currencies.php:112
+#: dq-admin/themes/modern/settings/locations.php:131
+#: dq-includes/osclass/classes/datatables/BanRulesDataTable.php:75
+#: dq-includes/osclass/classes/datatables/CommentsDataTable.php:104
+#: dq-includes/osclass/classes/datatables/ItemsDataTable.php:259
+#: dq-includes/osclass/classes/datatables/ItemsDataTable.php:345
+#: dq-includes/osclass/classes/datatables/PagesDataTable.php:86
+#: dq-includes/osclass/classes/datatables/UsersDataTable.php:88
+msgid "Edit"
+msgstr ""
+
+#: dq-admin/admins.php:326
+#: dq-admin/admins.php:366
+#: dq-admin/comments.php:261
+#: dq-admin/items.php:826
+#: dq-admin/languages.php:370
+#: dq-admin/languages.php:426
+#: dq-admin/media.php:139
+#: dq-admin/pages.php:283
+#: dq-admin/themes/modern/admins/index.php:176
+#: dq-admin/themes/modern/admins/index.php:187
+#: dq-admin/themes/modern/appearance/index.php:108
+#: dq-admin/themes/modern/appearance/widgets.php:88
+#: dq-admin/themes/modern/appearance/widgets.php:130
+#: dq-admin/themes/modern/categories/index.php:341
+#: dq-admin/themes/modern/categories/index.php:387
+#: dq-admin/themes/modern/comments/index.php:182
+#: dq-admin/themes/modern/comments/index.php:193
+#: dq-admin/themes/modern/fields/index.php:139
+#: dq-admin/themes/modern/fields/index.php:209
+#: dq-admin/themes/modern/fields/index.php:230
+#: dq-admin/themes/modern/items/index.php:403
+#: dq-admin/themes/modern/items/index.php:414
+#: dq-admin/themes/modern/items/reported.php:140
+#: dq-admin/themes/modern/items/reported.php:195
+#: dq-admin/themes/modern/items/reported.php:206
+#: dq-admin/themes/modern/languages/index.php:176
+#: dq-admin/themes/modern/languages/index.php:188
+#: dq-admin/themes/modern/media/index.php:170
+#: dq-admin/themes/modern/media/index.php:181
+#: dq-admin/themes/modern/pages/index.php:204
+#: dq-admin/themes/modern/pages/index.php:215
+#: dq-admin/themes/modern/settings/currencies.php:111
+#: dq-admin/themes/modern/settings/currencies.php:133
+#: dq-admin/themes/modern/settings/currencies.php:176
+#: dq-admin/themes/modern/settings/currencies.php:187
+#: dq-admin/themes/modern/settings/locations.php:403
+#: dq-admin/themes/modern/users/alerts.php:151
+#: dq-admin/themes/modern/users/alerts.php:206
+#: dq-admin/themes/modern/users/alerts.php:217
+#: dq-admin/themes/modern/users/ban.php:180
+#: dq-admin/themes/modern/users/ban.php:191
+#: dq-admin/themes/modern/users/frm.php:359
+#: dq-admin/themes/modern/users/frm.php:399
+#: dq-admin/themes/modern/users/index.php:328
+#: dq-admin/themes/modern/users/index.php:339
+#: dq-admin/users.php:537
+#: dq-admin/users.php:538
+#: dq-admin/users.php:671
+#: dq-includes/osclass/classes/datatables/AlertsDataTable.php:74
+#: dq-includes/osclass/classes/datatables/BanRulesDataTable.php:76
+#: dq-includes/osclass/classes/datatables/CommentsDataTable.php:102
+#: dq-includes/osclass/classes/datatables/ItemsDataTable.php:260
+#: dq-includes/osclass/classes/datatables/ItemsDataTable.php:346
+#: dq-includes/osclass/classes/datatables/MediaDataTable.php:96
+#: dq-includes/osclass/classes/datatables/PagesDataTable.php:88
+#: dq-includes/osclass/classes/datatables/UsersDataTable.php:89
+#: dq-includes/osclass/frm/Item.form.class.php:1135
+#: dq-includes/osclass/frm/Item.form.class.php:1302
+#: dq-includes/osclass/frm/Item.form.class.php:1309
+#: dq-includes/osclass/frm/Item.form.class.php:1454
+msgid "Delete"
+msgstr ""
+
+#: dq-admin/admins.php:365
+#: dq-admin/comments.php:260
+#: dq-admin/items.php:825
+#: dq-admin/languages.php:421
+#: dq-admin/media.php:138
+#: dq-admin/pages.php:282
+#: dq-admin/themes/modern/admins/index.php:181
+#: dq-admin/themes/modern/comments/index.php:187
+#: dq-admin/themes/modern/items/index.php:408
+#: dq-admin/themes/modern/items/reported.php:139
+#: dq-admin/themes/modern/items/reported.php:200
+#: dq-admin/themes/modern/languages/index.php:182
+#: dq-admin/themes/modern/media/index.php:175
+#: dq-admin/themes/modern/pages/index.php:209
+#: dq-admin/themes/modern/settings/currencies.php:132
+#: dq-admin/themes/modern/settings/currencies.php:181
+#: dq-admin/themes/modern/users/alerts.php:211
+#: dq-admin/themes/modern/users/ban.php:185
+#: dq-admin/themes/modern/users/index.php:333
+#: dq-admin/users.php:536
+#: dq-admin/users.php:666
+msgid "Bulk actions"
+msgstr ""
+
+#: dq-admin/admins.php:366
+msgid "Are you sure you want to %s the selected admins?"
+msgstr ""
+
+#: dq-admin/ajax/ajax.php:57
+#: dq-includes/osclass/frm/Item.form.class.php:947
+#: dq-includes/osclass/frm/User.form.class.php:362
+#: dq-includes/osclass/frm/User.form.class.php:426
+msgid "No results"
+msgstr ""
+
+#: dq-admin/ajax/ajax.php:122
+msgid "An error occurred"
+msgstr ""
+
+#: dq-admin/ajax/ajax.php:124
+msgid "Order saved"
+msgstr ""
+
+#: dq-admin/ajax/ajax.php:210
+msgid "An error occurred while updating."
+msgstr ""
+
+#: dq-admin/ajax/ajax.php:214
+msgid "Sorry, you already have a field with that name"
+msgstr ""
+
+#: dq-admin/ajax/ajax.php:220
+#: dq-admin/ajax/ajax.php:347
+msgid "Saved"
+msgstr ""
+
+#: dq-admin/ajax/ajax.php:231
+msgid "The custom field has been deleted"
+msgstr ""
+
+#: dq-admin/ajax/ajax.php:233
+#: dq-admin/ajax/ajax.php:341
+msgid "An error occurred while deleting"
+msgstr ""
+
+#: dq-admin/ajax/ajax.php:240
+msgid "NEW custom field"
+msgstr ""
+
+#: dq-admin/ajax/ajax.php:272
+msgid "No category with id %d exists"
+msgstr ""
+
+#: dq-admin/ajax/ajax.php:295
+msgid "The category as well as its subcategories have been enabled"
+msgstr ""
+
+#: dq-admin/ajax/ajax.php:299
+msgid "The category as well as its subcategories have been disabled"
+msgstr ""
+
+#: dq-admin/ajax/ajax.php:310
+msgid "Parent category is disabled, you can not enable that category"
+msgstr ""
+
+#: dq-admin/ajax/ajax.php:318
+msgid "The subcategory has been enabled"
+msgstr ""
+
+#: dq-admin/ajax/ajax.php:322
+msgid "The subcategory has been disabled"
+msgstr ""
+
+#: dq-admin/ajax/ajax.php:338
+msgid "The categories have been deleted"
+msgstr ""
+
+#: dq-admin/ajax/ajax.php:391
+msgid "Category updated correctly"
+msgstr ""
+
+#: dq-admin/ajax/ajax.php:395
+msgid "Category updated correctly, but some titles are empty"
+msgstr ""
+
+#: dq-admin/ajax/ajax.php:397
+msgid "Sorry, including at least a title is mandatory"
+msgstr ""
+
+#: dq-admin/ajax/ajax.php:400
+msgid "An error occurred while updating"
+msgstr ""
+
+#: dq-admin/ajax/ajax.php:436
+msgid "Test email, %s"
+msgstr ""
+
+#: dq-admin/ajax/ajax.php:437
+msgid "Test email"
+msgstr ""
+
+#: dq-admin/ajax/ajax.php:449
+#: dq-admin/ajax/ajax.php:471
+msgid "Email sent successfully"
+msgstr ""
+
+#: dq-admin/ajax/ajax.php:451
+#: dq-admin/ajax/ajax.php:473
+msgid "An error occurred while sending email"
+msgstr ""
+
+#: dq-admin/ajax/ajax.php:542
+#: dq-includes/osclass/utils.php:2020
+msgid "No external sources are allowed"
+msgstr ""
+
+#: dq-admin/ajax/ajax.php:547
+msgid "Invalid code"
+msgstr ""
+
+#: dq-admin/ajax/ajax.php:550
+msgid "No code was submitted"
+msgstr ""
+
+#: dq-admin/ajax/ajax.php:589
+msgid "No market data"
+msgstr ""
+
+#: dq-admin/ajax/ajax.php:674
+msgid "You don't have the necessary permissions"
+msgstr ""
+
+#: dq-admin/ajax/ajax.php:677
+#: dq-includes/osclass/controller/ajax.php:307
+msgid "no action defined"
+msgstr ""
+
+#: dq-admin/comments.php:261
+#: dq-admin/comments.php:262
+#: dq-admin/comments.php:263
+#: dq-admin/comments.php:264
+#: dq-admin/comments.php:265
+msgid "Are you sure you want to %s the selected comments?"
+msgstr ""
+
+#: dq-admin/comments.php:262
+#: dq-admin/items.php:456
+#: dq-admin/items.php:827
+#: dq-admin/themes/modern/appearance/index.php:106
+#: dq-admin/themes/modern/comments/frm.php:90
+#: dq-admin/themes/modern/users/alerts.php:149
+#: dq-admin/users.php:116
+#: dq-admin/users.php:667
+#: dq-includes/osclass/classes/datatables/AlertsDataTable.php:80
+#: dq-includes/osclass/classes/datatables/CommentsDataTable.php:108
+#: dq-includes/osclass/classes/datatables/ItemsDataTable.php:240
+#: dq-includes/osclass/classes/datatables/UsersDataTable.php:95
+msgid "Activate"
+msgstr ""
+
+#: dq-admin/comments.php:263
+#: dq-admin/items.php:454
+#: dq-admin/items.php:828
+#: dq-admin/themes/modern/comments/frm.php:90
+#: dq-admin/themes/modern/users/alerts.php:150
+#: dq-admin/users.php:114
+#: dq-admin/users.php:668
+#: dq-includes/osclass/classes/datatables/AlertsDataTable.php:78
+#: dq-includes/osclass/classes/datatables/CommentsDataTable.php:106
+#: dq-includes/osclass/classes/datatables/ItemsDataTable.php:238
+#: dq-includes/osclass/classes/datatables/UsersDataTable.php:93
+msgid "Deactivate"
+msgstr ""
+
+#: dq-admin/comments.php:264
+#: dq-admin/items.php:459
+#: dq-admin/items.php:829
+#: dq-admin/themes/modern/comments/frm.php:98
+#: dq-admin/themes/modern/items/index.php:259
+#: dq-admin/themes/modern/users/index.php:222
+#: dq-admin/users.php:119
+#: dq-admin/users.php:670
+#: dq-includes/osclass/classes/datatables/CommentsDataTable.php:98
+#: dq-includes/osclass/classes/datatables/ItemsDataTable.php:243
+#: dq-includes/osclass/classes/datatables/UsersDataTable.php:98
+msgid "Block"
+msgstr ""
+
+#: dq-admin/comments.php:265
+#: dq-admin/items.php:461
+#: dq-admin/items.php:830
+#: dq-admin/themes/modern/comments/frm.php:98
+#: dq-admin/users.php:121
+#: dq-admin/users.php:669
+#: dq-includes/osclass/classes/datatables/CommentsDataTable.php:100
+#: dq-includes/osclass/classes/datatables/ItemsDataTable.php:245
+#: dq-includes/osclass/classes/datatables/UsersDataTable.php:100
+msgid "Unblock"
+msgstr ""
+
+#: dq-admin/controller/settings/locations.php:135
+#: dq-admin/controller/settings/locations.php:276
+#: dq-admin/controller/settings/locations.php:417
+msgid "One location has been deleted"
+msgid_plural "%s locations have been deleted"
+msgstr[0] ""
+msgstr[1] ""
+
+#: dq-admin/gui/forgot_password.php:24
+#: dq-includes/osclass/classes/Breadcrumb.php:339
+msgid "Change your password"
+msgstr ""
+
+#: dq-admin/gui/forgot_password.php:38
+msgid "Type your new password"
+msgstr ""
+
+#: dq-admin/gui/forgot_password.php:47
+#: dq-admin/themes/modern/admins/frm.php:97
+#: dq-admin/themes/modern/users/frm.php:293
+msgid "New password"
+msgstr ""
+
+#: dq-admin/gui/forgot_password.php:53
+msgid "Repeat new password"
+msgstr ""
+
+#: dq-admin/gui/forgot_password.php:58
+msgid "Change password"
+msgstr ""
+
+#: dq-admin/gui/forgot_password.php:62
+#: dq-admin/gui/login.php:24
+#: dq-admin/gui/login.php:72
+#: dq-admin/gui/recover.php:53
+msgid "Log in"
+msgstr ""
+
+#: dq-admin/gui/forgot_password.php:65
+#: dq-admin/gui/login.php:77
+#: dq-admin/gui/recover.php:56
+msgid "Back to %s"
+msgstr ""
+
+#: dq-admin/gui/login.php:42
+#: dq-admin/themes/modern/admins/index.php:124
+#: dq-admin/themes/modern/settings/mailserver.php:128
+#: dq-admin/themes/modern/users/frm.php:218
+#: dq-admin/themes/modern/users/index.php:171
+#: dq-includes/osclass/classes/datatables/UsersDataTable.php:68
+#: dq-includes/osclass/install-functions.php:740
+#: dq-includes/osclass/install-functions.php:894
+msgid "Username"
+msgstr ""
+
+#: dq-admin/gui/login.php:48
+#: dq-admin/themes/modern/settings/mailserver.php:134
+#: dq-admin/themes/modern/users/frm.php:291
+#: dq-includes/osclass/install-functions.php:654
+#: dq-includes/osclass/install-functions.php:749
+#: dq-includes/osclass/install-functions.php:902
+msgid "Password"
+msgstr ""
+
+#: dq-admin/gui/login.php:67
+msgid "Remember me"
+msgstr ""
+
+#: dq-admin/gui/login.php:69
+msgid "Forgot your password?"
+msgstr ""
+
+#: dq-admin/gui/recover.php:24
+msgid "Lost your password"
+msgstr ""
+
+#: dq-admin/gui/recover.php:38
+msgid "Please enter your username or e-mail address"
+msgstr ""
+
+#: dq-admin/gui/recover.php:39
+msgid "You will receive a new password via e-mail"
+msgstr ""
+
+#: dq-admin/gui/recover.php:46
+#: dq-admin/themes/modern/admins/index.php:126
+#: dq-admin/themes/modern/items/frm.php:213
+#: dq-admin/themes/modern/users/frm.php:224
+#: dq-includes/osclass/classes/datatables/AlertsDataTable.php:55
+#: dq-includes/osclass/classes/datatables/UsersDataTable.php:67
+msgid "E-mail"
+msgstr ""
+
+#: dq-admin/gui/recover.php:50
+msgid "Get new password"
+msgstr ""
+
+#: dq-admin/items.php:464
+#: dq-admin/items.php:832
+#: dq-includes/osclass/classes/datatables/ItemsDataTable.php:248
+msgid "Unmark as premium"
+msgstr ""
+
+#: dq-admin/items.php:466
+#: dq-admin/items.php:831
+#: dq-includes/osclass/classes/datatables/ItemsDataTable.php:250
+msgid "Mark as premium"
+msgstr ""
+
+#: dq-admin/items.php:469
+#: dq-admin/items.php:834
+#: dq-includes/osclass/classes/datatables/ItemsDataTable.php:253
+msgid "Unmark as spam"
+msgstr ""
+
+#: dq-admin/items.php:471
+#: dq-admin/items.php:833
+#: dq-includes/osclass/classes/datatables/ItemsDataTable.php:255
+msgid "Mark as spam"
+msgstr ""
+
+#: dq-admin/items.php:826
+#: dq-admin/items.php:827
+#: dq-admin/items.php:828
+#: dq-admin/items.php:829
+#: dq-admin/items.php:830
+#: dq-admin/items.php:831
+#: dq-admin/items.php:832
+#: dq-admin/items.php:833
+#: dq-admin/items.php:834
+msgid "Are you sure you want to %s the selected listings?"
+msgstr ""
+
+#: dq-admin/languages.php:368
+msgid "Disable (website)"
+msgstr ""
+
+#: dq-admin/languages.php:368
+msgid "Enable (website)"
+msgstr ""
+
+#: dq-admin/languages.php:369
+#: dq-admin/languages.php:425
+msgid "Disable (dq-admin)"
+msgstr ""
+
+#: dq-admin/languages.php:369
+#: dq-admin/languages.php:424
+msgid "Enable (dq-admin)"
+msgstr ""
+
+#: dq-admin/languages.php:382
+msgid "Update here"
+msgstr ""
+
+#: dq-admin/languages.php:389
+#: dq-admin/languages.php:390
+msgid "Yes"
+msgstr ""
+
+#: dq-admin/languages.php:389
+#: dq-admin/languages.php:390
+msgid "No"
+msgstr ""
+
+#: dq-admin/languages.php:422
+#: dq-admin/languages.php:423
+#: dq-admin/languages.php:424
+#: dq-admin/languages.php:425
+#: dq-admin/languages.php:426
+msgid "Are you sure you want to %s the selected languages?"
+msgstr ""
+
+#: dq-admin/languages.php:422
+msgid "Enable (Website)"
+msgstr ""
+
+#: dq-admin/languages.php:423
+msgid "Disable (Website)"
+msgstr ""
+
+#: dq-admin/market.php:38
+#: dq-admin/themes/modern/market/index.php:32
+msgid "Recommended plugins for You"
+msgstr ""
+
+#: dq-admin/market.php:39
+#: dq-admin/themes/modern/market/index.php:45
+msgid "Recommended themes for You"
+msgstr ""
+
+#: dq-admin/market.php:40
+msgid "Languages for this version"
+msgstr ""
+
+#: dq-admin/media.php:139
+msgid "Are you sure you want to %s the selected media files?"
+msgstr ""
+
+#: dq-admin/pages.php:283
+msgid "Are you sure you want to %s the selected pages?"
+msgstr ""
+
+#: dq-admin/plugins.php:296
+msgid "There's a new update available"
+msgstr ""
+
+#: dq-admin/plugins.php:302
+msgid "Configure"
+msgstr ""
+
+#: dq-admin/plugins.php:308
+#: dq-admin/themes/modern/categories/index.php:288
+#: dq-admin/themes/modern/categories/index.php:294
+#: dq-admin/themes/modern/categories/index.php:339
+#: dq-admin/themes/modern/users/frm.php:362
+msgid "Disable"
+msgstr ""
+
+#: dq-admin/plugins.php:310
+#: dq-admin/themes/modern/categories/index.php:278
+#: dq-admin/themes/modern/categories/index.php:283
+#: dq-admin/themes/modern/categories/index.php:339
+#: dq-admin/themes/modern/users/frm.php:364
+msgid "Enable"
+msgstr ""
+
+#: dq-admin/plugins.php:316
+#: dq-admin/themes/modern/appearance/index.php:179
+#: dq-admin/themes/modern/plugins/index.php:263
+msgid "Uninstall"
+msgstr ""
+
+#: dq-admin/plugins.php:318
+#: dq-admin/themes/modern/appearance/add.php:153
+#: dq-admin/themes/modern/plugins/add.php:156
+msgid "Install"
+msgstr ""
+
+#: dq-admin/plugins.php:323
+#: dq-admin/themes/modern/plugins/index.php:73
+msgid "Problems with this plugin? Ask for support."
+msgstr ""
+
+#: dq-admin/plugins.php:327
+msgid "Plugins Site"
+msgstr ""
+
+#: dq-admin/plugins.php:331
+#: dq-admin/plugins.php:333
+msgid "By"
+msgstr ""
+
+#: dq-admin/plugins.php:337
+msgid "Version:"
+msgstr ""
+
+#: dq-admin/themes/modern/admins/frm.php:27
+msgid "Edit admin"
+msgstr ""
+
+#: dq-admin/themes/modern/admins/frm.php:29
+msgid "Save"
+msgstr ""
+
+#: dq-admin/themes/modern/admins/frm.php:32
+#: dq-admin/themes/modern/admins/index.php:32
+msgid "Add admin"
+msgstr ""
+
+#: dq-admin/themes/modern/admins/frm.php:34
+#: dq-admin/themes/modern/categories/index.php:32
+#: dq-admin/themes/modern/comments/frm.php:33
+#: dq-admin/themes/modern/settings/currencies.php:27
+#: dq-admin/themes/modern/settings/currency_form.php:69
+#: dq-admin/themes/modern/settings/locations.php:129
+#: dq-admin/themes/modern/users/index.php:28
+msgid "Add"
+msgstr ""
+
+#: dq-admin/themes/modern/admins/frm.php:39
+#: dq-admin/themes/modern/admins/index.php:30
+msgid "Admins"
+msgstr ""
+
+#: dq-admin/themes/modern/admins/frm.php:65
+msgid "Name <em>(required)</em>"
+msgstr ""
+
+#: dq-admin/themes/modern/admins/frm.php:71
+msgid "Username <em>(required)</em>"
+msgstr ""
+
+#: dq-admin/themes/modern/admins/frm.php:75
+msgid "E-mail <em>(required)</em>"
+msgstr ""
+
+#: dq-admin/themes/modern/admins/frm.php:80
+msgid "Admin type <em>(required)</em>"
+msgstr ""
+
+#: dq-admin/themes/modern/admins/frm.php:83
+msgid "Administrators have total control over all aspects of your installation, while moderators are only allowed to moderate listings, comments and media files"
+msgstr ""
+
+#: dq-admin/themes/modern/admins/frm.php:89
+msgid "Current password"
+msgstr ""
+
+#: dq-admin/themes/modern/admins/frm.php:92
+msgid "If you want to change your password, type your current password here. Otherwise, leave this blank."
+msgstr ""
+
+#: dq-admin/themes/modern/admins/frm.php:104
+#: dq-admin/themes/modern/users/frm.php:302
+msgid "Type your new password again"
+msgstr ""
+
+#: dq-admin/themes/modern/admins/frm.php:112
+#: dq-admin/themes/modern/admins/index.php:175
+#: dq-admin/themes/modern/admins/index.php:186
+#: dq-admin/themes/modern/appearance/add.php:104
+#: dq-admin/themes/modern/appearance/index.php:158
+#: dq-admin/themes/modern/appearance/index.php:178
+#: dq-admin/themes/modern/appearance/widgets.php:129
+#: dq-admin/themes/modern/categories/iframe.php:56
+#: dq-admin/themes/modern/categories/index.php:386
+#: dq-admin/themes/modern/comments/frm.php:110
+#: dq-admin/themes/modern/comments/index.php:181
+#: dq-admin/themes/modern/comments/index.php:192
+#: dq-admin/themes/modern/fields/iframe.php:84
+#: dq-admin/themes/modern/fields/index.php:229
+#: dq-admin/themes/modern/items/frm.php:273
+#: dq-admin/themes/modern/items/index.php:402
+#: dq-admin/themes/modern/items/index.php:413
+#: dq-admin/themes/modern/items/reported.php:194
+#: dq-admin/themes/modern/items/reported.php:205
+#: dq-admin/themes/modern/languages/index.php:175
+#: dq-admin/themes/modern/languages/index.php:187
+#: dq-admin/themes/modern/languages/index.php:224
+#: dq-admin/themes/modern/media/index.php:169
+#: dq-admin/themes/modern/media/index.php:180
+#: dq-admin/themes/modern/pages/frm.php:155
+#: dq-admin/themes/modern/pages/index.php:203
+#: dq-admin/themes/modern/pages/index.php:214
+#: dq-admin/themes/modern/plugins/add.php:105
+#: dq-admin/themes/modern/plugins/index.php:245
+#: dq-admin/themes/modern/plugins/index.php:262
+#: dq-admin/themes/modern/settings/currencies.php:175
+#: dq-admin/themes/modern/settings/currencies.php:186
+#: dq-admin/themes/modern/settings/currency_form.php:133
+#: dq-admin/themes/modern/settings/locations.php:130
+#: dq-admin/themes/modern/settings/locations.php:193
+#: dq-admin/themes/modern/settings/locations.php:220
+#: dq-admin/themes/modern/settings/locations.php:246
+#: dq-admin/themes/modern/settings/locations.php:275
+#: dq-admin/themes/modern/settings/locations.php:303
+#: dq-admin/themes/modern/settings/locations.php:332
+#: dq-admin/themes/modern/settings/locations.php:402
+#: dq-admin/themes/modern/users/alerts.php:205
+#: dq-admin/themes/modern/users/alerts.php:216
+#: dq-admin/themes/modern/users/ban.php:179
+#: dq-admin/themes/modern/users/ban.php:190
+#: dq-admin/themes/modern/users/frm.php:398
+#: dq-admin/themes/modern/users/index.php:327
+#: dq-admin/themes/modern/users/index.php:338
+#: dq-includes/osclass/frm/Item.form.class.php:1452
+msgid "Cancel"
+msgstr ""
+
+#: dq-admin/themes/modern/admins/index.php:20
+msgid "Add users who can manage your page. You can add admins or moderators: admins have access to the whole admin panel while moderators can only modify listings and see stats."
+msgstr ""
+
+#: dq-admin/themes/modern/admins/index.php:25
+msgid "Admins &raquo; %s"
+msgstr ""
+
+#: dq-admin/themes/modern/admins/index.php:105
+msgid "Manage admins"
+msgstr ""
+
+#: dq-admin/themes/modern/admins/index.php:105
+#: dq-admin/themes/modern/appearance/index.php:77
+#: dq-admin/themes/modern/fields/index.php:189
+#: dq-admin/themes/modern/items/index.php:294
+#: dq-admin/themes/modern/languages/index.php:107
+#: dq-admin/themes/modern/pages/index.php:142
+#: dq-admin/themes/modern/settings/currencies.php:121
+#: dq-admin/themes/modern/settings/locations.php:345
+#: dq-admin/themes/modern/settings/locations.php:375
+#: dq-admin/themes/modern/settings/locations.php:385
+#: dq-admin/themes/modern/users/ban.php:28
+#: dq-admin/themes/modern/users/ban.php:115
+#: dq-admin/themes/modern/users/index.php:244
+msgid "Add new"
+msgstr ""
+
+#: dq-admin/themes/modern/admins/index.php:116
+#: dq-admin/themes/modern/comments/index.php:129
+#: dq-admin/themes/modern/items/index.php:350
+#: dq-admin/themes/modern/items/reported.php:147
+#: dq-admin/themes/modern/languages/index.php:119
+#: dq-admin/themes/modern/media/index.php:120
+#: dq-admin/themes/modern/pages/index.php:151
+#: dq-admin/themes/modern/settings/currencies.php:134
+#: dq-admin/themes/modern/users/alerts.php:152
+#: dq-admin/themes/modern/users/ban.php:127
+#: dq-admin/themes/modern/users/index.php:275
+msgid "Apply"
+msgstr ""
+
+#: dq-admin/themes/modern/admins/index.php:125
+#: dq-admin/themes/modern/appearance/add.php:83
+#: dq-admin/themes/modern/appearance/index.php:137
+#: dq-admin/themes/modern/emails/index.php:45
+#: dq-admin/themes/modern/fields/iframe.php:33
+#: dq-admin/themes/modern/items/frm.php:209
+#: dq-admin/themes/modern/languages/frm.php:52
+#: dq-admin/themes/modern/languages/index.php:127
+#: dq-admin/themes/modern/languages/index.php:203
+#: dq-admin/themes/modern/plugins/add.php:84
+#: dq-admin/themes/modern/plugins/index.php:114
+#: dq-admin/themes/modern/plugins/index.php:186
+#: dq-admin/themes/modern/plugins/index.php:224
+#: dq-admin/themes/modern/settings/currencies.php:142
+#: dq-admin/themes/modern/settings/currency_form.php:126
+#: dq-admin/themes/modern/stats/users.php:240
+#: dq-admin/themes/modern/users/frm.php:212
+#: dq-admin/themes/modern/users/index.php:163
+#: dq-includes/osclass/classes/datatables/UsersDataTable.php:69
+#: dq-includes/osclass/frm/Category.form.class.php:118
+msgid "Name"
+msgstr ""
+
+#: dq-admin/themes/modern/admins/index.php:147
+#: dq-admin/themes/modern/comments/index.php:153
+#: dq-admin/themes/modern/emails/index.php:63
+#: dq-admin/themes/modern/items/index.php:374
+#: dq-admin/themes/modern/items/reported.php:171
+#: dq-admin/themes/modern/languages/index.php:152
+#: dq-admin/themes/modern/media/index.php:143
+#: dq-admin/themes/modern/pages/index.php:175
+#: dq-admin/themes/modern/plugins/index.php:136
+#: dq-admin/themes/modern/plugins/index.php:208
+#: dq-admin/themes/modern/users/alerts.php:176
+#: dq-admin/themes/modern/users/ban.php:151
+#: dq-admin/themes/modern/users/index.php:299
+msgid "No data available in table"
+msgstr ""
+
+#: dq-admin/themes/modern/admins/index.php:165
+msgid "Delete admin"
+msgstr ""
+
+#: dq-admin/themes/modern/admins/index.php:171
+msgid "Are you sure you want to delete this admin?"
+msgstr ""
+
+#: dq-admin/themes/modern/appearance/add.php:20
+msgid "Manually add Osclass themes in .zip format. If you prefer, you can manually upload the decompressed theme to <em>dq-content/themes</em>."
+msgstr ""
+
+#: dq-admin/themes/modern/appearance/add.php:26
+#: dq-admin/themes/modern/appearance/index.php:55
+#: dq-admin/themes/modern/appearance/view.php:21
+#: dq-admin/themes/modern/appearance/widgets.php:30
+#: dq-includes/osclass/classes/AdminMenu.php:69
+msgid "Appearance"
+msgstr ""
+
+#: dq-admin/themes/modern/appearance/add.php:33
+msgid "Add theme &raquo; %s"
+msgstr ""
+
+#: dq-admin/themes/modern/appearance/add.php:40
+msgid "Add new theme"
+msgstr ""
+
+#: dq-admin/themes/modern/appearance/add.php:45
+msgid "Download more themes at %s"
+msgstr ""
+
+#: dq-admin/themes/modern/appearance/add.php:51
+msgid "Theme package (.zip)"
+msgstr ""
+
+#: dq-admin/themes/modern/appearance/add.php:57
+#: dq-admin/themes/modern/languages/add.php:50
+#: dq-admin/themes/modern/plugins/add.php:57
+msgid "Upload"
+msgstr ""
+
+#: dq-admin/themes/modern/appearance/add.php:63
+msgid "Can't install a new theme"
+msgstr ""
+
+#: dq-admin/themes/modern/appearance/add.php:66
+msgid "The theme folder is not writable on your server so you can't upload themes from the administration panel. Please make the theme folder writable and try again."
+msgstr ""
+
+#: dq-admin/themes/modern/appearance/add.php:69
+#: dq-admin/themes/modern/languages/add.php:62
+#: dq-admin/themes/modern/plugins/add.php:69
+msgid "To make the directory writable under UNIX execute this command from the shell:"
+msgstr ""
+
+#: dq-admin/themes/modern/appearance/add.php:84
+#: dq-admin/themes/modern/appearance/add.php:88
+#: dq-admin/themes/modern/appearance/add.php:92
+#: dq-admin/themes/modern/appearance/index.php:138
+#: dq-admin/themes/modern/appearance/index.php:142
+#: dq-admin/themes/modern/appearance/index.php:146
+#: dq-admin/themes/modern/languages/index.php:204
+#: dq-admin/themes/modern/languages/index.php:208
+#: dq-admin/themes/modern/languages/index.php:212
+#: dq-admin/themes/modern/plugins/add.php:85
+#: dq-admin/themes/modern/plugins/add.php:89
+#: dq-admin/themes/modern/plugins/add.php:93
+#: dq-admin/themes/modern/plugins/index.php:225
+#: dq-admin/themes/modern/plugins/index.php:229
+#: dq-admin/themes/modern/plugins/index.php:233
+msgid "Loading data"
+msgstr ""
+
+#: dq-admin/themes/modern/appearance/add.php:87
+#: dq-admin/themes/modern/appearance/index.php:141
+#: dq-admin/themes/modern/languages/index.php:207
+#: dq-admin/themes/modern/plugins/add.php:88
+#: dq-admin/themes/modern/plugins/index.php:228
+msgid "Version"
+msgstr ""
+
+#: dq-admin/themes/modern/appearance/add.php:91
+#: dq-admin/themes/modern/appearance/index.php:145
+#: dq-admin/themes/modern/comments/frm.php:71
+#: dq-admin/themes/modern/languages/index.php:211
+#: dq-admin/themes/modern/plugins/add.php:92
+#: dq-admin/themes/modern/plugins/index.php:232
+#: dq-admin/themes/modern/stats/comments.php:174
+#: dq-includes/osclass/classes/datatables/CommentsDataTable.php:77
+msgid "Author"
+msgstr ""
+
+#: dq-admin/themes/modern/appearance/add.php:95
+#: dq-admin/themes/modern/appearance/index.php:149
+#: dq-admin/themes/modern/languages/index.php:215
+#: dq-admin/themes/modern/plugins/add.php:96
+#: dq-admin/themes/modern/plugins/index.php:236
+#: dq-includes/osclass/frm/Field.form.class.php:131
+msgid "URL"
+msgstr ""
+
+#: dq-admin/themes/modern/appearance/add.php:96
+#: dq-admin/themes/modern/appearance/index.php:150
+#: dq-admin/themes/modern/languages/index.php:216
+#: dq-admin/themes/modern/market/header.php:40
+#: dq-admin/themes/modern/plugins/add.php:97
+#: dq-admin/themes/modern/plugins/index.php:237
+msgid "Download manually"
+msgstr ""
+
+#: dq-admin/themes/modern/appearance/add.php:105
+#: dq-admin/themes/modern/appearance/index.php:159
+#: dq-admin/themes/modern/languages/index.php:225
+#: dq-admin/themes/modern/plugins/add.php:106
+#: dq-admin/themes/modern/plugins/index.php:246
+msgid "Continue install"
+msgstr ""
+
+#: dq-admin/themes/modern/appearance/add.php:154
+#: dq-admin/themes/modern/appearance/index.php:107
+#: dq-admin/themes/modern/settings/index.php:95
+#: dq-admin/themes/modern/settings/index.php:109
+msgid "Preview"
+msgstr ""
+
+#: dq-admin/themes/modern/appearance/add.php:158
+#: dq-admin/themes/modern/appearance/index.php:82
+#: dq-admin/themes/modern/appearance/index.php:119
+#: dq-admin/themes/modern/market/header.php:26
+#: dq-admin/themes/modern/plugins/add.php:160
+msgid "by"
+msgstr ""
+
+#: dq-admin/themes/modern/appearance/add.php:186
+#: dq-admin/themes/modern/appearance/index.php:232
+#: dq-admin/themes/modern/languages/index.php:276
+#: dq-admin/themes/modern/plugins/add.php:188
+#: dq-admin/themes/modern/plugins/index.php:321
+msgid "Osclass Market"
+msgstr ""
+
+#: dq-admin/themes/modern/appearance/add_widget.php:26
+#: dq-admin/themes/modern/appearance/add_widget.php:38
+#: dq-admin/themes/modern/appearance/add_widget.php:54
+msgid "Edit widget"
+msgstr ""
+
+#: dq-admin/themes/modern/appearance/add_widget.php:28
+#: dq-admin/themes/modern/appearance/add_widget.php:56
+#: dq-admin/themes/modern/categories/iframe.php:55
+#: dq-admin/themes/modern/emails/frm.php:161
+#: dq-admin/themes/modern/fields/iframe.php:83
+#: dq-admin/themes/modern/items/settings.php:202
+#: dq-admin/themes/modern/languages/frm.php:113
+#: dq-admin/themes/modern/pages/frm.php:35
+#: dq-admin/themes/modern/settings/advanced.php:84
+#: dq-admin/themes/modern/settings/comments.php:162
+#: dq-admin/themes/modern/settings/index.php:379
+#: dq-admin/themes/modern/settings/mailserver.php:170
+#: dq-admin/themes/modern/settings/media.php:322
+#: dq-admin/themes/modern/settings/permalinks.php:670
+#: dq-admin/themes/modern/settings/searches.php:143
+#: dq-admin/themes/modern/settings/spamNbots.php:81
+#: dq-admin/themes/modern/settings/spamNbots.php:120
+#: dq-admin/themes/modern/users/settings.php:85
+msgid "Save changes"
+msgstr ""
+
+#: dq-admin/themes/modern/appearance/add_widget.php:30
+#: dq-admin/themes/modern/appearance/add_widget.php:32
+#: dq-admin/themes/modern/appearance/add_widget.php:40
+#: dq-admin/themes/modern/appearance/add_widget.php:58
+#: dq-admin/themes/modern/appearance/add_widget.php:60
+msgid "Add widget"
+msgstr ""
+
+#: dq-admin/themes/modern/appearance/add_widget.php:47
+#: dq-admin/themes/modern/appearance/index.php:63
+#: dq-admin/themes/modern/appearance/view.php:26
+#: dq-admin/themes/modern/appearance/widgets.php:60
+msgid "Appearance &raquo; %s"
+msgstr ""
+
+#: dq-admin/themes/modern/appearance/add_widget.php:125
+#: dq-includes/osclass/frm/Language.form.class.php:133
+#: dq-includes/osclass/frm/Language.form.class.php:134
+msgid "Description: this field is required"
+msgstr ""
+
+#: dq-admin/themes/modern/appearance/add_widget.php:156
+msgid "Description (for internal purposes only)"
+msgstr ""
+
+#: dq-admin/themes/modern/appearance/add_widget.php:162
+msgid "HTML Code for the Widget"
+msgstr ""
+
+#: dq-admin/themes/modern/appearance/index.php:33
+msgid "Delete theme"
+msgstr ""
+
+#: dq-admin/themes/modern/appearance/index.php:49
+msgid "Change your site's look and feel by activating a theme among those available. You can download new themes from the <a href=\"%s\">market</a>. <strong>Be careful</strong>: if your theme has been customized, you'll lose all changes if you change to a new theme."
+msgstr ""
+
+#: dq-admin/themes/modern/appearance/index.php:57
+msgid "Add theme"
+msgstr ""
+
+#: dq-admin/themes/modern/appearance/index.php:73
+#: dq-admin/themes/modern/main/index.php:296
+#: dq-admin/themes/modern/market/header.php:88
+#: dq-admin/themes/modern/market/header.php:98
+#: dq-admin/themes/modern/plugins/index.php:107
+#: dq-includes/osclass/classes/AdminMenu.php:64
+#: dq-includes/osclass/classes/AdminMenu.php:71
+#: dq-includes/osclass/classes/AdminMenu.php:76
+msgid "Market"
+msgstr ""
+
+#: dq-admin/themes/modern/appearance/index.php:74
+#: dq-admin/themes/modern/appearance/index.php:90
+msgid "Available themes"
+msgstr ""
+
+#: dq-admin/themes/modern/appearance/index.php:77
+msgid "Current theme"
+msgstr ""
+
+#: dq-admin/themes/modern/appearance/index.php:113
+#: dq-admin/themes/modern/appearance/index.php:228
+#: dq-admin/themes/modern/languages/index.php:272
+#: dq-admin/themes/modern/market/header.php:33
+#: dq-admin/themes/modern/plugins/configuration.php:88
+#: dq-admin/themes/modern/plugins/index.php:317
+msgid "Update"
+msgstr ""
+
+#: dq-admin/themes/modern/appearance/index.php:174
+msgid "This action can not be undone. Are you sure you want to delete the theme?"
+msgstr ""
+
+#: dq-admin/themes/modern/appearance/index.php:195
+#: dq-admin/themes/modern/languages/index.php:239
+#: dq-admin/themes/modern/market/header.php:29
+#: dq-admin/themes/modern/plugins/index.php:285
+msgid "Please wait until the download is completed"
+msgstr ""
+
+#: dq-admin/themes/modern/appearance/index.php:195
+#: dq-admin/themes/modern/languages/index.php:239
+#: dq-admin/themes/modern/market/header.php:30
+#: dq-admin/themes/modern/plugins/index.php:285
+msgid "Downloading"
+msgstr ""
+
+#: dq-admin/themes/modern/appearance/index.php:202
+#: dq-admin/themes/modern/languages/index.php:246
+#: dq-admin/themes/modern/market/header.php:46
+msgid "The theme has been downloaded correctly, proceed to activate or preview it."
+msgstr ""
+
+#: dq-admin/themes/modern/appearance/index.php:204
+#: dq-admin/themes/modern/languages/index.php:248
+#: dq-admin/themes/modern/market/header.php:27
+msgid "Ok"
+msgstr ""
+
+#: dq-admin/themes/modern/appearance/index.php:205
+#: dq-admin/themes/modern/appearance/index.php:208
+#: dq-admin/themes/modern/languages/index.php:249
+#: dq-admin/themes/modern/languages/index.php:252
+#: dq-admin/themes/modern/market/header.php:31
+#: dq-admin/themes/modern/plugins/index.php:294
+#: dq-admin/themes/modern/plugins/index.php:297
+#: dq-admin/themes/modern/settings/locations.php:127
+#: dq-admin/themes/modern/settings/locations.php:356
+#: dq-admin/themes/modern/settings/media.php:335
+msgid "Close"
+msgstr ""
+
+#: dq-admin/themes/modern/appearance/widgets.php:24
+msgid "Modify your site's header or footer here. Only works with compatible themes, such as those available in the market."
+msgstr ""
+
+#: dq-admin/themes/modern/appearance/widgets.php:43
+msgid "Delete widget"
+msgstr ""
+
+#: dq-admin/themes/modern/appearance/widgets.php:67
+msgid "Manage Widgets"
+msgstr ""
+
+#: dq-admin/themes/modern/appearance/widgets.php:75
+msgid "Section: %s"
+msgstr ""
+
+#: dq-admin/themes/modern/appearance/widgets.php:75
+msgid "Add HTML widget"
+msgstr ""
+
+#: dq-admin/themes/modern/appearance/widgets.php:84
+msgid "Widget"
+msgstr ""
+
+#: dq-admin/themes/modern/appearance/widgets.php:85
+msgid "Description: %s"
+msgstr ""
+
+#: dq-admin/themes/modern/appearance/widgets.php:109
+msgid "Current theme does not support widgets"
+msgstr ""
+
+#: dq-admin/themes/modern/appearance/widgets.php:125
+msgid "Are you sure you want to delete this widget?"
+msgstr ""
+
+#: dq-admin/themes/modern/categories/iframe.php:24
+msgid "Edit category"
+msgstr ""
+
+#: dq-admin/themes/modern/categories/iframe.php:33
+msgid "Expiration dates"
+msgstr ""
+
+#: dq-admin/themes/modern/categories/iframe.php:36
+msgid "If the value is zero, it means this category doesn't have an expiration"
+msgstr ""
+
+#: dq-admin/themes/modern/categories/iframe.php:37
+msgid "Enable / Disable the price field"
+msgstr ""
+
+#: dq-admin/themes/modern/categories/iframe.php:41
+msgid "Apply the expiration date and price field changes to children categories"
+msgstr ""
+
+#: dq-admin/themes/modern/categories/iframe.php:93
+#: dq-admin/themes/modern/categories/index.php:151
+msgid "Ajax error, please try again."
+msgstr ""
+
+#: dq-admin/themes/modern/categories/index.php:25
+msgid "Add, edit or delete the categories or subcategories in which users can post listings. Reorder sections by dragging and dropping, or nest a subcategory in an expanded category. <strong>Be careful</strong>: If you delete a category, all listings associated will also be deleted!"
+msgstr ""
+
+#: dq-admin/themes/modern/categories/index.php:30
+#: dq-includes/osclass/classes/AdminMenu.php:86
+msgid "Categories"
+msgstr ""
+
+#: dq-admin/themes/modern/categories/index.php:39
+msgid "Categories &raquo; %s"
+msgstr ""
+
+#: dq-admin/themes/modern/categories/index.php:100
+msgid "Note: You must expand the category in order to make it a subcategory."
+msgstr ""
+
+#: dq-admin/themes/modern/categories/index.php:106
+#: dq-admin/themes/modern/categories/index.php:255
+msgid "This action could take a while."
+msgstr ""
+
+#: dq-admin/themes/modern/categories/index.php:211
+#: dq-admin/themes/modern/categories/index.php:308
+#: dq-admin/themes/modern/fields/iframe.php:141
+#: dq-admin/themes/modern/fields/index.php:116
+msgid "Ajax error, try again."
+msgstr ""
+
+#: dq-admin/themes/modern/categories/index.php:364
+msgid "Drag&drop the categories to reorder them the way you like. Click on edit link to edit the category"
+msgstr ""
+
+#: dq-admin/themes/modern/categories/index.php:379
+msgid "Delete category"
+msgstr ""
+
+#: dq-admin/themes/modern/categories/index.php:382
+msgid "<strong>WARNING</strong>: This will also delete the listings under that category. This action cannot be undone. Are you sure you want to continue?"
+msgstr ""
+
+#: dq-admin/themes/modern/comments/frm.php:26
+msgid "Edit comment"
+msgstr ""
+
+#: dq-admin/themes/modern/comments/frm.php:28
+msgid "Update comment"
+msgstr ""
+
+#: dq-admin/themes/modern/comments/frm.php:31
+msgid "Add comment"
+msgstr ""
+
+#: dq-admin/themes/modern/comments/frm.php:37
+#: dq-admin/themes/modern/comments/index.php:25
+#: dq-admin/themes/modern/fields/index.php:31
+#: dq-admin/themes/modern/items/frm.php:31
+#: dq-admin/themes/modern/items/frm.php:35
+#: dq-admin/themes/modern/items/index.php:27
+#: dq-admin/themes/modern/items/settings.php:51
+#: dq-admin/themes/modern/main/index.php:193
+#: dq-admin/themes/modern/main/index.php:198
+#: dq-includes/osclass/classes/AdminMenu.php:56
+msgid "Listing"
+msgstr ""
+
+#: dq-admin/themes/modern/comments/frm.php:43
+msgid "Edit comment &raquo; %s"
+msgstr ""
+
+#: dq-admin/themes/modern/comments/frm.php:65
+#: dq-admin/themes/modern/emails/index.php:46
+#: dq-admin/themes/modern/functions.php:140
+#: dq-admin/themes/modern/stats/comments.php:173
+#: dq-includes/osclass/classes/datatables/ItemsDataTable.php:141
+#: dq-includes/osclass/classes/datatables/ItemsDataTable.php:202
+#: dq-includes/osclass/classes/datatables/PagesDataTable.php:60
+#: dq-includes/osclass/emails.php:767
+#: dq-includes/osclass/emails.php:772
+#: dq-includes/osclass/emails.php:853
+#: dq-includes/osclass/emails.php:858
+#: dq-includes/osclass/emails.php:948
+#: dq-includes/osclass/emails.php:953
+#: dq-includes/osclass/frm/Item.form.class.php:419
+#: dq-includes/osclass/frm/Page.form.class.php:61
+msgid "Title"
+msgstr ""
+
+#: dq-admin/themes/modern/comments/frm.php:75
+msgid "Registered user"
+msgstr ""
+
+#: dq-admin/themes/modern/comments/frm.php:76
+#: dq-admin/themes/modern/users/frm.php:33
+msgid "Edit user"
+msgstr ""
+
+#: dq-admin/themes/modern/comments/frm.php:81
+msgid "Author's e-mail"
+msgstr ""
+
+#: dq-admin/themes/modern/comments/frm.php:87
+#: dq-admin/themes/modern/comments/frm.php:95
+#: dq-includes/osclass/classes/datatables/CommentsDataTable.php:75
+#: dq-includes/osclass/classes/datatables/ItemsDataTable.php:139
+#: dq-includes/osclass/classes/datatables/UsersDataTable.php:65
+msgid "Status"
+msgstr ""
+
+#: dq-admin/themes/modern/comments/frm.php:90
+#: dq-admin/themes/modern/items/index.php:247
+#: dq-admin/themes/modern/users/index.php:179
+#: dq-includes/osclass/classes/datatables/CommentsDataTable.php:217
+#: dq-includes/osclass/classes/datatables/ItemsDataTable.php:571
+#: dq-includes/osclass/classes/datatables/UsersDataTable.php:261
+msgid "Active"
+msgstr ""
+
+#: dq-admin/themes/modern/comments/frm.php:90
+#: dq-includes/osclass/classes/datatables/CommentsDataTable.php:211
+#: dq-includes/osclass/classes/datatables/ItemsDataTable.php:558
+#: dq-includes/osclass/classes/datatables/UsersDataTable.php:255
+msgid "Inactive"
+msgstr ""
+
+#: dq-admin/themes/modern/comments/frm.php:98
+msgid "Unblocked"
+msgstr ""
+
+#: dq-admin/themes/modern/comments/frm.php:98
+#: dq-includes/osclass/classes/datatables/CommentsDataTable.php:204
+#: dq-includes/osclass/classes/datatables/ItemsDataTable.php:551
+#: dq-includes/osclass/classes/datatables/UsersDataTable.php:248
+msgid "Blocked"
+msgstr ""
+
+#: dq-admin/themes/modern/comments/frm.php:103
+#: dq-admin/themes/modern/stats/comments.php:175
+#: dq-includes/osclass/classes/datatables/CommentsDataTable.php:78
+msgid "Comment"
+msgstr ""
+
+#: dq-admin/themes/modern/comments/index.php:20
+msgid "Manage the comments that users publish on the listings on your site. You can also edit, delete, activate or block comments."
+msgstr ""
+
+#: dq-admin/themes/modern/comments/index.php:26
+#: dq-admin/themes/modern/emails/frm.php:22
+#: dq-admin/themes/modern/emails/index.php:25
+#: dq-admin/themes/modern/items/settings.php:73
+#: dq-admin/themes/modern/languages/add.php:21
+#: dq-admin/themes/modern/languages/frm.php:23
+#: dq-admin/themes/modern/languages/index.php:25
+#: dq-admin/themes/modern/settings/advanced.php:42
+#: dq-admin/themes/modern/settings/comments.php:86
+#: dq-admin/themes/modern/settings/currencies.php:25
+#: dq-admin/themes/modern/settings/currency_form.php:67
+#: dq-admin/themes/modern/settings/index.php:132
+#: dq-admin/themes/modern/settings/locations.php:158
+#: dq-admin/themes/modern/settings/mailserver.php:72
+#: dq-admin/themes/modern/settings/media.php:154
+#: dq-admin/themes/modern/settings/permalinks.php:366
+#: dq-admin/themes/modern/settings/searches.php:76
+#: dq-admin/themes/modern/settings/spamNbots.php:30
+#: dq-admin/themes/modern/users/settings.php:46
+#: dq-includes/osclass/classes/AdminMenu.php:62
+#: dq-includes/osclass/classes/AdminMenu.php:84
+msgid "Settings"
+msgstr ""
+
+#: dq-admin/themes/modern/comments/index.php:34
+msgid "Comments &raquo; %s"
+msgstr ""
+
+#: dq-admin/themes/modern/comments/index.php:112
+#: dq-admin/themes/modern/stats/comments.php:78
+#: dq-admin/themes/modern/stats/comments.php:150
+#: dq-includes/osclass/classes/AdminMenu.php:60
+#: dq-includes/osclass/classes/AdminMenu.php:82
+#: dq-includes/osclass/classes/AdminMenu.php:87
+msgid "Comments"
+msgstr ""
+
+#: dq-admin/themes/modern/comments/index.php:117
+msgid "Hidden comments"
+msgstr ""
+
+#: dq-admin/themes/modern/comments/index.php:119
+msgid "All comments"
+msgstr ""
+
+#: dq-admin/themes/modern/comments/index.php:171
+msgid "Delete comment"
+msgstr ""
+
+#: dq-admin/themes/modern/comments/index.php:177
+msgid "Are you sure you want to delete this comment?"
+msgstr ""
+
+#: dq-admin/themes/modern/emails/frm.php:85
+#: dq-admin/themes/modern/emails/frm.php:181
+msgid "Send email"
+msgstr ""
+
+#: dq-admin/themes/modern/emails/frm.php:119
+msgid "Edit email template &raquo; %s"
+msgstr ""
+
+#: dq-admin/themes/modern/emails/frm.php:132
+msgid "Edit email template"
+msgstr ""
+
+#: dq-admin/themes/modern/emails/frm.php:149
+#: dq-admin/themes/modern/pages/frm.php:124
+#: dq-includes/osclass/classes/datatables/PagesDataTable.php:59
+msgid "Internal name"
+msgstr ""
+
+#: dq-admin/themes/modern/emails/frm.php:152
+msgid "Used to identify the email template"
+msgstr ""
+
+#: dq-admin/themes/modern/emails/frm.php:162
+msgid "Test it"
+msgstr ""
+
+#: dq-admin/themes/modern/emails/frm.php:168
+msgid "Legend"
+msgstr ""
+
+#: dq-admin/themes/modern/emails/index.php:20
+msgid "Modify the emails your site's users receive when they join your site, when someone shows interest in their ad, to recover their password... <strong>Be careful</strong>: don't modify any of the words that appear within brackets."
+msgstr ""
+
+#: dq-admin/themes/modern/emails/index.php:33
+msgid "Email templates &raquo; %s"
+msgstr ""
+
+#: dq-admin/themes/modern/emails/index.php:40
+msgid "Emails templates"
+msgstr ""
+
+#: dq-admin/themes/modern/fields/iframe.php:31
+msgid "Edit custom field"
+msgstr ""
+
+#: dq-admin/themes/modern/fields/iframe.php:37
+msgid "Type"
+msgstr ""
+
+#: dq-admin/themes/modern/fields/iframe.php:41
+msgid "Options"
+msgstr ""
+
+#: dq-admin/themes/modern/fields/iframe.php:44
+msgid "Separate options with commas"
+msgstr ""
+
+#: dq-admin/themes/modern/fields/iframe.php:49
+msgid "This field is required"
+msgstr ""
+
+#: dq-admin/themes/modern/fields/iframe.php:52
+msgid "Select the categories where you want to apply this attribute:"
+msgstr ""
+
+#: dq-admin/themes/modern/fields/iframe.php:55
+#: dq-admin/themes/modern/plugins/configuration.php:77
+msgid "Check all"
+msgstr ""
+
+#: dq-admin/themes/modern/fields/iframe.php:56
+#: dq-admin/themes/modern/plugins/configuration.php:78
+msgid "Uncheck all"
+msgstr ""
+
+#: dq-admin/themes/modern/fields/iframe.php:67
+msgid "Advanced options"
+msgstr ""
+
+#: dq-admin/themes/modern/fields/iframe.php:71
+msgid "Identifier name"
+msgstr ""
+
+#: dq-admin/themes/modern/fields/iframe.php:74
+msgid "Only alphanumeric characters are allowed [a-z0-9_-]"
+msgstr ""
+
+#: dq-admin/themes/modern/fields/iframe.php:79
+msgid "Tick to allow searches by this field"
+msgstr ""
+
+#: dq-admin/themes/modern/fields/iframe.php:111
+msgid "At least one option is required."
+msgstr ""
+
+#: dq-admin/themes/modern/fields/index.php:26
+msgid "Create new fields for users to fill out when they publish a listing. You can require extra  information such as the number of bedrooms in real estate listings or fuel type in car listings, for example."
+msgstr ""
+
+#: dq-admin/themes/modern/fields/index.php:33
+msgid "Add custom field"
+msgstr ""
+
+#: dq-admin/themes/modern/fields/index.php:149
+msgid "Custom field could not be added"
+msgstr ""
+
+#: dq-admin/themes/modern/fields/index.php:182
+msgid "Custom fields &raquo; %s"
+msgstr ""
+
+#: dq-admin/themes/modern/fields/index.php:189
+#: dq-includes/osclass/classes/AdminMenu.php:61
+msgid "Custom fields"
+msgstr ""
+
+#: dq-admin/themes/modern/fields/index.php:198
+msgid "You don't have any custom fields yet"
+msgstr ""
+
+#: dq-admin/themes/modern/fields/index.php:222
+msgid "Delete custom field"
+msgstr ""
+
+#: dq-admin/themes/modern/fields/index.php:225
+msgid "Are you sure you want to delete this custom field?"
+msgstr ""
+
+#: dq-admin/themes/modern/functions.php:63
+msgid "Thank you for using <a href=\"%s\" target=\"_blank\">Osclass</a>"
+msgstr ""
+
+#: dq-admin/themes/modern/functions.php:64
+msgid "Documentation"
+msgstr ""
+
+#: dq-admin/themes/modern/functions.php:65
+#: dq-includes/osclass/install.php:244
+msgid "Forums"
+msgstr ""
+
+#: dq-admin/themes/modern/functions.php:66
+#: dq-includes/osclass/install.php:241
+msgid "Feedback"
+msgstr ""
+
+#: dq-admin/themes/modern/functions.php:123
+#: dq-admin/themes/modern/functions.php:152
+msgid "Enter title here"
+msgstr ""
+
+#: dq-admin/themes/modern/functions.php:164
+#: dq-admin/themes/modern/functions.php:189
+#: dq-admin/themes/modern/languages/frm.php:64
+#: dq-admin/themes/modern/languages/index.php:129
+#: dq-admin/themes/modern/plugins/index.php:115
+#: dq-admin/themes/modern/plugins/index.php:187
+#: dq-admin/themes/modern/settings/currencies.php:143
+#: dq-includes/osclass/emails.php:768
+#: dq-includes/osclass/emails.php:773
+#: dq-includes/osclass/emails.php:854
+#: dq-includes/osclass/emails.php:859
+#: dq-includes/osclass/emails.php:949
+#: dq-includes/osclass/emails.php:954
+#: dq-includes/osclass/frm/Category.form.class.php:119
+#: dq-includes/osclass/frm/Item.form.class.php:430
+msgid "Description"
+msgstr ""
+
+#: dq-admin/themes/modern/functions.php:264
+msgid "downloads"
+msgstr ""
+
+#: dq-admin/themes/modern/functions.php:267
+#: dq-admin/themes/modern/settings/locations.php:128
+#: dq-admin/themes/modern/settings/locations.php:362
+msgid "View more"
+msgstr ""
+
+#: dq-admin/themes/modern/functions.php:268
+#: dq-admin/themes/modern/market/header.php:32
+msgid "Download"
+msgstr ""
+
+#: dq-admin/themes/modern/items/frm.php:32
+#: dq-admin/themes/modern/items/frm.php:33
+#: dq-admin/themes/modern/items/index.php:30
+msgid "Add listing"
+msgstr ""
+
+#: dq-admin/themes/modern/items/frm.php:36
+msgid "Edit listing"
+msgstr ""
+
+#: dq-admin/themes/modern/items/frm.php:37
+msgid "Update listing"
+msgstr ""
+
+#: dq-admin/themes/modern/items/frm.php:169
+#: dq-admin/themes/modern/items/index.php:190
+#: dq-includes/osclass/classes/datatables/ItemsDataTable.php:143
+msgid "Category"
+msgstr ""
+
+#: dq-admin/themes/modern/items/frm.php:177
+#: dq-admin/themes/modern/items/settings.php:186
+msgid "Price"
+msgstr ""
+
+#: dq-admin/themes/modern/items/frm.php:185
+msgid "Photos"
+msgstr ""
+
+#: dq-admin/themes/modern/items/frm.php:190
+msgid "optional"
+msgstr ""
+
+#: dq-admin/themes/modern/items/frm.php:194
+msgid "Add new photo"
+msgstr ""
+
+#: dq-admin/themes/modern/items/frm.php:206
+#: dq-includes/osclass/classes/datatables/ItemsDataTable.php:142
+#: dq-includes/osclass/classes/datatables/ItemsDataTable.php:203
+#: dq-includes/osclass/frm/User.form.class.php:151
+msgid "User"
+msgstr ""
+
+#: dq-admin/themes/modern/items/frm.php:218
+msgid "Ip Address"
+msgstr ""
+
+#: dq-admin/themes/modern/items/frm.php:226
+#: dq-admin/themes/modern/users/frm.php:260
+#: dq-includes/osclass/classes/datatables/ItemsDataTable.php:144
+#: dq-includes/osclass/install-functions.php:776
+msgid "Location"
+msgstr ""
+
+#: dq-admin/themes/modern/items/frm.php:228
+#: dq-admin/themes/modern/items/index.php:198
+#: dq-admin/themes/modern/settings/locations.php:184
+#: dq-admin/themes/modern/settings/locations.php:208
+#: dq-admin/themes/modern/stats/users.php:135
+#: dq-admin/themes/modern/users/frm.php:262
+#: dq-admin/themes/modern/users/index.php:195
+msgid "Country"
+msgstr ""
+
+#: dq-admin/themes/modern/items/frm.php:232
+#: dq-admin/themes/modern/items/index.php:206
+#: dq-admin/themes/modern/settings/locations.php:240
+#: dq-admin/themes/modern/settings/locations.php:263
+#: dq-admin/themes/modern/stats/users.php:147
+#: dq-admin/themes/modern/users/frm.php:268
+#: dq-admin/themes/modern/users/index.php:204
+msgid "Region"
+msgstr ""
+
+#: dq-admin/themes/modern/items/frm.php:236
+#: dq-admin/themes/modern/items/index.php:214
+#: dq-admin/themes/modern/settings/locations.php:297
+#: dq-admin/themes/modern/settings/locations.php:320
+#: dq-admin/themes/modern/users/frm.php:274
+#: dq-admin/themes/modern/users/index.php:213
+msgid "City"
+msgstr ""
+
+#: dq-admin/themes/modern/items/frm.php:240
+#: dq-admin/themes/modern/users/frm.php:280
+msgid "City area"
+msgstr ""
+
+#: dq-admin/themes/modern/items/frm.php:244
+#: dq-admin/themes/modern/users/frm.php:286
+msgid "Address"
+msgstr ""
+
+#: dq-admin/themes/modern/items/frm.php:250
+msgid "Expiration"
+msgstr ""
+
+#: dq-admin/themes/modern/items/frm.php:253
+msgid "Expire in X days"
+msgstr ""
+
+#: dq-admin/themes/modern/items/frm.php:258
+msgid "Update expiration?"
+msgstr ""
+
+#: dq-admin/themes/modern/items/frm.php:263
+msgid "It could be an integer (days from now it will be expired, 0 to never expire) or a date in the format \"yyyy-mm-dd hh:mm:ss\""
+msgstr ""
+
+#: dq-admin/themes/modern/items/index.php:22
+msgid "Manage all the listings on your site: edit, delete or block the latest listings published. You can also filter by several parameters: user, region, city, etc."
+msgstr ""
+
+#: dq-admin/themes/modern/items/index.php:37
+msgid "Manage listings &raquo; %s"
+msgstr ""
+
+#: dq-admin/themes/modern/items/index.php:85
+#: dq-admin/themes/modern/items/reported.php:58
+msgid "Delete listing"
+msgstr ""
+
+#: dq-admin/themes/modern/items/index.php:126
+#: dq-admin/themes/modern/users/index.php:85
+msgid "Filters"
+msgstr ""
+
+#: dq-admin/themes/modern/items/index.php:182
+#: dq-admin/themes/modern/items/index.php:324
+msgid "Pattern"
+msgstr ""
+
+#: dq-admin/themes/modern/items/index.php:226
+#: dq-admin/themes/modern/items/index.php:325
+#: dq-admin/themes/modern/users/index.php:155
+msgid "Email"
+msgstr ""
+
+#: dq-admin/themes/modern/items/index.php:235
+#: dq-includes/osclass/classes/datatables/ItemsDataTable.php:565
+msgid "Premium"
+msgstr ""
+
+#: dq-admin/themes/modern/items/index.php:239
+#: dq-admin/themes/modern/items/index.php:251
+#: dq-admin/themes/modern/items/index.php:263
+#: dq-admin/themes/modern/items/index.php:275
+#: dq-admin/themes/modern/users/index.php:183
+#: dq-admin/themes/modern/users/index.php:226
+msgid "Choose an option"
+msgstr ""
+
+#: dq-admin/themes/modern/items/index.php:240
+#: dq-admin/themes/modern/items/index.php:252
+#: dq-admin/themes/modern/items/index.php:264
+#: dq-admin/themes/modern/items/index.php:276
+#: dq-admin/themes/modern/tools/maintenance.php:54
+#: dq-admin/themes/modern/users/index.php:184
+#: dq-admin/themes/modern/users/index.php:227
+msgid "ON"
+msgstr ""
+
+#: dq-admin/themes/modern/items/index.php:241
+#: dq-admin/themes/modern/items/index.php:253
+#: dq-admin/themes/modern/items/index.php:265
+#: dq-admin/themes/modern/items/index.php:277
+#: dq-admin/themes/modern/tools/maintenance.php:54
+#: dq-admin/themes/modern/users/index.php:185
+#: dq-admin/themes/modern/users/index.php:228
+msgid "OFF"
+msgstr ""
+
+#: dq-admin/themes/modern/items/index.php:271
+#: dq-admin/themes/modern/stats/reports.php:73
+#: dq-includes/osclass/classes/datatables/ItemsDataTable.php:204
+#: dq-includes/osclass/classes/datatables/ItemsDataTable.php:544
+#: dq-includes/osclass/functions.php:559
+msgid "Spam"
+msgstr ""
+
+#: dq-admin/themes/modern/items/index.php:289
+#: dq-admin/themes/modern/users/index.php:239
+msgid "Apply filters"
+msgstr ""
+
+#: dq-admin/themes/modern/items/index.php:290
+#: dq-admin/themes/modern/items/index.php:314
+#: dq-admin/themes/modern/items/reported.php:129
+#: dq-admin/themes/modern/users/index.php:240
+msgid "Reset filters"
+msgstr ""
+
+#: dq-admin/themes/modern/items/index.php:294
+#: dq-includes/osclass/classes/AdminMenu.php:57
+msgid "Manage listings"
+msgstr ""
+
+#: dq-admin/themes/modern/items/index.php:304
+#: dq-admin/themes/modern/items/index.php:305
+#: dq-admin/themes/modern/items/index.php:306
+#: dq-admin/themes/modern/items/index.php:307
+#: dq-admin/themes/modern/items/reported.php:122
+#: dq-admin/themes/modern/items/reported.php:123
+#: dq-admin/themes/modern/items/reported.php:124
+#: dq-admin/themes/modern/items/reported.php:125
+msgid "%d Listings"
+msgstr ""
+
+#: dq-admin/themes/modern/items/index.php:316
+#: dq-admin/themes/modern/users/index.php:262
+msgid "Show filters"
+msgstr ""
+
+#: dq-admin/themes/modern/items/index.php:326
+msgid "Item ID"
+msgstr ""
+
+#: dq-admin/themes/modern/items/index.php:340
+#: dq-admin/themes/modern/users/alerts.php:136
+#: dq-admin/themes/modern/users/index.php:265
+msgid "Find"
+msgstr ""
+
+#: dq-admin/themes/modern/items/index.php:398
+#: dq-admin/themes/modern/items/reported.php:190
+msgid "Are you sure you want to delete this listing?"
+msgstr ""
+
+#: dq-admin/themes/modern/items/reported.php:20
+msgid "From here, you can edit or delete the listings reported by users (spam, misclassified, duplicate, expired, offensive). You can also delete the report if you consider it mistaken."
+msgstr ""
+
+#: dq-admin/themes/modern/items/reported.php:25
+#: dq-admin/themes/modern/main/index.php:52
+#: dq-admin/themes/modern/main/index.php:193
+#: dq-admin/themes/modern/main/index.php:198
+#: dq-includes/osclass/classes/AdminMenu.php:79
+msgid "Listings"
+msgstr ""
+
+#: dq-admin/themes/modern/items/reported.php:33
+msgid "Reported listings &raquo; %s"
+msgstr ""
+
+#: dq-admin/themes/modern/items/reported.php:112
+#: dq-includes/osclass/classes/AdminMenu.php:58
+msgid "Reported listings"
+msgstr ""
+
+#: dq-admin/themes/modern/items/reported.php:140
+msgid "Are you sure you want to %s the selected items?"
+msgstr ""
+
+#: dq-admin/themes/modern/items/reported.php:141
+msgid "Are you sure you want to clear all the reportings of the selected items?"
+msgstr ""
+
+#: dq-admin/themes/modern/items/reported.php:141
+#: dq-includes/osclass/classes/datatables/ItemsDataTable.php:328
+msgid "Clear All"
+msgstr ""
+
+#: dq-admin/themes/modern/items/reported.php:142
+msgid "Are you sure you want to clear the spam reportings of the selected items?"
+msgstr ""
+
+#: dq-admin/themes/modern/items/reported.php:142
+#: dq-includes/osclass/classes/datatables/ItemsDataTable.php:330
+msgid "Clear Spam"
+msgstr ""
+
+#: dq-admin/themes/modern/items/reported.php:143
+msgid "Are you sure you want to clear the misclassified reportings of the selected items?"
+msgstr ""
+
+#: dq-admin/themes/modern/items/reported.php:143
+msgid "Clear Missclassified"
+msgstr ""
+
+#: dq-admin/themes/modern/items/reported.php:144
+msgid "Are you sure you want to clear the duplicated reportings of the selected items?"
+msgstr ""
+
+#: dq-admin/themes/modern/items/reported.php:144
+#: dq-includes/osclass/classes/datatables/ItemsDataTable.php:336
+msgid "Clear Duplicated"
+msgstr ""
+
+#: dq-admin/themes/modern/items/reported.php:145
+msgid "Are you sure you want to clear the expired reportings of the selected items?"
+msgstr ""
+
+#: dq-admin/themes/modern/items/reported.php:145
+#: dq-includes/osclass/classes/datatables/ItemsDataTable.php:342
+msgid "Clear Expired"
+msgstr ""
+
+#: dq-admin/themes/modern/items/reported.php:146
+msgid "Are you sure you want to clear the offensive reportings of the selected items?"
+msgstr ""
+
+#: dq-admin/themes/modern/items/reported.php:146
+#: dq-includes/osclass/classes/datatables/ItemsDataTable.php:339
+msgid "Clear Offensive"
+msgstr ""
+
+#: dq-admin/themes/modern/items/settings.php:20
+msgid "Modify the general settings for your listings. Decide if users have to register in order to publish something, the number of pictures allowed for each listing, etc."
+msgstr ""
+
+#: dq-admin/themes/modern/items/settings.php:58
+msgid "Listing Settings &raquo; %s"
+msgstr ""
+
+#: dq-admin/themes/modern/items/settings.php:66
+msgid "Listing Settings"
+msgstr ""
+
+#: dq-admin/themes/modern/items/settings.php:78
+msgid "Only logged in users can post listings"
+msgstr ""
+
+#: dq-admin/themes/modern/items/settings.php:82
+msgid "An user has to wait %s seconds between each listing added"
+msgstr ""
+
+#: dq-admin/themes/modern/items/settings.php:84
+msgid "If the value is set to zero, there is no wait period"
+msgstr ""
+
+#: dq-admin/themes/modern/items/settings.php:90
+msgid "Users have to validate their listings"
+msgstr ""
+
+#: dq-admin/themes/modern/items/settings.php:95
+msgid "After %s validated listings the user doesn't need to validate the listings any more"
+msgstr ""
+
+#: dq-admin/themes/modern/items/settings.php:97
+msgid "If the value is zero, it means that each listing must be validated"
+msgstr ""
+
+#: dq-admin/themes/modern/items/settings.php:103
+msgid "Logged in users don't need to validate their listings"
+msgstr ""
+
+#: dq-admin/themes/modern/items/settings.php:110
+msgid "Show reCAPTCHA in add/edit listing form"
+msgstr ""
+
+#: dq-admin/themes/modern/items/settings.php:112
+msgid "<strong>Remember</strong> that you must configure reCAPTCHA first"
+msgstr ""
+
+#: dq-admin/themes/modern/items/settings.php:117
+#: dq-includes/osclass/classes/Breadcrumb.php:325
+msgid "Contact publisher"
+msgstr ""
+
+#: dq-admin/themes/modern/items/settings.php:122
+msgid "Only allow registered users to contact publisher"
+msgstr ""
+
+#: dq-admin/themes/modern/items/settings.php:128
+msgid "Allow attached files in contact publisher form"
+msgstr ""
+
+#: dq-admin/themes/modern/items/settings.php:134
+#: dq-admin/themes/modern/settings/comments.php:139
+msgid "Notifications"
+msgstr ""
+
+#: dq-admin/themes/modern/items/settings.php:139
+msgid "Notify admin when a new listing is added"
+msgstr ""
+
+#: dq-admin/themes/modern/items/settings.php:145
+msgid "Send admin a copy of the \"contact publisher\" email"
+msgstr ""
+
+#: dq-admin/themes/modern/items/settings.php:151
+msgid "Send admin a copy to \"share listing\" email"
+msgstr ""
+
+#: dq-admin/themes/modern/items/settings.php:157
+msgid "Warn about expiration"
+msgstr ""
+
+#: dq-admin/themes/modern/items/settings.php:160
+msgid "days"
+msgstr ""
+
+#: dq-admin/themes/modern/items/settings.php:162
+msgid "This option will send an email X days before an ad expires to the author. 0 for no email."
+msgstr ""
+
+#: dq-admin/themes/modern/items/settings.php:165
+msgid "Title length"
+msgstr ""
+
+#: dq-admin/themes/modern/items/settings.php:168
+#: dq-admin/themes/modern/items/settings.php:176
+msgid "%s characters "
+msgstr ""
+
+#: dq-admin/themes/modern/items/settings.php:173
+msgid "Description length"
+msgstr ""
+
+#: dq-admin/themes/modern/items/settings.php:181
+msgid "Optional fields"
+msgstr ""
+
+#: dq-admin/themes/modern/items/settings.php:191
+msgid "Attach images"
+msgstr ""
+
+#: dq-admin/themes/modern/items/settings.php:195
+msgid "Attach %s images per listing"
+msgstr ""
+
+#: dq-admin/themes/modern/items/settings.php:196
+msgid "If the value is zero, it means an unlimited number of images is allowed"
+msgstr ""
+
+#: dq-admin/themes/modern/languages/add.php:26
+msgid "Add language &raquo; %s"
+msgstr ""
+
+#: dq-admin/themes/modern/languages/add.php:32
+#: dq-admin/themes/modern/languages/index.php:27
+msgid "Add language"
+msgstr ""
+
+#: dq-admin/themes/modern/languages/add.php:37
+msgid "Download more languages at %s"
+msgstr ""
+
+#: dq-admin/themes/modern/languages/add.php:44
+msgid "Language package (.zip)"
+msgstr ""
+
+#: dq-admin/themes/modern/languages/add.php:56
+msgid "Can't install a new language"
+msgstr ""
+
+#: dq-admin/themes/modern/languages/add.php:59
+msgid "The translations folder is not writable on your server so you can't upload translations from the administration panel. Please make the translation folder writable and try again."
+msgstr ""
+
+#: dq-admin/themes/modern/languages/frm.php:29
+msgid "Edit language &raquo; %s"
+msgstr ""
+
+#: dq-admin/themes/modern/languages/frm.php:42
+msgid "Edit language"
+msgstr ""
+
+#: dq-admin/themes/modern/languages/frm.php:58
+#: dq-admin/themes/modern/languages/index.php:128
+msgid "Short name"
+msgstr ""
+
+#: dq-admin/themes/modern/languages/frm.php:70
+msgid "Currency format"
+msgstr ""
+
+#: dq-admin/themes/modern/languages/frm.php:76
+msgid "Number of decimals"
+msgstr ""
+
+#: dq-admin/themes/modern/languages/frm.php:82
+msgid "Decimal point"
+msgstr ""
+
+#: dq-admin/themes/modern/languages/frm.php:88
+msgid "Thousands separator"
+msgstr ""
+
+#: dq-admin/themes/modern/languages/frm.php:94
+msgid "Date format"
+msgstr ""
+
+#: dq-admin/themes/modern/languages/frm.php:100
+msgid "Stopwords"
+msgstr ""
+
+#: dq-admin/themes/modern/languages/frm.php:107
+msgid "Enabled for the public website"
+msgstr ""
+
+#: dq-admin/themes/modern/languages/frm.php:108
+msgid "Enabled for the backoffice (dq-admin)"
+msgstr ""
+
+#: dq-admin/themes/modern/languages/index.php:20
+msgid "Add, edit or delete the language in which your Osclass is displayed, both the part that's viewable by users and the admin panel."
+msgstr ""
+
+#: dq-admin/themes/modern/languages/index.php:34
+msgid "Languages &raquo; %s"
+msgstr ""
+
+#: dq-admin/themes/modern/languages/index.php:58
+msgid "Delete language"
+msgstr ""
+
+#: dq-admin/themes/modern/languages/index.php:107
+msgid "Manage Languages"
+msgstr ""
+
+#: dq-admin/themes/modern/languages/index.php:130
+msgid "Enabled (website)"
+msgstr ""
+
+#: dq-admin/themes/modern/languages/index.php:131
+msgid "Enabled (dq-admin)"
+msgstr ""
+
+#: dq-admin/themes/modern/languages/index.php:171
+msgid "Are you sure you want to delete this language?"
+msgstr ""
+
+#: dq-admin/themes/modern/main/index.php:30
+#: dq-includes/osclass/classes/AdminMenu.php:54
+#: dq-includes/osclass/classes/Breadcrumb.php:328
+#: dq-includes/osclass/functions.php:266
+#: dq-includes/osclass/helpers/hUtils.php:171
+msgid "Dashboard"
+msgstr ""
+
+#: dq-admin/themes/modern/main/index.php:35
+msgid "Dashboard &raquo; %s"
+msgstr ""
+
+#: dq-admin/themes/modern/main/index.php:51
+#: dq-admin/themes/modern/main/index.php:106
+#: dq-admin/themes/modern/stats/comments.php:77
+#: dq-admin/themes/modern/stats/items.php:95
+#: dq-admin/themes/modern/stats/items.php:97
+#: dq-admin/themes/modern/stats/items.php:103
+#: dq-admin/themes/modern/stats/items.php:105
+#: dq-admin/themes/modern/stats/reports.php:72
+#: dq-admin/themes/modern/stats/users.php:84
+#: dq-includes/osclass/classes/datatables/AlertsDataTable.php:57
+#: dq-includes/osclass/classes/datatables/CommentsDataTable.php:79
+#: dq-includes/osclass/classes/datatables/ItemsDataTable.php:145
+#: dq-includes/osclass/classes/datatables/ItemsDataTable.php:209
+#: dq-includes/osclass/classes/datatables/MediaDataTable.php:81
+#: dq-includes/osclass/classes/datatables/UsersDataTable.php:70
+msgid "Date"
+msgstr ""
+
+#: dq-admin/themes/modern/main/index.php:107
+#: dq-admin/themes/modern/users/ban.php:25
+#: dq-admin/themes/modern/users/frm.php:47
+#: dq-admin/themes/modern/users/index.php:25
+#: dq-admin/themes/modern/users/settings.php:26
+#: dq-includes/osclass/classes/AdminMenu.php:81
+#: dq-includes/osclass/classes/AdminMenu.php:101
+#: dq-includes/osclass/classes/AdminMenu.php:102
+msgid "Users"
+msgstr ""
+
+#: dq-admin/themes/modern/main/index.php:181
+msgid "Listings by category"
+msgstr ""
+
+#: dq-admin/themes/modern/main/index.php:211
+msgid "There aren't any uploaded listing yet"
+msgstr ""
+
+#: dq-admin/themes/modern/main/index.php:220
+#: dq-admin/themes/modern/stats/comments.php:47
+#: dq-admin/themes/modern/stats/items.php:55
+#: dq-admin/themes/modern/stats/reports.php:44
+#: dq-admin/themes/modern/stats/users.php:50
+#: dq-includes/osclass/classes/AdminMenu.php:78
+msgid "Statistics"
+msgstr ""
+
+#: dq-admin/themes/modern/main/index.php:220
+#: dq-admin/themes/modern/main/index.php:223
+msgid "New listings"
+msgstr ""
+
+#: dq-admin/themes/modern/main/index.php:220
+#: dq-admin/themes/modern/main/index.php:229
+#: dq-admin/themes/modern/stats/users.php:85
+#: dq-admin/themes/modern/stats/users.php:182
+msgid "New users"
+msgstr ""
+
+#: dq-admin/themes/modern/main/index.php:224
+msgid "Total number of listings: %s"
+msgstr ""
+
+#: dq-admin/themes/modern/main/index.php:226
+msgid "Listing statistics"
+msgstr ""
+
+#: dq-admin/themes/modern/main/index.php:230
+msgid "Total number of users: %s"
+msgstr ""
+
+#: dq-admin/themes/modern/main/index.php:232
+msgid "User statistics"
+msgstr ""
+
+#: dq-admin/themes/modern/main/index.php:241
+msgid "Osclass"
+msgstr ""
+
+#: dq-admin/themes/modern/main/index.php:243
+msgid "Newsletter"
+msgstr ""
+
+#: dq-admin/themes/modern/main/index.php:251
+msgid "Want the latest tips and updates delivered to your inbox? <strong>Sign up now!</strong>"
+msgstr ""
+
+#: dq-admin/themes/modern/main/index.php:256
+msgid "Subscribe"
+msgstr ""
+
+#: dq-admin/themes/modern/main/index.php:262
+#: dq-admin/themes/modern/main/index.php:283
+msgid "Donate"
+msgstr ""
+
+#: dq-admin/themes/modern/main/index.php:274
+msgid "Osclass is a free, open-source project, sustained by the community. Money received from donations will be used to further development and improve the project."
+msgstr ""
+
+#: dq-admin/themes/modern/main/index.php:282
+msgid "Custom"
+msgstr ""
+
+#: dq-admin/themes/modern/main/index.php:312
+msgid "Has been a problem loading the contents, sorry for the inconvenience"
+msgstr ""
+
+#: dq-admin/themes/modern/market/header.php:28
+msgid "There was a problem, try again later please"
+msgstr ""
+
+#: dq-admin/themes/modern/market/header.php:34
+msgid "Last update"
+msgstr ""
+
+#: dq-admin/themes/modern/market/header.php:35
+#: dq-admin/themes/modern/market/section.php:40
+msgid "Downloads"
+msgstr ""
+
+#: dq-admin/themes/modern/market/header.php:36
+msgid "Requires at least"
+msgstr ""
+
+#: dq-admin/themes/modern/market/header.php:37
+msgid "Compatible up to"
+msgstr ""
+
+#: dq-admin/themes/modern/market/header.php:38
+msgid "Screenshots"
+msgstr ""
+
+#: dq-admin/themes/modern/market/header.php:39
+msgid "Preview theme"
+msgstr ""
+
+#: dq-admin/themes/modern/market/header.php:41
+msgid "Warning! This package is not compatible with your current version of Osclass (%s)"
+msgstr ""
+
+#: dq-admin/themes/modern/market/header.php:42
+msgid "Are you sure?"
+msgstr ""
+
+#: dq-admin/themes/modern/market/header.php:43
+msgid "Ok, proceed anyway"
+msgstr ""
+
+#: dq-admin/themes/modern/market/header.php:44
+msgid "Warning! This theme is not compatible with your current version of Osclass (%s)"
+msgstr ""
+
+#: dq-admin/themes/modern/market/header.php:49
+#: dq-admin/themes/modern/plugins/index.php:292
+msgid "The plugin has been downloaded correctly, proceed to install and configure."
+msgstr ""
+
+#: dq-admin/themes/modern/market/header.php:52
+msgid "The language has been downloaded correctly, proceed to activate."
+msgstr ""
+
+#: dq-admin/themes/modern/market/header.php:85
+msgid "Discover how to improve your Osclass!"
+msgstr ""
+
+#: dq-admin/themes/modern/market/header.php:89
+#: dq-admin/themes/modern/plugins/add.php:26
+#: dq-admin/themes/modern/plugins/configuration.php:27
+#: dq-admin/themes/modern/plugins/view.php:21
+#: dq-includes/osclass/classes/AdminMenu.php:66
+#: dq-includes/osclass/classes/AdminMenu.php:74
+msgid "Plugins"
+msgstr ""
+
+#: dq-admin/themes/modern/market/header.php:90
+#: dq-includes/osclass/classes/AdminMenu.php:65
+msgid "Themes"
+msgstr ""
+
+#: dq-admin/themes/modern/market/header.php:91
+#: dq-admin/themes/modern/market/index.php:59
+#: dq-includes/osclass/classes/AdminMenu.php:67
+#: dq-includes/osclass/classes/AdminMenu.php:90
+msgid "Languages"
+msgstr ""
+
+#: dq-admin/themes/modern/market/index.php:19
+#: dq-admin/themes/modern/market/section.php:19
+msgid "Browse and download available Osclass plugins, from a constantly-updated selection. After downloading a plugin, you have to install it and configure it to get it up and running."
+msgstr ""
+
+#: dq-admin/themes/modern/market/index.php:32
+#: dq-admin/themes/modern/market/index.php:45
+#: dq-admin/themes/modern/market/index.php:59
+msgid "View all (%s)"
+msgstr ""
+
+#: dq-admin/themes/modern/market/index.php:39
+#: dq-admin/themes/modern/market/index.php:52
+msgid "The connection with the Osclass market has failed. Try it later."
+msgstr ""
+
+#: dq-admin/themes/modern/market/section.php:39
+msgid "and counting"
+msgstr ""
+
+#: dq-admin/themes/modern/market/section.php:40
+msgid "Last updates"
+msgstr ""
+
+#: dq-admin/themes/modern/market/section.php:53
+msgid "Cannot get information form market.osclass.org, sorry for the inconvenience"
+msgstr ""
+
+#: dq-admin/themes/modern/media/index.php:20
+msgid "Manage the images that users have uploaded along with their listings. You can delete them without deleting the whole listing if the image is inappropriate or doesn’t match the listing."
+msgstr ""
+
+#: dq-admin/themes/modern/media/index.php:25
+msgid "Manage Media"
+msgstr ""
+
+#: dq-admin/themes/modern/media/index.php:34
+msgid "Media &raquo; %s"
+msgstr ""
+
+#: dq-admin/themes/modern/media/index.php:58
+msgid "Delete media"
+msgstr ""
+
+#: dq-admin/themes/modern/media/index.php:165
+msgid "Are you sure you want to delete this media file?"
+msgstr ""
+
+#: dq-admin/themes/modern/pages/frm.php:33
+msgid "Edit page"
+msgstr ""
+
+#: dq-admin/themes/modern/pages/frm.php:38
+#: dq-admin/themes/modern/pages/frm.php:40
+msgid "Add page"
+msgstr ""
+
+#: dq-admin/themes/modern/pages/frm.php:47
+#: dq-admin/themes/modern/pages/index.php:25
+#: dq-includes/osclass/classes/AdminMenu.php:99
+msgid "Pages"
+msgstr ""
+
+#: dq-admin/themes/modern/pages/frm.php:127
+msgid "Used to quickly identify this page"
+msgstr ""
+
+#: dq-admin/themes/modern/pages/frm.php:133
+msgid "Page template"
+msgstr ""
+
+#: dq-admin/themes/modern/pages/frm.php:135
+msgid "Default template"
+msgstr ""
+
+#: dq-admin/themes/modern/pages/frm.php:146
+msgid "Show a link in footer"
+msgstr ""
+
+#: dq-admin/themes/modern/pages/index.php:20
+msgid "With Osclass you can create static pages on which information can be stored, such as \"About Us\" or \"Info\" pages. From here you can create, edit or delete your site's static pages."
+msgstr ""
+
+#: dq-admin/themes/modern/pages/index.php:27
+msgid "Create page"
+msgstr ""
+
+#: dq-admin/themes/modern/pages/index.php:34
+msgid "Pages &raquo; %s"
+msgstr ""
+
+#: dq-admin/themes/modern/pages/index.php:142
+msgid "Manage pages"
+msgstr ""
+
+#: dq-admin/themes/modern/pages/index.php:193
+msgid "Delete page"
+msgstr ""
+
+#: dq-admin/themes/modern/pages/index.php:199
+msgid "Are you sure you want to delete this page?"
+msgstr ""
+
+#: dq-admin/themes/modern/parts/header.php:16
+#: dq-includes/osclass/frm/Item.form.class.php:369
+#: dq-includes/osclass/frm/Item.form.class.php:378
+msgid "No change expiration"
+msgstr ""
+
+#: dq-admin/themes/modern/parts/header.php:17
+#: dq-includes/osclass/frm/Item.form.class.php:370
+#: dq-includes/osclass/frm/Item.form.class.php:380
+msgid "Without expiration"
+msgstr ""
+
+#: dq-admin/themes/modern/parts/header.php:18
+#: dq-includes/osclass/frm/Item.form.class.php:371
+#: dq-includes/osclass/frm/Item.form.class.php:382
+msgid "1 day"
+msgstr ""
+
+#: dq-admin/themes/modern/parts/header.php:19
+#: dq-includes/osclass/frm/Item.form.class.php:372
+#: dq-includes/osclass/frm/Item.form.class.php:385
+msgid "%d days"
+msgstr ""
+
+#: dq-admin/themes/modern/parts/header.php:20
+#: dq-includes/osclass/frm/Item.form.class.php:224
+msgid "Select category"
+msgstr ""
+
+#: dq-admin/themes/modern/parts/header.php:21
+#: dq-includes/osclass/frm/Item.form.class.php:149
+msgid "No subcategory"
+msgstr ""
+
+#: dq-admin/themes/modern/parts/header.php:22
+#: dq-includes/osclass/frm/Item.form.class.php:148
+#: dq-includes/osclass/frm/Item.form.class.php:225
+msgid "Select subcategory"
+msgstr ""
+
+#: dq-admin/themes/modern/plugins/add.php:20
+msgid "Manually upload Osclass plugins in .zip format. If you prefer, you can manually upload the decompressed plugin to <em>dq-content/plugins</em>."
+msgstr ""
+
+#: dq-admin/themes/modern/plugins/add.php:33
+msgid "Add plugin &raquo; %s"
+msgstr ""
+
+#: dq-admin/themes/modern/plugins/add.php:39
+#: dq-admin/themes/modern/plugins/index.php:27
+msgid "Add plugin"
+msgstr ""
+
+#: dq-admin/themes/modern/plugins/add.php:44
+msgid "Download more plugins at %s"
+msgstr ""
+
+#: dq-admin/themes/modern/plugins/add.php:51
+msgid "Plugin package (.zip)"
+msgstr ""
+
+#: dq-admin/themes/modern/plugins/add.php:63
+msgid "Cannot install new plugin"
+msgstr ""
+
+#: dq-admin/themes/modern/plugins/add.php:66
+msgid "The plugin folder is not writable on your server so you cannot upload plugins from the administration panel. Please make the folder writable and try again."
+msgstr ""
+
+#: dq-admin/themes/modern/plugins/configuration.php:59
+#: dq-admin/themes/modern/plugins/index.php:44
+#: dq-admin/themes/modern/plugins/view.php:26
+msgid "Plugins &raquo; %s"
+msgstr ""
+
+#: dq-admin/themes/modern/plugins/configuration.php:74
+msgid "Select the categories where you want to apply these attribute:"
+msgstr ""
+
+#: dq-admin/themes/modern/plugins/index.php:20
+msgid "Install or uninstall the plugins available in your installation. In some cases, you'll have to configure the plugin in order to get it to work."
+msgstr ""
+
+#: dq-admin/themes/modern/plugins/index.php:25
+msgid "Manage Plugins"
+msgstr ""
+
+#: dq-admin/themes/modern/plugins/index.php:34
+msgid "Plugin couldn't be installed because it triggered a <strong>fatal error</strong>"
+msgstr ""
+
+#: dq-admin/themes/modern/plugins/index.php:69
+msgid "Uninstall plugin"
+msgstr ""
+
+#: dq-admin/themes/modern/plugins/index.php:105
+msgid "Updates"
+msgstr ""
+
+#: dq-admin/themes/modern/plugins/index.php:108
+msgid "Available plugins"
+msgstr ""
+
+#: dq-admin/themes/modern/plugins/index.php:158
+#: dq-admin/themes/modern/plugins/index.php:159
+#: dq-admin/themes/modern/plugins/index.php:160
+#: dq-admin/themes/modern/plugins/index.php:161
+msgid "%d plugins"
+msgstr ""
+
+#: dq-admin/themes/modern/plugins/index.php:258
+msgid "This action can not be undone. Uninstalling plugins may result in a permanent lost of data. Are you sure you want to continue?"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/advanced.php:36
+msgid "Change advanced configuration of your Osclass. <strong>Be careful</strong> when modifying default values if you're not sure what you're doing!"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/advanced.php:49
+msgid "Advanced Settings &raquo; %s"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/advanced.php:57
+msgid "Advanced Settings"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/advanced.php:65
+msgid "Subdomain type"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/advanced.php:68
+msgid "No subdomains"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/advanced.php:69
+msgid "Category based"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/advanced.php:70
+msgid "Country based"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/advanced.php:71
+msgid "Region based"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/advanced.php:72
+msgid "City based"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/advanced.php:77
+#: dq-includes/osclass/install-functions.php:639
+msgid "Host"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/advanced.php:79
+msgid "Your host is required to know the subdomain."
+msgstr ""
+
+#: dq-admin/themes/modern/settings/advanced.php:79
+msgid "Your current host is \"%s\". Add it without \"www\"."
+msgstr ""
+
+#: dq-admin/themes/modern/settings/advanced.php:79
+msgid "Remember to enable cookies for the subdomains too."
+msgstr ""
+
+#: dq-admin/themes/modern/settings/comments.php:39
+msgid "Moderated comments: this field is required"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/comments.php:40
+msgid "Moderated comments: this field must only contain numeric characters"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/comments.php:43
+msgid "Comments per page: this field is required"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/comments.php:44
+msgid "Comments per page: this field must only contain numeric characters"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/comments.php:80
+msgid "Modify the options that allow your users to publish comments on your site's listings."
+msgstr ""
+
+#: dq-admin/themes/modern/settings/comments.php:93
+msgid "Comment Settings &raquo; %s"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/comments.php:105
+msgid "Comment Settings"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/comments.php:108
+msgid "Default comment settings"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/comments.php:112
+msgid "Allow people to post comments on listings"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/comments.php:117
+msgid "Users must be registered and logged in to comment"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/comments.php:122
+msgid "A comment is being held for moderation"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/comments.php:126
+msgid "Before a comment appears, comment author must have at least %s previously approved comments"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/comments.php:127
+msgid "If the value is zero, an administrator must always approve comments"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/comments.php:132
+msgid "Other comment settings"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/comments.php:134
+msgid "Break comments into pages with %s comments per page"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/comments.php:135
+msgid "If the value is zero all comments are shown"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/comments.php:142
+msgid "E-mail admin whenever"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/comments.php:146
+msgid "A new comment is posted"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/comments.php:152
+msgid "E-mail user whenever"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/comments.php:156
+msgid "There's a new comment on his listing"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/currencies.php:20
+msgid "Add new currencies or edit existing currencies so users can publish listings in their country's currency."
+msgstr ""
+
+#: dq-admin/themes/modern/settings/currencies.php:34
+msgid "Currencies &raquo; %s"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/currencies.php:121
+#: dq-includes/osclass/classes/AdminMenu.php:93
+msgid "Currencies"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/currencies.php:133
+msgid "Are you sure you want to %s the selected currencies?"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/currencies.php:141
+msgid "Code"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/currencies.php:164
+msgid "Delete currency"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/currencies.php:171
+msgid "Are you sure you want to delete this currency?"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/currency_form.php:40
+#: dq-admin/themes/modern/settings/currency_form.php:41
+#: dq-admin/themes/modern/settings/currency_form.php:42
+msgid "Currency code: this field is required"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/currency_form.php:45
+#: dq-admin/themes/modern/settings/currency_form.php:46
+#: dq-includes/osclass/frm/Admin.form.class.php:98
+#: dq-includes/osclass/frm/Language.form.class.php:125
+#: dq-includes/osclass/frm/Language.form.class.php:126
+#: dq-includes/osclass/frm/User.form.class.php:188
+#: dq-includes/osclass/frm/User.form.class.php:298
+msgid "Name: this field is required"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/currency_form.php:80
+#: dq-admin/themes/modern/settings/currency_form.php:81
+msgid "Add currency"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/currency_form.php:84
+msgid "Edit currency"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/currency_form.php:85
+msgid "Update currency"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/currency_form.php:113
+msgid "Currency Code"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/currency_form.php:116
+msgid "Must be a three-character code according to the <a href=\"%s\" target=\"_blank\">ISO 4217</a>"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/currency_form.php:120
+msgid "Currency symbol"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:57
+#: dq-admin/themes/modern/settings/index.php:58
+msgid "Page title: this field is required"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:61
+#: dq-includes/osclass/frm/Admin.form.class.php:108
+#: dq-includes/osclass/frm/Comment.form.class.php:106
+#: dq-includes/osclass/frm/Contact.form.class.php:112
+#: dq-includes/osclass/frm/Item.form.class.php:768
+#: dq-includes/osclass/frm/Item.form.class.php:1053
+#: dq-includes/osclass/frm/SendFriend.form.class.php:112
+#: dq-includes/osclass/frm/User.form.class.php:191
+#: dq-includes/osclass/frm/User.form.class.php:301
+msgid "Email: this field is required"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:62
+#: dq-includes/osclass/ItemActions.php:869
+#: dq-includes/osclass/frm/Admin.form.class.php:109
+#: dq-includes/osclass/frm/Comment.form.class.php:107
+#: dq-includes/osclass/frm/Contact.form.class.php:113
+#: dq-includes/osclass/frm/Item.form.class.php:769
+#: dq-includes/osclass/frm/Item.form.class.php:1054
+#: dq-includes/osclass/frm/SendFriend.form.class.php:111
+#: dq-includes/osclass/frm/User.form.class.php:192
+#: dq-includes/osclass/frm/User.form.class.php:302
+msgid "Invalid email address"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:65
+msgid "Listings shown in RSS feed: this field is required"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:66
+msgid "Listings shown in RSS feed: this field must only contain numeric characters"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:69
+msgid "Latest listings shown: this field is required"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:70
+msgid "Latest listings shown: this field must only contain numeric characters"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:73
+msgid "The search page shows: this field is required"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:74
+msgid "The search page shows: this field must only contain numeric characters"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:126
+msgid "Change the basic configuration of your Osclass. From here, you can modify variables such as the site’s name, the default currency or how lists of listings are displayed. <strong>Be careful</strong> when modifying default values if you're not sure what you're doing!"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:139
+msgid "General Settings &raquo; %s"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:147
+msgid "General Settings"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:155
+msgid "Page title"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:159
+msgid "Page description"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:162
+msgid "Admin e-mail"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:165
+msgid "Default language"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:175
+msgid "Default currency"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:185
+msgid "Week starts on"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:188
+#: dq-includes/osclass/frm/Field.form.class.php:36
+#: dq-includes/osclass/helpers/hUtils.php:131
+msgid "Sunday"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:189
+#: dq-includes/osclass/frm/Field.form.class.php:36
+#: dq-includes/osclass/helpers/hUtils.php:131
+msgid "Monday"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:190
+#: dq-includes/osclass/frm/Field.form.class.php:36
+#: dq-includes/osclass/helpers/hUtils.php:131
+msgid "Tuesday"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:191
+#: dq-includes/osclass/frm/Field.form.class.php:36
+#: dq-includes/osclass/helpers/hUtils.php:131
+msgid "Wednesday"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:192
+#: dq-includes/osclass/frm/Field.form.class.php:36
+#: dq-includes/osclass/helpers/hUtils.php:131
+msgid "Thursday"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:193
+#: dq-includes/osclass/frm/Field.form.class.php:36
+#: dq-includes/osclass/helpers/hUtils.php:131
+msgid "Friday"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:194
+#: dq-includes/osclass/frm/Field.form.class.php:36
+#: dq-includes/osclass/helpers/hUtils.php:131
+msgid "Saturday"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:199
+msgid "Timezone"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:204
+msgid "Select a timezone..."
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:212
+msgid "Date & time format"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:255
+msgid "Documentation on date and time formatting"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:259
+msgid "RSS shows"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:262
+#: dq-admin/themes/modern/settings/index.php:276
+msgid "listings at most"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:266
+msgid "Latest listings shown"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:269
+msgid "at most"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:273
+msgid "Search page shows"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:279
+msgid "Category settings"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:281
+msgid "Parent categories"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:286
+msgid "Allow users to select a parent category as a category when inserting or editing a listing "
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:291
+msgid "Contact Settings"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:293
+msgid "Attachments"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:298
+msgid "Allow people to attach a file to the contact form"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:303
+msgid "Cron Settings"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:305
+msgid "Automatic cron process"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:310
+msgid "Allow Osclass to run a built-in <a href=\"%s\" target=\"_blank\">cron</a> automatically without setting crontab"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:313
+msgid "It is <b>recommended</b> to have this option enabled, because some features require it."
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:316
+msgid "Software updates"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:318
+msgid "Core updates"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:321
+msgid "Disabled"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:322
+msgid "Branch - big changes"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:323
+msgid "Major - new features"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:324
+msgid "Minor - bug fixes"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:329
+#: dq-includes/osclass/functions.php:609
+msgid "Plugin updates"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:334
+msgid "Allow auto-updates plugins"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:340
+#: dq-includes/osclass/functions.php:657
+msgid "Theme updates"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:345
+msgid "Allow auto-updates of themes"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:351
+#: dq-includes/osclass/functions.php:705
+msgid "Language updates"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:356
+msgid "Allow auto-updates of languages"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:362
+#: dq-admin/themes/modern/settings/index.php:373
+msgid "Market external sources"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:367
+msgid "Allow updates and installations of non-official plugins and themes"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:374
+msgid "Last checked on %s"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/index.php:374
+msgid "Check updates"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/locations.php:32
+msgid "Delete location"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/locations.php:132
+#: dq-admin/themes/modern/settings/locations.php:221
+msgid "Edit country"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/locations.php:133
+msgid "Add new country"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/locations.php:134
+#: dq-admin/themes/modern/settings/locations.php:276
+msgid "Edit region"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/locations.php:135
+msgid "Add new region"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/locations.php:136
+#: dq-admin/themes/modern/settings/locations.php:333
+msgid "Edit city"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/locations.php:137
+msgid "Add new city"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/locations.php:152
+msgid "Add, edit or delete the countries, regions and cities installed on your Osclass. <strong>Be careful</strong>: modifying locations can cause your statistics to be incorrect until they're recalculated. Modify only if you're sure what you're doing!"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/locations.php:165
+msgid "Locations &raquo; %s"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/locations.php:170
+#: dq-includes/osclass/classes/AdminMenu.php:88
+msgid "Locations"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/locations.php:178
+msgid "Country code should have two characters"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/locations.php:188
+msgid "Country code"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/locations.php:194
+msgid "Add country"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/locations.php:212
+#: dq-admin/themes/modern/settings/locations.php:267
+#: dq-admin/themes/modern/settings/locations.php:324
+msgid "Slug"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/locations.php:215
+#: dq-admin/themes/modern/settings/locations.php:270
+#: dq-admin/themes/modern/settings/locations.php:327
+msgid "The slug has to be a unique string, could be left blank"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/locations.php:247
+msgid "Add region"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/locations.php:304
+msgid "Add city"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/locations.php:345
+msgid "Countries"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/locations.php:345
+#: dq-admin/themes/modern/settings/locations.php:375
+#: dq-admin/themes/modern/settings/locations.php:385
+msgid "Remove selected"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/locations.php:375
+msgid "Regions"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/locations.php:385
+msgid "Cities"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/locations.php:398
+msgid "This action can't be undone. Items associated to this location will be deleted. Users from this location will be unlinked, but not deleted. Are you sure you want to continue?"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/mailserver.php:66
+msgid "Modify the settings of the mail server from which your site's emails are sent. <strong>Be careful</strong>: these settings can vary depending on your hosting or server. If you run into any issues, check your hosting's help section."
+msgstr ""
+
+#: dq-admin/themes/modern/settings/mailserver.php:79
+msgid "Mail Settings &raquo; %s"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/mailserver.php:87
+msgid "Mail Settings"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/mailserver.php:95
+msgid "Server type"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/mailserver.php:98
+msgid "Custom Server"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/mailserver.php:99
+msgid "GMail Server"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/mailserver.php:104
+msgid "Hostname"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/mailserver.php:110
+msgid "Mail from"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/mailserver.php:116
+msgid "Name from"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/mailserver.php:122
+msgid "Server port"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/mailserver.php:140
+msgid "Encryption"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/mailserver.php:143
+msgid "Options: blank, ssl or tls"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/mailserver.php:146
+msgid "Cannot be sure that Apache Module <b>mod_ssl</b> is loaded."
+msgstr ""
+
+#: dq-admin/themes/modern/settings/mailserver.php:150
+msgid "Apache Module <b>mod_ssl</b> is not loaded"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/mailserver.php:156
+msgid "SMTP"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/mailserver.php:159
+msgid "SMTP authentication enabled"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/mailserver.php:163
+msgid "POP"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/mailserver.php:166
+msgid "Use POP before SMTP"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/media.php:36
+msgid "Size is not in the correct format"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/media.php:59
+msgid "Thumbnail size: this field is required"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/media.php:60
+msgid "Thumbnail size: is not in the correct format"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/media.php:63
+msgid "Preview size: this field is required"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/media.php:64
+msgid "Preview size: is not in the correct format"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/media.php:67
+msgid "Normal size: this field is required"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/media.php:68
+msgid "Normal size: is not in the correct format"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/media.php:71
+msgid "Maximum size: this field is required"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/media.php:72
+msgid "Maximum size: this field must only contain numeric characters"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/media.php:148
+msgid "Manage the options for the images users can upload along with their listings. You can limit their size, the number of images per ad, include a watermark, etc."
+msgstr ""
+
+#: dq-admin/themes/modern/settings/media.php:161
+msgid "Media Settings &raquo; %s"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/media.php:168
+msgid "Media Settings"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/media.php:175
+msgid "Image sizes"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/media.php:177
+msgid "The sizes listed below determine the maximum dimensions in pixels to use when uploading a image. Format: <b>Width</b> x <b>Height</b>."
+msgstr ""
+
+#: dq-admin/themes/modern/settings/media.php:178
+msgid "Thumbnail size"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/media.php:182
+msgid "Preview size"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/media.php:186
+#: dq-admin/themes/modern/settings/media.php:190
+msgid "Normal size"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/media.php:194
+msgid "Keep original image, unaltered after uploading."
+msgstr ""
+
+#: dq-admin/themes/modern/settings/media.php:195
+msgid "Image may occupy more space than usual."
+msgstr ""
+
+#: dq-admin/themes/modern/settings/media.php:200
+msgid "Force aspect"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/media.php:204
+msgid "Force image aspect."
+msgstr ""
+
+#: dq-admin/themes/modern/settings/media.php:205
+msgid "No white background will be added to keep the size."
+msgstr ""
+
+#: dq-admin/themes/modern/settings/media.php:209
+msgid "Restrictions"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/media.php:211
+msgid "Maximum size"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/media.php:214
+msgid "Size in KB"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/media.php:216
+msgid "Maximum size PHP configuration allows: %d KB"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/media.php:221
+msgid "ImageMagick"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/media.php:225
+msgid "Use ImageMagick instead of GD library"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/media.php:229
+msgid "ImageMagick library is not loaded"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/media.php:232
+msgid "It's faster and consumes less resources than GD library."
+msgstr ""
+
+#: dq-admin/themes/modern/settings/media.php:235
+msgid "Watermark"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/media.php:237
+msgid "Watermark type"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/media.php:241
+msgid "None"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/media.php:245
+#: dq-admin/themes/modern/settings/media.php:261
+msgid "Text"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/media.php:248
+msgid "Freetype library is required. How to <a target=\"_blank\" href=\"%s\">install/configure</a>"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/media.php:254
+#: dq-admin/themes/modern/settings/media.php:288
+msgid "Image"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/media.php:259
+msgid "Watermark Text Settings"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/media.php:267
+msgid "Color"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/media.php:273
+#: dq-admin/themes/modern/settings/media.php:299
+msgid "Position"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/media.php:276
+#: dq-admin/themes/modern/settings/media.php:302
+msgid "Centre"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/media.php:277
+#: dq-admin/themes/modern/settings/media.php:303
+msgid "Top Left"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/media.php:278
+#: dq-admin/themes/modern/settings/media.php:304
+msgid "Top Right"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/media.php:279
+#: dq-admin/themes/modern/settings/media.php:305
+msgid "Bottom Left"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/media.php:280
+#: dq-admin/themes/modern/settings/media.php:306
+msgid "Bottom Right"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/media.php:286
+msgid "Watermark Image Settings"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/media.php:294
+msgid "It has to be a .PNG image"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/media.php:295
+msgid "Osclass doesn't check the watermark image size"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/media.php:311
+msgid "Regenerate images"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/media.php:315
+msgid "You can regenerate different image dimensions. If you have changed the dimension of thumbnails, preview or normal images, you might want to regenerate your images."
+msgstr ""
+
+#: dq-admin/themes/modern/settings/media.php:317
+msgid "Regenerate"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/media.php:328
+msgid "Recommendation"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/media.php:331
+msgid "We highly recommend you have the 'Keep original image' option active when you use watermarks."
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:175
+#: dq-admin/themes/modern/settings/permalinks.php:176
+msgid "Listings url: this field is required"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:179
+#: dq-admin/themes/modern/settings/permalinks.php:180
+msgid "Page url: this field is required"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:183
+#: dq-admin/themes/modern/settings/permalinks.php:184
+msgid "Categories url: this field is required"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:187
+#: dq-admin/themes/modern/settings/permalinks.php:188
+msgid "Search url: this field is required"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:191
+#: dq-admin/themes/modern/settings/permalinks.php:192
+msgid "Search country: this field is required"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:195
+#: dq-admin/themes/modern/settings/permalinks.php:196
+msgid "Search region: this field is required"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:199
+#: dq-admin/themes/modern/settings/permalinks.php:200
+msgid "Search city: this field is required"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:203
+#: dq-admin/themes/modern/settings/permalinks.php:204
+msgid "Search city area: this field is required"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:207
+#: dq-admin/themes/modern/settings/permalinks.php:208
+msgid "Search category: this field is required"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:211
+#: dq-admin/themes/modern/settings/permalinks.php:212
+msgid "Search user: this field is required"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:215
+#: dq-admin/themes/modern/settings/permalinks.php:216
+msgid "Search pattern: this field is required"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:219
+#: dq-admin/themes/modern/settings/permalinks.php:220
+msgid "Contact url: this field is required"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:223
+#: dq-admin/themes/modern/settings/permalinks.php:224
+msgid "Feed url: this field is required"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:227
+#: dq-admin/themes/modern/settings/permalinks.php:228
+msgid "Language url: this field is required"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:231
+#: dq-admin/themes/modern/settings/permalinks.php:232
+msgid "Listing mark url: this field is required"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:235
+#: dq-admin/themes/modern/settings/permalinks.php:236
+msgid "Listing send friend url: this field is required"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:239
+#: dq-admin/themes/modern/settings/permalinks.php:240
+msgid "Listing contact url: this field is required"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:243
+#: dq-admin/themes/modern/settings/permalinks.php:244
+msgid "New listing url: this field is required"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:247
+#: dq-admin/themes/modern/settings/permalinks.php:248
+msgid "Activate listing url: this field is required"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:251
+#: dq-admin/themes/modern/settings/permalinks.php:252
+msgid "Edit listing url: this field is required"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:255
+#: dq-admin/themes/modern/settings/permalinks.php:256
+msgid "Delete listing url: this field is required"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:259
+#: dq-admin/themes/modern/settings/permalinks.php:260
+msgid "Delete listing resource url: this field is required"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:263
+#: dq-admin/themes/modern/settings/permalinks.php:264
+msgid "Login url: this field is required"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:267
+#: dq-admin/themes/modern/settings/permalinks.php:268
+msgid "User dashboard url: this field is required"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:271
+#: dq-admin/themes/modern/settings/permalinks.php:272
+msgid "Logout url: this field is required"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:275
+#: dq-admin/themes/modern/settings/permalinks.php:276
+msgid "User register url: this field is required"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:279
+#: dq-admin/themes/modern/settings/permalinks.php:280
+msgid "Activate user url: this field is required"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:283
+#: dq-admin/themes/modern/settings/permalinks.php:284
+msgid "Activate alert url: this field is required"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:287
+#: dq-admin/themes/modern/settings/permalinks.php:288
+msgid "User profile url: this field is required"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:291
+#: dq-admin/themes/modern/settings/permalinks.php:292
+msgid "User listings url: this field is required"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:295
+#: dq-admin/themes/modern/settings/permalinks.php:296
+msgid "User alerts url: this field is required"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:299
+#: dq-admin/themes/modern/settings/permalinks.php:300
+msgid "Recover user url: this field is required"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:303
+#: dq-admin/themes/modern/settings/permalinks.php:304
+msgid "User forgot url: this field is required"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:307
+#: dq-admin/themes/modern/settings/permalinks.php:308
+msgid "Change password url: this field is required"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:311
+#: dq-admin/themes/modern/settings/permalinks.php:312
+msgid "Change email url: this field is required"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:315
+#: dq-admin/themes/modern/settings/permalinks.php:316
+msgid "Change username url: this field is required"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:319
+#: dq-admin/themes/modern/settings/permalinks.php:320
+msgid "Change email confirm url: this field is required"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:337
+#: dq-admin/themes/modern/settings/permalinks.php:341
+#: dq-admin/themes/modern/settings/permalinks.php:397
+msgid "Show rules"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:338
+msgid "Hide rules"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:361
+msgid "Activate this option if you want your site's URLs to be more attractive to search engines and intelligible for users. <strong>Be careful</strong>: depending on your hosting service, this might not work correctly."
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:373
+msgid "Permalinks &raquo; %s"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:381
+#: dq-includes/osclass/classes/AdminMenu.php:91
+msgid "Permalinks"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:382
+msgid "By default Osclass uses web URLs which have question marks and lots of numbers in them. However, Osclass offers you friendly urls. This can improve the aesthetics, usability, and forward-compatibility of your links"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:390
+msgid "Enable friendly urls"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:400
+msgid "Listing URL:"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:404
+#: dq-admin/themes/modern/settings/permalinks.php:413
+#: dq-admin/themes/modern/settings/permalinks.php:422
+msgid "Accepted keywords: %s"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:409
+msgid "Page URL:"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:418
+msgid "Category URL:"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:427
+msgid "Search prefix URL:"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:431
+msgid "It always appear before the category, region or city url."
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:436
+msgid "Search URL:"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:442
+msgid "Search keyword country"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:448
+msgid "Search keyword region"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:454
+msgid "Search keyword city"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:460
+msgid "Search keyword city area"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:466
+msgid "Search keyword category"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:472
+msgid "Search keyword user"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:478
+msgid "Search keyword pattern"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:484
+#: dq-includes/osclass/classes/Breadcrumb.php:341
+#: dq-includes/osclass/controller/contact.php:94
+#: dq-includes/osclass/functions.php:278
+msgid "Contact"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:490
+msgid "Feed"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:496
+#: dq-includes/osclass/emails.php:763
+#: dq-includes/osclass/emails.php:765
+#: dq-includes/osclass/emails.php:849
+#: dq-includes/osclass/emails.php:851
+#: dq-includes/osclass/emails.php:944
+#: dq-includes/osclass/emails.php:946
+msgid "Language"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:502
+msgid "Listing mark"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:508
+msgid "Listing send friend"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:514
+msgid "Listing contact"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:520
+msgid "Listing new"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:526
+msgid "Listing activate"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:532
+msgid "Listing edit"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:538
+msgid "Listing delete"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:544
+msgid "Listing resource delete"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:550
+msgid "User login"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:556
+msgid "User dashboard"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:562
+msgid "User logout"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:568
+msgid "User register"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:574
+msgid "User activate"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:580
+msgid "User activate alert"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:586
+msgid "User profile"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:592
+msgid "User listings"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:598
+msgid "User alerts"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:604
+msgid "User recover"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:610
+msgid "User forgot"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:616
+msgid "User change password"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:622
+msgid "User change email"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:628
+msgid "User change email confirm"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:634
+msgid "User change username"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:644
+msgid "Your .htaccess file"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/permalinks.php:651
+msgid "What your .htaccess file should look like"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/searches.php:45
+msgid "Custom number: this field must only contain numeric characters"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/searches.php:46
+msgid "Custom number: this field cannot be left empty"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/searches.php:70
+msgid "Save the searches users do on your site. In this way, you can get information on what they're most interested in. From here, you can manage the options on how much information you want to save."
+msgstr ""
+
+#: dq-admin/themes/modern/settings/searches.php:83
+msgid "Latest searches Settings &raquo; %s"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/searches.php:91
+msgid "Latest searches Settings"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/searches.php:99
+#: dq-includes/osclass/classes/AdminMenu.php:96
+msgid "Latest searches"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/searches.php:103
+msgid "Save the latest user searches"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/searches.php:104
+msgid "It may be useful to know what queries users make."
+msgstr ""
+
+#: dq-admin/themes/modern/settings/searches.php:109
+msgid "How long queries are stored"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/searches.php:113
+msgid "One hour"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/searches.php:117
+msgid "One day"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/searches.php:121
+msgid "One week"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/searches.php:125
+msgid "Forever"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/searches.php:129
+msgid "Store 1000 queries"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/searches.php:133
+msgid "Store %s queries"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/searches.php:135
+msgid "This feature can generate a lot of data. It's recommended to purge this data periodically."
+msgstr ""
+
+#: dq-admin/themes/modern/settings/spamNbots.php:24
+msgid "Keep spammers from publishing on your site by configuring reCAPTCHA and Akismet. Be careful: in order to use these services, you must register on their sites first and follow their instructions."
+msgstr ""
+
+#: dq-admin/themes/modern/settings/spamNbots.php:37
+msgid "Spam and bots &raquo; %s"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/spamNbots.php:43
+#: dq-includes/osclass/classes/AdminMenu.php:92
+msgid "Spam and bots"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/spamNbots.php:45
+msgid "Akismet"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/spamNbots.php:46
+msgid "Akismet is a hosted web service that saves you time by automatically detecting comment and trackback spam. It's hosted on our servers, but we give you access to it through plugins and our API."
+msgstr ""
+
+#: dq-admin/themes/modern/settings/spamNbots.php:53
+msgid "Akismet API Key"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/spamNbots.php:63
+msgid "This key is valid"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/spamNbots.php:67
+msgid "The key you entered is invalid. Please double-check it"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/spamNbots.php:71
+msgid "Akismet is disabled, please enter an API key. <a href=\"%s\" target=\"_blank\">(Get your key)</a>"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/spamNbots.php:88
+msgid "reCAPTCHA"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/spamNbots.php:89
+msgid "reCAPTCHA helps prevent automated abuse of your site by using a CAPTCHA to ensure that only humans perform certain actions. <a href=\"%s\" target=\"_blank\">Get your key</a>"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/spamNbots.php:96
+msgid "reCAPTCHA Public key"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/spamNbots.php:102
+msgid "reCAPTCHA Private key"
+msgstr ""
+
+#: dq-admin/themes/modern/settings/spamNbots.php:109
+msgid "If you see the reCAPTCHA form it means that you have correctly entered the public key"
+msgstr ""
+
+#: dq-admin/themes/modern/stats/comments.php:26
+#: dq-admin/themes/modern/stats/comments.php:142
+#: dq-admin/themes/modern/stats/items.php:34
+#: dq-admin/themes/modern/stats/items.php:310
+#: dq-admin/themes/modern/stats/reports.php:23
+#: dq-admin/themes/modern/stats/reports.php:145
+#: dq-admin/themes/modern/stats/users.php:29
+#: dq-admin/themes/modern/stats/users.php:174
+msgid "Last 10 weeks"
+msgstr ""
+
+#: dq-admin/themes/modern/stats/comments.php:29
+#: dq-admin/themes/modern/stats/comments.php:141
+#: dq-admin/themes/modern/stats/items.php:37
+#: dq-admin/themes/modern/stats/items.php:309
+#: dq-admin/themes/modern/stats/reports.php:26
+#: dq-admin/themes/modern/stats/reports.php:144
+#: dq-admin/themes/modern/stats/users.php:32
+#: dq-admin/themes/modern/stats/users.php:173
+msgid "Last 10 months"
+msgstr ""
+
+#: dq-admin/themes/modern/stats/comments.php:32
+#: dq-admin/themes/modern/stats/comments.php:143
+#: dq-admin/themes/modern/stats/items.php:40
+#: dq-admin/themes/modern/stats/items.php:311
+#: dq-admin/themes/modern/stats/reports.php:29
+#: dq-admin/themes/modern/stats/reports.php:146
+#: dq-admin/themes/modern/stats/users.php:35
+#: dq-admin/themes/modern/stats/users.php:175
+msgid "Last 10 days"
+msgstr ""
+
+#: dq-admin/themes/modern/stats/comments.php:41
+msgid "See how many comments the listings published on your site have received."
+msgstr ""
+
+#: dq-admin/themes/modern/stats/comments.php:54
+msgid "Comment Statistics &raquo; %s"
+msgstr ""
+
+#: dq-admin/themes/modern/stats/comments.php:136
+msgid "Comment Statistics"
+msgstr ""
+
+#: dq-admin/themes/modern/stats/comments.php:156
+#: dq-admin/themes/modern/stats/reports.php:159
+#: dq-admin/themes/modern/stats/users.php:254
+msgid "There are no statistics yet"
+msgstr ""
+
+#: dq-admin/themes/modern/stats/comments.php:166
+msgid "Latest comments on the web"
+msgstr ""
+
+#: dq-admin/themes/modern/stats/comments.php:190
+#: dq-admin/themes/modern/stats/items.php:324
+#: dq-admin/themes/modern/stats/items.php:341
+#: dq-admin/themes/modern/stats/items.php:359
+#: dq-admin/themes/modern/stats/items.php:376
+#: dq-admin/themes/modern/stats/users.php:188
+#: dq-admin/themes/modern/stats/users.php:205
+#: dq-admin/themes/modern/stats/users.php:222
+msgid "There're no statistics yet"
+msgstr ""
+
+#: dq-admin/themes/modern/stats/items.php:49
+msgid "Quickly find out how many new listings have been published on your site and how many visits each of the listings gets."
+msgstr ""
+
+#: dq-admin/themes/modern/stats/items.php:62
+msgid "Listing Statistics &raquo; %s"
+msgstr ""
+
+#: dq-admin/themes/modern/stats/items.php:96
+msgid "Items"
+msgstr ""
+
+#: dq-admin/themes/modern/stats/items.php:98
+msgid "Views"
+msgstr ""
+
+#: dq-admin/themes/modern/stats/items.php:104
+#: dq-admin/themes/modern/users/alerts.php:25
+#: dq-admin/themes/modern/users/frm.php:329
+#: dq-includes/osclass/classes/AdminMenu.php:106
+msgid "Alerts"
+msgstr ""
+
+#: dq-admin/themes/modern/stats/items.php:106
+msgid "Subscribers"
+msgstr ""
+
+#: dq-admin/themes/modern/stats/items.php:304
+msgid "Listing Statistics"
+msgstr ""
+
+#: dq-admin/themes/modern/stats/items.php:318
+msgid "New listing"
+msgstr ""
+
+#: dq-admin/themes/modern/stats/items.php:321
+msgid "Number of new listings"
+msgstr ""
+
+#: dq-admin/themes/modern/stats/items.php:335
+msgid "Listings' views"
+msgstr ""
+
+#: dq-admin/themes/modern/stats/items.php:338
+msgid "Total number of listings' views"
+msgstr ""
+
+#: dq-admin/themes/modern/stats/items.php:353
+msgid "New alerts"
+msgstr ""
+
+#: dq-admin/themes/modern/stats/items.php:356
+msgid "Number of new alerts"
+msgstr ""
+
+#: dq-admin/themes/modern/stats/items.php:370
+msgid "New subscribers"
+msgstr ""
+
+#: dq-admin/themes/modern/stats/items.php:373
+msgid "Number of new subscribers"
+msgstr ""
+
+#: dq-admin/themes/modern/stats/reports.php:38
+msgid "See how many listings from your site have been reported as spam, expired, duplicate, etc."
+msgstr ""
+
+#: dq-admin/themes/modern/stats/reports.php:51
+msgid "Report Statistics &raquo; %s"
+msgstr ""
+
+#: dq-admin/themes/modern/stats/reports.php:74
+#: dq-includes/osclass/classes/datatables/ItemsDataTable.php:206
+msgid "Duplicated"
+msgstr ""
+
+#: dq-admin/themes/modern/stats/reports.php:75
+msgid "Bad category"
+msgstr ""
+
+#: dq-admin/themes/modern/stats/reports.php:76
+#: dq-includes/osclass/classes/datatables/ItemsDataTable.php:208
+msgid "Offensive"
+msgstr ""
+
+#: dq-admin/themes/modern/stats/reports.php:77
+#: dq-includes/osclass/classes/datatables/ItemsDataTable.php:207
+msgid "Expired"
+msgstr ""
+
+#: dq-admin/themes/modern/stats/reports.php:139
+msgid "Report Statistics"
+msgstr ""
+
+#: dq-admin/themes/modern/stats/reports.php:153
+msgid "Total number of reports"
+msgstr ""
+
+#: dq-admin/themes/modern/stats/users.php:44
+msgid "Stay up-to-date on the number of users registered on your site. You can also see a breakdown of the countries and regions where users live among those available on your site."
+msgstr ""
+
+#: dq-admin/themes/modern/stats/users.php:57
+msgid "User Statistics &raquo; %s"
+msgstr ""
+
+#: dq-admin/themes/modern/stats/users.php:136
+#: dq-admin/themes/modern/stats/users.php:199
+msgid "Users per country"
+msgstr ""
+
+#: dq-admin/themes/modern/stats/users.php:139
+#: dq-admin/themes/modern/stats/users.php:151
+msgid "Unknown"
+msgstr ""
+
+#: dq-admin/themes/modern/stats/users.php:148
+#: dq-admin/themes/modern/stats/users.php:216
+msgid "Users per region"
+msgstr ""
+
+#: dq-admin/themes/modern/stats/users.php:168
+msgid "User Statistics"
+msgstr ""
+
+#: dq-admin/themes/modern/stats/users.php:232
+msgid "Latest users on the web"
+msgstr ""
+
+#: dq-admin/themes/modern/stats/users.php:239
+msgid "E-Mail"
+msgstr ""
+
+#: dq-admin/themes/modern/stats/users.php:265
+msgid "Avg. items per user"
+msgstr ""
+
+#: dq-admin/themes/modern/stats/users.php:268
+msgid "%s listings per user"
+msgstr ""
+
+#: dq-admin/themes/modern/tools/backup.php:37
+msgid "Save a backup of all of your site's information: listings, users and configuration. You can save a backup on your server or on your computer."
+msgstr ""
+
+#: dq-admin/themes/modern/tools/backup.php:43
+#: dq-admin/themes/modern/tools/category.php:25
+#: dq-admin/themes/modern/tools/import.php:31
+#: dq-admin/themes/modern/tools/locations.php:67
+#: dq-admin/themes/modern/tools/maintenance.php:32
+#: dq-admin/themes/modern/tools/upgrade.php:86
+#: dq-admin/themes/modern/upgrade/index.php:21
+#: dq-includes/osclass/classes/AdminMenu.php:109
+msgid "Tools"
+msgstr ""
+
+#: dq-admin/themes/modern/tools/backup.php:50
+msgid "Backup &raquo; %s"
+msgstr ""
+
+#: dq-admin/themes/modern/tools/backup.php:58
+msgid "Backup"
+msgstr ""
+
+#: dq-admin/themes/modern/tools/backup.php:65
+msgid "Backup folder"
+msgstr ""
+
+#: dq-admin/themes/modern/tools/backup.php:69
+msgid "<strong>WARNING</strong>: If you don't specify a backup folder, the backup files will be created in the root of your Osclass installation."
+msgstr ""
+
+#: dq-admin/themes/modern/tools/backup.php:71
+msgid "This is the folder in which your backups will be created. We recommend that you choose a non-public path."
+msgstr ""
+
+#: dq-admin/themes/modern/tools/backup.php:76
+msgid "Backup SQL (store on server)"
+msgstr ""
+
+#: dq-admin/themes/modern/tools/backup.php:77
+msgid "Backup SQL (download file)"
+msgstr ""
+
+#: dq-admin/themes/modern/tools/backup.php:78
+msgid "Backup files (store on server)"
+msgstr ""
+
+#: dq-admin/themes/modern/tools/category.php:30
+msgid "Category stats &raquo; %s"
+msgstr ""
+
+#: dq-admin/themes/modern/tools/category.php:38
+#: dq-includes/osclass/classes/AdminMenu.php:114
+msgid "Category stats"
+msgstr ""
+
+#: dq-admin/themes/modern/tools/category.php:40
+msgid "You can recalculate stats by category, useful if the stats seem to be incorrect."
+msgstr ""
+
+#: dq-admin/themes/modern/tools/category.php:48
+msgid "Calculate category stats"
+msgstr ""
+
+#: dq-admin/themes/modern/tools/import.php:26
+msgid "Upload registers from other Osclass installations or upload new geographic information to your site. <strong>Be careful</strong>: don’t use this option if you're not 100% sure what you're doing."
+msgstr ""
+
+#: dq-admin/themes/modern/tools/import.php:38
+msgid "Import &raquo; %s"
+msgstr ""
+
+#: dq-admin/themes/modern/tools/import.php:45
+msgid "Import"
+msgstr ""
+
+#: dq-admin/themes/modern/tools/import.php:52
+msgid "File (.sql)"
+msgstr ""
+
+#: dq-admin/themes/modern/tools/import.php:58
+#: dq-includes/osclass/classes/AdminMenu.php:110
+msgid "Import data"
+msgstr ""
+
+#: dq-admin/themes/modern/tools/locations.php:72
+msgid "Location stats &raquo; %s"
+msgstr ""
+
+#: dq-admin/themes/modern/tools/locations.php:80
+msgid "Locations stats"
+msgstr ""
+
+#: dq-admin/themes/modern/tools/locations.php:83
+msgid "Complete"
+msgstr ""
+
+#: dq-admin/themes/modern/tools/locations.php:87
+msgid "You can recalculate your location stats. This is useful if you upgrade from versions older than Osclass 2.4"
+msgstr ""
+
+#: dq-admin/themes/modern/tools/locations.php:95
+msgid "Calculate location stats"
+msgstr ""
+
+#: dq-admin/themes/modern/tools/maintenance.php:26
+msgid "Show a \"Site in maintenance mode\" message to your users while you're updating your site or modifying its configuration."
+msgstr ""
+
+#: dq-admin/themes/modern/tools/maintenance.php:47
+msgid "Maintenance"
+msgstr ""
+
+#: dq-admin/themes/modern/tools/maintenance.php:52
+msgid "While in maintenance mode, users can't access your website. Useful if you need to make changes on your website. Use the following button to toggle maintenance mode ON/OFF."
+msgstr ""
+
+#: dq-admin/themes/modern/tools/maintenance.php:54
+msgid "Maintenance mode is: <strong>%s</strong>"
+msgstr ""
+
+#: dq-admin/themes/modern/tools/maintenance.php:58
+msgid "Disable maintenance mode"
+msgstr ""
+
+#: dq-admin/themes/modern/tools/maintenance.php:58
+msgid "Enable maintenance mode"
+msgstr ""
+
+#: dq-admin/themes/modern/tools/upgrade.php:43
+msgid "Checking for updates (Current version %s)"
+msgstr ""
+
+#: dq-admin/themes/modern/tools/upgrade.php:47
+msgid "Congratulations! Your Osclass installation is up to date!"
+msgstr ""
+
+#: dq-admin/themes/modern/tools/upgrade.php:49
+msgid "New version to update:"
+msgstr ""
+
+#: dq-admin/themes/modern/tools/upgrade.php:51
+msgid "Upgrading your Osclass installation (this could take a while):"
+msgstr ""
+
+#: dq-admin/themes/modern/tools/upgrade.php:64
+#: dq-admin/themes/modern/tools/upgrade.php:101
+#: dq-admin/themes/modern/upgrade/index.php:26
+#: dq-admin/themes/modern/upgrade/index.php:56
+msgid "Upgrade"
+msgstr ""
+
+#: dq-admin/themes/modern/tools/upgrade.php:80
+msgid "Check to see if you're using the latest version of Osclass. If you're not, the system will let you know so you can update and use the newest features."
+msgstr ""
+
+#: dq-admin/themes/modern/tools/upgrade.php:93
+msgid "Upgrade &raquo; %s"
+msgstr ""
+
+#: dq-admin/themes/modern/tools/upgrade.php:109
+msgid "Your Osclass installation can be auto-upgraded. Please, back up your database and the folder dq-content before attempting to upgrade your Osclass installation. You can also upgrade Osclass manaully, more information in the %s"
+msgstr ""
+
+#: dq-admin/themes/modern/tools/upgrade.php:113
+msgid "Your Osclass installation can't be auto-upgraded. Files and folders need to be writable. You can apply write permissions via SSH with the command \"chmod -R a+w *\" (without quotes) or via an FTP client, it depends on the program so we can not provide more information. You can also upgrade Osclass by downloading the upgrade package, unzipping it and replacing the files on your server with the ones in the package."
+msgstr ""
+
+#: dq-admin/themes/modern/tools/version.php:21
+msgid "Osclass %s"
+msgstr ""
+
+#: dq-admin/themes/modern/tools/version.php:28
+msgid "Osclass %s &raquo; %s"
+msgstr ""
+
+#: dq-admin/themes/modern/upgrade/index.php:60
+msgid "Upgrading your Osclass installation (this could take a while): "
+msgstr ""
+
+#: dq-admin/themes/modern/upgrade/index.php:64
+msgid "You have uploaded a new version of Osclass, you need to upgrade Osclass for it to work correctly."
+msgstr ""
+
+#: dq-admin/themes/modern/upgrade/index.php:66
+msgid "Upgrade now"
+msgstr ""
+
+#: dq-admin/themes/modern/users/alerts.php:20
+msgid "Add, edit or delete information associated to alerts."
+msgstr ""
+
+#: dq-admin/themes/modern/users/alerts.php:33
+msgid "Manage alerts &raquo; %s"
+msgstr ""
+
+#: dq-admin/themes/modern/users/alerts.php:125
+msgid "Manage alerts"
+msgstr ""
+
+#: dq-admin/themes/modern/users/alerts.php:148
+msgid "Bulk Actions"
+msgstr ""
+
+#: dq-admin/themes/modern/users/alerts.php:149
+#: dq-admin/themes/modern/users/alerts.php:150
+#: dq-admin/themes/modern/users/alerts.php:151
+msgid "Are you sure you want to %s the selected alerts?"
+msgstr ""
+
+#: dq-admin/themes/modern/users/alerts.php:194
+#: dq-admin/themes/modern/users/frm.php:387
+msgid "Delete alert"
+msgstr ""
+
+#: dq-admin/themes/modern/users/alerts.php:201
+#: dq-admin/themes/modern/users/frm.php:394
+msgid "Are you sure you want to delete this alert?"
+msgstr ""
+
+#: dq-admin/themes/modern/users/ban.php:20
+msgid "Add, edit or delete ban rules. Keep in mind that ban rules prevent users to register, publish or comment on listings."
+msgstr ""
+
+#: dq-admin/themes/modern/users/ban.php:36
+msgid "Manage ban rules &raquo; %s"
+msgstr ""
+
+#: dq-admin/themes/modern/users/ban.php:115
+msgid "Manage ban rules"
+msgstr ""
+
+#: dq-admin/themes/modern/users/ban.php:169
+msgid "Delete rule"
+msgstr ""
+
+#: dq-admin/themes/modern/users/ban.php:175
+msgid "Are you sure you want to delete this ban rule?"
+msgstr ""
+
+#: dq-admin/themes/modern/users/ban_frm.php:29
+msgid "Edit rule"
+msgstr ""
+
+#: dq-admin/themes/modern/users/ban_frm.php:31
+msgid "Update rule"
+msgstr ""
+
+#: dq-admin/themes/modern/users/ban_frm.php:34
+#: dq-admin/themes/modern/users/ban_frm.php:36
+msgid "Add new ban rule"
+msgstr ""
+
+#: dq-admin/themes/modern/users/ban_frm.php:41
+#: dq-includes/osclass/classes/AdminMenu.php:107
+msgid "Ban rules"
+msgstr ""
+
+#: dq-admin/themes/modern/users/ban_frm.php:66
+#: dq-admin/themes/modern/users/frm.php:193
+msgid "Contact info"
+msgstr ""
+
+#: dq-admin/themes/modern/users/ban_frm.php:71
+#: dq-includes/osclass/classes/datatables/BanRulesDataTable.php:56
+msgid "Ban name / Reason"
+msgstr ""
+
+#: dq-admin/themes/modern/users/ban_frm.php:77
+#: dq-includes/osclass/classes/datatables/BanRulesDataTable.php:57
+msgid "IP rule"
+msgstr ""
+
+#: dq-admin/themes/modern/users/ban_frm.php:80
+msgid "(e.g. 192.168.10-20.*)"
+msgstr ""
+
+#: dq-admin/themes/modern/users/ban_frm.php:84
+#: dq-includes/osclass/classes/datatables/BanRulesDataTable.php:58
+msgid "E-mail rule"
+msgstr ""
+
+#: dq-admin/themes/modern/users/ban_frm.php:87
+msgid "(e.g. *@badsite.com)"
+msgstr ""
+
+#: dq-admin/themes/modern/users/frm.php:35
+msgid "Update user"
+msgstr ""
+
+#: dq-admin/themes/modern/users/frm.php:39
+#: dq-admin/themes/modern/users/frm.php:41
+msgid "Add new user"
+msgstr ""
+
+#: dq-admin/themes/modern/users/frm.php:127
+#: dq-includes/osclass/frm/Admin.form.class.php:103
+msgid "Username: this field is required"
+msgstr ""
+
+#: dq-admin/themes/modern/users/frm.php:152
+msgid "The username is available"
+msgstr ""
+
+#: dq-admin/themes/modern/users/frm.php:154
+msgid "The username is NOT available"
+msgstr ""
+
+#: dq-admin/themes/modern/users/frm.php:203
+msgid "Last access"
+msgstr ""
+
+#: dq-admin/themes/modern/users/frm.php:206
+msgid "%s on %s"
+msgstr ""
+
+#: dq-admin/themes/modern/users/frm.php:224
+msgid "(required)"
+msgstr ""
+
+#: dq-admin/themes/modern/users/frm.php:230
+msgid "Cell phone"
+msgstr ""
+
+#: dq-admin/themes/modern/users/frm.php:236
+msgid "Phone"
+msgstr ""
+
+#: dq-admin/themes/modern/users/frm.php:242
+msgid "Website"
+msgstr ""
+
+#: dq-admin/themes/modern/users/frm.php:247
+msgid "About you"
+msgstr ""
+
+#: dq-admin/themes/modern/users/frm.php:249
+msgid "User type"
+msgstr ""
+
+#: dq-admin/themes/modern/users/frm.php:255
+msgid "Additional information"
+msgstr ""
+
+#: dq-admin/themes/modern/users/frm.php:293
+msgid "(twice, required)"
+msgstr ""
+
+#: dq-admin/themes/modern/users/frm.php:297
+msgid "If you'd like to change the password, type a new one. Otherwise leave this blank"
+msgstr ""
+
+#: dq-admin/themes/modern/users/frm.php:340
+msgid "Alert #%d"
+msgstr ""
+
+#: dq-admin/themes/modern/users/frm.php:343
+#: dq-includes/osclass/classes/datatables/AlertsDataTable.php:101
+msgid "<b>Pattern:</b> %s"
+msgstr ""
+
+#: dq-admin/themes/modern/users/frm.php:353
+#: dq-includes/osclass/classes/datatables/AlertsDataTable.php:110
+msgid "...More"
+msgstr ""
+
+#: dq-admin/themes/modern/users/frm.php:356
+#: dq-includes/osclass/classes/datatables/AlertsDataTable.php:113
+msgid "<b>Categories:</b> %s"
+msgstr ""
+
+#: dq-admin/themes/modern/users/index.php:20
+msgid "Add, edit or delete information associated to registered users. Keep in mind that deleting a user also deletes all the listings the user published."
+msgstr ""
+
+#: dq-admin/themes/modern/users/index.php:35
+msgid "Manage users &raquo; %s"
+msgstr ""
+
+#: dq-admin/themes/modern/users/index.php:244
+msgid "Manage users"
+msgstr ""
+
+#: dq-admin/themes/modern/users/index.php:254
+#: dq-admin/themes/modern/users/index.php:255
+#: dq-admin/themes/modern/users/index.php:256
+#: dq-admin/themes/modern/users/index.php:257
+msgid "%d Users"
+msgstr ""
+
+#: dq-admin/themes/modern/users/index.php:317
+msgid "Delete user"
+msgstr ""
+
+#: dq-admin/themes/modern/users/index.php:323
+msgid "Are you sure you want to delete this user?"
+msgstr ""
+
+#: dq-admin/themes/modern/users/settings.php:20
+msgid "Manage the options related to users on your site. Here, you can decide if users must register or if email confirmation is necessary, among other options."
+msgstr ""
+
+#: dq-admin/themes/modern/users/settings.php:33
+msgid "User Settings &raquo; %s"
+msgstr ""
+
+#: dq-admin/themes/modern/users/settings.php:39
+#: dq-includes/osclass/classes/AdminMenu.php:103
+msgid "User Settings"
+msgstr ""
+
+#: dq-admin/themes/modern/users/settings.php:50
+msgid "Users enabled"
+msgstr ""
+
+#: dq-admin/themes/modern/users/settings.php:56
+msgid "Anyone can register"
+msgstr ""
+
+#: dq-admin/themes/modern/users/settings.php:62
+msgid "Users need to validate their account"
+msgstr ""
+
+#: dq-admin/themes/modern/users/settings.php:67
+msgid "Admin notifications"
+msgstr ""
+
+#: dq-admin/themes/modern/users/settings.php:71
+msgid "When a new user is registered"
+msgstr ""
+
+#: dq-admin/themes/modern/users/settings.php:76
+msgid "Username blacklist"
+msgstr ""
+
+#: dq-admin/themes/modern/users/settings.php:80
+msgid "List of terms not allowed in usernames, separated by commas"
+msgstr ""
+
+#: dq-admin/users.php:537
+msgid "Are you sure you want to %s the selected ban rules?"
+msgstr ""
+
+#: dq-admin/users.php:667
+#: dq-admin/users.php:668
+#: dq-admin/users.php:669
+#: dq-admin/users.php:670
+#: dq-admin/users.php:671
+#: dq-admin/users.php:674
+msgid "Are you sure you want to %s the selected users?"
+msgstr ""
+
+#: dq-admin/users.php:674
+msgid "Resend the activation to"
+msgstr ""
+
+#: dq-admin/users.php:674
+msgid "Resend activation"
+msgstr ""
+
+#: dq-includes/AjaxUploader.php:26
+msgid "Server error. Upload directory isn't writable."
+msgstr ""
+
+#: dq-includes/AjaxUploader.php:27
+msgid "No files were uploaded."
+msgstr ""
+
+#: dq-includes/AjaxUploader.php:29
+msgid "File is empty"
+msgstr ""
+
+#: dq-includes/AjaxUploader.php:30
+msgid "File is too large"
+msgstr ""
+
+#: dq-includes/AjaxUploader.php:37
+msgid "File has an invalid extension, it should be one of %s."
+msgstr ""
+
+#: dq-includes/AjaxUploader.php:79
+msgid "Getting content length is not supported."
+msgstr ""
+
+#: dq-includes/osclass/ItemActions.php:87
+msgid "Anonymous"
+msgstr ""
+
+#: dq-includes/osclass/ItemActions.php:871
+#: dq-includes/osclass/frm/Contact.form.class.php:116
+#: dq-includes/osclass/frm/Contact.form.class.php:117
+#: dq-includes/osclass/frm/SendFriend.form.class.php:121
+msgid "Message: this field is required"
+msgstr ""
+
+#: dq-includes/osclass/ItemActions.php:873
+#: dq-includes/osclass/frm/SendFriend.form.class.php:108
+msgid "Your name: this field is required"
+msgstr ""
+
+#: dq-includes/osclass/Themes.php:198
+msgid "ERROR: Some scripts could not be loaded (%s)"
+msgstr ""
+
+#: dq-includes/osclass/classes/AdminMenu.php:59
+msgid "Manage media"
+msgstr ""
+
+#: dq-includes/osclass/classes/AdminMenu.php:70
+msgid "Manage themes"
+msgstr ""
+
+#: dq-includes/osclass/classes/AdminMenu.php:72
+msgid "Manage widgets"
+msgstr ""
+
+#: dq-includes/osclass/classes/AdminMenu.php:75
+msgid "Manage plugins"
+msgstr ""
+
+#: dq-includes/osclass/classes/AdminMenu.php:80
+msgid "Reports"
+msgstr ""
+
+#: dq-includes/osclass/classes/AdminMenu.php:85
+msgid "General"
+msgstr ""
+
+#: dq-includes/osclass/classes/AdminMenu.php:89
+msgid "Email templates"
+msgstr ""
+
+#: dq-includes/osclass/classes/AdminMenu.php:94
+msgid "Mail server"
+msgstr ""
+
+#: dq-includes/osclass/classes/AdminMenu.php:95
+msgid "Media"
+msgstr ""
+
+#: dq-includes/osclass/classes/AdminMenu.php:97
+#: dq-includes/osclass/install-functions.php:667
+msgid "Advanced"
+msgstr ""
+
+#: dq-includes/osclass/classes/AdminMenu.php:104
+msgid "Administrators"
+msgstr ""
+
+#: dq-includes/osclass/classes/AdminMenu.php:105
+msgid "Your Profile"
+msgstr ""
+
+#: dq-includes/osclass/classes/AdminMenu.php:111
+msgid "Backup data"
+msgstr ""
+
+#: dq-includes/osclass/classes/AdminMenu.php:112
+msgid "Upgrade Osclass"
+msgstr ""
+
+#: dq-includes/osclass/classes/AdminMenu.php:113
+msgid "Location stats"
+msgstr ""
+
+#: dq-includes/osclass/classes/AdminMenu.php:115
+msgid "Maintenance mode"
+msgstr ""
+
+#: dq-includes/osclass/classes/Breadcrumb.php:322
+#: dq-includes/osclass/functions.php:190
+msgid "Publish a listing"
+msgstr ""
+
+#: dq-includes/osclass/classes/Breadcrumb.php:323
+#: dq-includes/osclass/functions.php:191
+msgid "Edit your listing"
+msgstr ""
+
+#: dq-includes/osclass/classes/Breadcrumb.php:324
+#: dq-includes/osclass/functions.php:192
+msgid "Send to a friend"
+msgstr ""
+
+#: dq-includes/osclass/classes/Breadcrumb.php:326
+#: dq-includes/osclass/functions.php:160
+#: dq-includes/osclass/functions.php:246
+msgid "Search results"
+msgstr ""
+
+#: dq-includes/osclass/classes/Breadcrumb.php:327
+msgid "Search results: %s"
+msgstr ""
+
+#: dq-includes/osclass/classes/Breadcrumb.php:329
+msgid "%s's profile"
+msgstr ""
+
+#: dq-includes/osclass/classes/Breadcrumb.php:330
+msgid "Account"
+msgstr ""
+
+#: dq-includes/osclass/classes/Breadcrumb.php:331
+msgid "My listings"
+msgstr ""
+
+#: dq-includes/osclass/classes/Breadcrumb.php:332
+msgid "My alerts"
+msgstr ""
+
+#: dq-includes/osclass/classes/Breadcrumb.php:333
+#: dq-includes/osclass/functions.php:269
+msgid "Update my profile"
+msgstr ""
+
+#: dq-includes/osclass/classes/Breadcrumb.php:334
+#: dq-includes/osclass/functions.php:271
+msgid "Change my email"
+msgstr ""
+
+#: dq-includes/osclass/classes/Breadcrumb.php:335
+#: dq-includes/osclass/functions.php:272
+msgid "Change my username"
+msgstr ""
+
+#: dq-includes/osclass/classes/Breadcrumb.php:336
+#: dq-includes/osclass/functions.php:273
+msgid "Change my password"
+msgstr ""
+
+#: dq-includes/osclass/classes/Breadcrumb.php:337
+#: dq-includes/osclass/functions.php:258
+msgid "Login"
+msgstr ""
+
+#: dq-includes/osclass/classes/Breadcrumb.php:338
+#: dq-includes/osclass/functions.php:257
+msgid "Recover your password"
+msgstr ""
+
+#: dq-includes/osclass/classes/Breadcrumb.php:340
+#: dq-includes/osclass/functions.php:262
+msgid "Create a new account"
+msgstr ""
+
+#: dq-includes/osclass/classes/Dependencies.php:69
+msgid "ERROR: Some dependencies could not be loaded (%s)"
+msgstr ""
+
+#: dq-includes/osclass/classes/EmailVariables.php:56
+msgid "User name"
+msgstr ""
+
+#: dq-includes/osclass/classes/EmailVariables.php:57
+msgid "User email"
+msgstr ""
+
+#: dq-includes/osclass/classes/EmailVariables.php:58
+msgid "Link for account validation."
+msgstr ""
+
+#: dq-includes/osclass/classes/EmailVariables.php:59
+msgid "Url for account validation."
+msgstr ""
+
+#: dq-includes/osclass/classes/EmailVariables.php:60
+msgid "List of listings, used when send alerts"
+msgstr ""
+
+#: dq-includes/osclass/classes/EmailVariables.php:61
+msgid "Unsubscribe link."
+msgstr ""
+
+#: dq-includes/osclass/classes/EmailVariables.php:62
+msgid "Site home page url."
+msgstr ""
+
+#: dq-includes/osclass/classes/EmailVariables.php:63
+msgid "Site home page link."
+msgstr ""
+
+#: dq-includes/osclass/classes/EmailVariables.php:64
+msgid "Title of your site"
+msgstr ""
+
+#: dq-includes/osclass/classes/EmailVariables.php:65
+msgid "Current date"
+msgstr ""
+
+#: dq-includes/osclass/classes/EmailVariables.php:66
+msgid "Hour"
+msgstr ""
+
+#: dq-includes/osclass/classes/EmailVariables.php:67
+msgid "User ip address"
+msgstr ""
+
+#: dq-includes/osclass/classes/EmailVariables.php:68
+msgid "Comment author name"
+msgstr ""
+
+#: dq-includes/osclass/classes/EmailVariables.php:69
+msgid "Comment author email"
+msgstr ""
+
+#: dq-includes/osclass/classes/EmailVariables.php:70
+msgid "Comment title"
+msgstr ""
+
+#: dq-includes/osclass/classes/EmailVariables.php:71
+msgid "Comment text content"
+msgstr ""
+
+#: dq-includes/osclass/classes/EmailVariables.php:72
+msgid "Comment body"
+msgstr ""
+
+#: dq-includes/osclass/classes/EmailVariables.php:73
+msgid "Listing url"
+msgstr ""
+
+#: dq-includes/osclass/classes/EmailVariables.php:74
+msgid "Listing list"
+msgstr ""
+
+#: dq-includes/osclass/classes/EmailVariables.php:75
+msgid "Listing title"
+msgstr ""
+
+#: dq-includes/osclass/classes/EmailVariables.php:76
+msgid "Listing id"
+msgstr ""
+
+#: dq-includes/osclass/classes/EmailVariables.php:77
+msgid "Link for edit listing"
+msgstr ""
+
+#: dq-includes/osclass/classes/EmailVariables.php:78
+msgid "Url for edit listing"
+msgstr ""
+
+#: dq-includes/osclass/classes/EmailVariables.php:79
+msgid "Delete listing link"
+msgstr ""
+
+#: dq-includes/osclass/classes/EmailVariables.php:80
+msgid "Delete listing url"
+msgstr ""
+
+#: dq-includes/osclass/classes/EmailVariables.php:81
+msgid "Change user password link"
+msgstr ""
+
+#: dq-includes/osclass/classes/EmailVariables.php:82
+msgid "change user password url"
+msgstr ""
+
+#: dq-includes/osclass/classes/EmailVariables.php:83
+msgid "Date time"
+msgstr ""
+
+#: dq-includes/osclass/classes/EmailVariables.php:84
+msgid "Name of the friend who wants send"
+msgstr ""
+
+#: dq-includes/osclass/classes/EmailVariables.php:85
+msgid "Email of the friend who wants send"
+msgstr ""
+
+#: dq-includes/osclass/classes/EmailVariables.php:86
+msgid "Question about your listing"
+msgstr ""
+
+#: dq-includes/osclass/classes/EmailVariables.php:87
+msgid "Contact name"
+msgstr ""
+
+#: dq-includes/osclass/classes/EmailVariables.php:88
+msgid "User phone number"
+msgstr ""
+
+#: dq-includes/osclass/classes/EmailVariables.php:89
+msgid "Listing description"
+msgstr ""
+
+#: dq-includes/osclass/classes/EmailVariables.php:90
+msgid "Listing description in all languages"
+msgstr ""
+
+#: dq-includes/osclass/classes/EmailVariables.php:91
+msgid "Listing price"
+msgstr ""
+
+#: dq-includes/osclass/classes/EmailVariables.php:92
+msgid "Listing country"
+msgstr ""
+
+#: dq-includes/osclass/classes/EmailVariables.php:93
+msgid "Listing region"
+msgstr ""
+
+#: dq-includes/osclass/classes/EmailVariables.php:94
+msgid "Listing city"
+msgstr ""
+
+#: dq-includes/osclass/classes/ImageResizer.php:43
+msgid "%s does not exist!"
+msgstr ""
+
+#: dq-includes/osclass/classes/ImageResizer.php:44
+msgid "%s is not readable!"
+msgstr ""
+
+#: dq-includes/osclass/classes/ImageResizer.php:45
+msgid "%s is corrupt or broken!"
+msgstr ""
+
+#: dq-includes/osclass/classes/Plugins.php:101
+msgid "Plugin %s is missing the index.php file %s"
+msgstr ""
+
+#: dq-includes/osclass/classes/datatables/AlertsDataTable.php:56
+msgid "Alert"
+msgstr ""
+
+#: dq-includes/osclass/classes/datatables/BanRulesDataTable.php:80
+#: dq-includes/osclass/classes/datatables/CommentsDataTable.php:112
+#: dq-includes/osclass/classes/datatables/ItemsDataTable.php:272
+#: dq-includes/osclass/classes/datatables/UsersDataTable.php:108
+#: dq-includes/osclass/helpers/hAdminMenu.php:172
+msgid "Show more"
+msgstr ""
+
+#: dq-includes/osclass/classes/datatables/ItemsDataTable.php:146
+#: dq-includes/osclass/classes/datatables/ItemsDataTable.php:210
+msgid "Expiration date"
+msgstr ""
+
+#: dq-includes/osclass/classes/datatables/ItemsDataTable.php:205
+msgid "Misclassified"
+msgstr ""
+
+#: dq-includes/osclass/classes/datatables/ItemsDataTable.php:264
+msgid "View comments"
+msgstr ""
+
+#: dq-includes/osclass/classes/datatables/ItemsDataTable.php:267
+msgid "View media"
+msgstr ""
+
+#: dq-includes/osclass/classes/datatables/ItemsDataTable.php:333
+msgid "Clear Misclassified"
+msgstr ""
+
+#: dq-includes/osclass/classes/datatables/ItemsDataTable.php:368
+msgid "Never expires"
+msgstr ""
+
+#: dq-includes/osclass/classes/datatables/MediaDataTable.php:78
+msgid "File"
+msgstr ""
+
+#: dq-includes/osclass/classes/datatables/MediaDataTable.php:79
+msgid "Action"
+msgstr ""
+
+#: dq-includes/osclass/classes/datatables/MediaDataTable.php:80
+msgid "Attached to"
+msgstr ""
+
+#: dq-includes/osclass/classes/datatables/PagesDataTable.php:61
+msgid "Order"
+msgstr ""
+
+#: dq-includes/osclass/classes/datatables/PagesDataTable.php:85
+msgid "View page"
+msgstr ""
+
+#: dq-includes/osclass/classes/datatables/PagesDataTable.php:100
+msgid "Up"
+msgstr ""
+
+#: dq-includes/osclass/classes/datatables/PagesDataTable.php:100
+msgid "Down"
+msgstr ""
+
+#: dq-includes/osclass/classes/datatables/UsersDataTable.php:71
+msgid "Update date"
+msgstr ""
+
+#: dq-includes/osclass/classes/datatables/UsersDataTable.php:90
+#: dq-includes/osclass/functions.php:270
+msgid "Public profile"
+msgstr ""
+
+#: dq-includes/osclass/classes/datatables/UsersDataTable.php:103
+msgid "Re-send activation email"
+msgstr ""
+
+#: dq-includes/osclass/controller/contact.php:73
+msgid "Name: %s"
+msgstr ""
+
+#: dq-includes/osclass/controller/contact.php:74
+msgid "Email: %s"
+msgstr ""
+
+#: dq-includes/osclass/controller/contact.php:75
+msgid "Subject: %s"
+msgstr ""
+
+#: dq-includes/osclass/controller/contact.php:76
+msgid "Message: %s"
+msgstr ""
+
+#: dq-includes/osclass/controller/contact.php:77
+msgid "Date: %s at %s"
+msgstr ""
+
+#: dq-includes/osclass/controller/contact.php:78
+msgid "IP Address: %s"
+msgstr ""
+
+#: dq-includes/osclass/controller/search.php:449
+msgid "Latest listings added"
+msgstr ""
+
+#: dq-includes/osclass/controller/search.php:451
+msgid "Latest listings added in"
+msgstr ""
+
+#: dq-includes/osclass/core/AdminSecBaseModel.php:104
+msgid "Session timed out"
+msgstr ""
+
+#: dq-includes/osclass/emails.php:75
+#: dq-includes/osclass/emails.php:121
+#: dq-includes/osclass/emails.php:167
+#: dq-includes/osclass/emails.php:213
+msgid "unsubscribe alert"
+msgstr ""
+
+#: dq-includes/osclass/emails.php:728
+msgid "Admin mail system"
+msgstr ""
+
+#: dq-includes/osclass/emails.php:1275
+msgid "<p>Dear {WEB_TITLE} admin,</p>"
+msgstr ""
+
+#: dq-includes/osclass/emails.php:1277
+msgid "{WEB_TITLE} - Your site has upgraded to Osclass {VERSION}"
+msgstr ""
+
+#: dq-includes/osclass/emails.php:1278
+msgid "<p>Your site at {WEB_LINK} has been updated automatically to Osclass {VERSION}</p>"
+msgstr ""
+
+#: dq-includes/osclass/emails.php:1280
+msgid "<p>There were some minor errors removing temporary files. Please manually remove the \"dq-content/downloads/oc-temp\" folder</p>"
+msgstr ""
+
+#: dq-includes/osclass/emails.php:1283
+msgid "{WEB_TITLE} - We failed trying to upgrade your site to Osclass {VERSION}"
+msgstr ""
+
+#: dq-includes/osclass/frm/Admin.form.class.php:55
+msgid "Administrator"
+msgstr ""
+
+#: dq-includes/osclass/frm/Admin.form.class.php:56
+msgid "Moderator"
+msgstr ""
+
+#: dq-includes/osclass/frm/Admin.form.class.php:99
+#: dq-includes/osclass/frm/Item.form.class.php:764
+#: dq-includes/osclass/frm/Item.form.class.php:1049
+msgid "Name: enter at least 3 characters"
+msgstr ""
+
+#: dq-includes/osclass/frm/Admin.form.class.php:100
+msgid "Name: no more than 50 characters"
+msgstr ""
+
+#: dq-includes/osclass/frm/Admin.form.class.php:104
+msgid "Username: enter at least 3 characters"
+msgstr ""
+
+#: dq-includes/osclass/frm/Admin.form.class.php:105
+msgid "Username: no more than 50 characters"
+msgstr ""
+
+#: dq-includes/osclass/frm/Admin.form.class.php:112
+#: dq-includes/osclass/frm/User.form.class.php:196
+#: dq-includes/osclass/frm/User.form.class.php:305
+msgid "Password: enter at least 5 characters"
+msgstr ""
+
+#: dq-includes/osclass/frm/Admin.form.class.php:115
+#: dq-includes/osclass/frm/User.form.class.php:201
+#: dq-includes/osclass/frm/User.form.class.php:309
+msgid "Passwords don't match"
+msgstr ""
+
+#: dq-includes/osclass/frm/Alert.form.class.php:36
+msgid "Enter your e-mail"
+msgstr ""
+
+#: dq-includes/osclass/frm/Comment.form.class.php:110
+#: dq-includes/osclass/frm/Comment.form.class.php:111
+msgid "Comment: this field is required"
+msgstr ""
+
+#: dq-includes/osclass/frm/Field.form.class.php:30
+msgid "Done"
+msgstr ""
+
+#: dq-includes/osclass/frm/Field.form.class.php:31
+msgid "Prev"
+msgstr ""
+
+#: dq-includes/osclass/frm/Field.form.class.php:32
+msgid "Next"
+msgstr ""
+
+#: dq-includes/osclass/frm/Field.form.class.php:33
+msgid "Today"
+msgstr ""
+
+#: dq-includes/osclass/frm/Field.form.class.php:34
+#: dq-includes/osclass/helpers/hUtils.php:129
+msgid "January"
+msgstr ""
+
+#: dq-includes/osclass/frm/Field.form.class.php:34
+#: dq-includes/osclass/helpers/hUtils.php:129
+msgid "February"
+msgstr ""
+
+#: dq-includes/osclass/frm/Field.form.class.php:34
+#: dq-includes/osclass/helpers/hUtils.php:129
+msgid "March"
+msgstr ""
+
+#: dq-includes/osclass/frm/Field.form.class.php:34
+#: dq-includes/osclass/helpers/hUtils.php:129
+msgid "April"
+msgstr ""
+
+#: dq-includes/osclass/frm/Field.form.class.php:34
+#: dq-includes/osclass/frm/Field.form.class.php:35
+#: dq-includes/osclass/helpers/hUtils.php:129
+#: dq-includes/osclass/helpers/hUtils.php:130
+msgid "May"
+msgstr ""
+
+#: dq-includes/osclass/frm/Field.form.class.php:34
+#: dq-includes/osclass/helpers/hUtils.php:129
+msgid "June"
+msgstr ""
+
+#: dq-includes/osclass/frm/Field.form.class.php:34
+#: dq-includes/osclass/helpers/hUtils.php:129
+msgid "July"
+msgstr ""
+
+#: dq-includes/osclass/frm/Field.form.class.php:34
+#: dq-includes/osclass/helpers/hUtils.php:129
+msgid "August"
+msgstr ""
+
+#: dq-includes/osclass/frm/Field.form.class.php:34
+#: dq-includes/osclass/helpers/hUtils.php:129
+msgid "September"
+msgstr ""
+
+#: dq-includes/osclass/frm/Field.form.class.php:34
+#: dq-includes/osclass/helpers/hUtils.php:129
+msgid "October"
+msgstr ""
+
+#: dq-includes/osclass/frm/Field.form.class.php:34
+#: dq-includes/osclass/helpers/hUtils.php:129
+msgid "November"
+msgstr ""
+
+#: dq-includes/osclass/frm/Field.form.class.php:34
+#: dq-includes/osclass/helpers/hUtils.php:129
+msgid "December"
+msgstr ""
+
+#: dq-includes/osclass/frm/Field.form.class.php:35
+#: dq-includes/osclass/helpers/hUtils.php:130
+msgid "Jan"
+msgstr ""
+
+#: dq-includes/osclass/frm/Field.form.class.php:35
+#: dq-includes/osclass/helpers/hUtils.php:130
+msgid "Feb"
+msgstr ""
+
+#: dq-includes/osclass/frm/Field.form.class.php:35
+#: dq-includes/osclass/helpers/hUtils.php:130
+msgid "Mar"
+msgstr ""
+
+#: dq-includes/osclass/frm/Field.form.class.php:35
+#: dq-includes/osclass/helpers/hUtils.php:130
+msgid "Apr"
+msgstr ""
+
+#: dq-includes/osclass/frm/Field.form.class.php:35
+#: dq-includes/osclass/helpers/hUtils.php:130
+msgid "Jun"
+msgstr ""
+
+#: dq-includes/osclass/frm/Field.form.class.php:35
+#: dq-includes/osclass/helpers/hUtils.php:130
+msgid "Jul"
+msgstr ""
+
+#: dq-includes/osclass/frm/Field.form.class.php:35
+#: dq-includes/osclass/helpers/hUtils.php:130
+msgid "Aug"
+msgstr ""
+
+#: dq-includes/osclass/frm/Field.form.class.php:35
+#: dq-includes/osclass/helpers/hUtils.php:130
+msgid "Sep"
+msgstr ""
+
+#: dq-includes/osclass/frm/Field.form.class.php:35
+#: dq-includes/osclass/helpers/hUtils.php:130
+msgid "Oct"
+msgstr ""
+
+#: dq-includes/osclass/frm/Field.form.class.php:35
+#: dq-includes/osclass/helpers/hUtils.php:130
+msgid "Nov"
+msgstr ""
+
+#: dq-includes/osclass/frm/Field.form.class.php:35
+#: dq-includes/osclass/helpers/hUtils.php:130
+msgid "Dec"
+msgstr ""
+
+#: dq-includes/osclass/frm/Field.form.class.php:37
+#: dq-includes/osclass/helpers/hUtils.php:132
+msgid "Sun"
+msgstr ""
+
+#: dq-includes/osclass/frm/Field.form.class.php:37
+#: dq-includes/osclass/helpers/hUtils.php:132
+msgid "Mon"
+msgstr ""
+
+#: dq-includes/osclass/frm/Field.form.class.php:37
+#: dq-includes/osclass/helpers/hUtils.php:132
+msgid "Tue"
+msgstr ""
+
+#: dq-includes/osclass/frm/Field.form.class.php:37
+#: dq-includes/osclass/helpers/hUtils.php:132
+msgid "Wed"
+msgstr ""
+
+#: dq-includes/osclass/frm/Field.form.class.php:37
+#: dq-includes/osclass/helpers/hUtils.php:132
+msgid "Thu"
+msgstr ""
+
+#: dq-includes/osclass/frm/Field.form.class.php:37
+#: dq-includes/osclass/helpers/hUtils.php:132
+msgid "Fri"
+msgstr ""
+
+#: dq-includes/osclass/frm/Field.form.class.php:37
+#: dq-includes/osclass/helpers/hUtils.php:132
+msgid "Sat"
+msgstr ""
+
+#: dq-includes/osclass/frm/Field.form.class.php:38
+msgid "Su"
+msgstr ""
+
+#: dq-includes/osclass/frm/Field.form.class.php:38
+msgid "Mo"
+msgstr ""
+
+#: dq-includes/osclass/frm/Field.form.class.php:38
+msgid "Tu"
+msgstr ""
+
+#: dq-includes/osclass/frm/Field.form.class.php:38
+msgid "We"
+msgstr ""
+
+#: dq-includes/osclass/frm/Field.form.class.php:38
+msgid "Th"
+msgstr ""
+
+#: dq-includes/osclass/frm/Field.form.class.php:38
+msgid "Fr"
+msgstr ""
+
+#: dq-includes/osclass/frm/Field.form.class.php:38
+msgid "Sa"
+msgstr ""
+
+#: dq-includes/osclass/frm/Field.form.class.php:39
+msgid "Wk"
+msgstr ""
+
+#: dq-includes/osclass/frm/Field.form.class.php:126
+msgid "TEXT"
+msgstr ""
+
+#: dq-includes/osclass/frm/Field.form.class.php:127
+msgid "TEXTAREA"
+msgstr ""
+
+#: dq-includes/osclass/frm/Field.form.class.php:128
+msgid "DROPDOWN"
+msgstr ""
+
+#: dq-includes/osclass/frm/Field.form.class.php:129
+msgid "RADIO"
+msgstr ""
+
+#: dq-includes/osclass/frm/Field.form.class.php:130
+msgid "CHECKBOX"
+msgstr ""
+
+#: dq-includes/osclass/frm/Field.form.class.php:132
+msgid "DATE"
+msgstr ""
+
+#: dq-includes/osclass/frm/Field.form.class.php:133
+msgid "DATE INTERVAL"
+msgstr ""
+
+#: dq-includes/osclass/frm/Field.form.class.php:250
+msgid "from"
+msgstr ""
+
+#: dq-includes/osclass/frm/Field.form.class.php:255
+#: dq-includes/osclass/helpers/hItems.php:1209
+msgid "to"
+msgstr ""
+
+#: dq-includes/osclass/frm/Item.form.class.php:53
+#: dq-includes/osclass/frm/ManageItems.form.class.php:43
+#: dq-includes/osclass/helpers/hCategories.php:254
+msgid "Select a category"
+msgstr ""
+
+#: dq-includes/osclass/frm/Item.form.class.php:108
+msgid "Select Category"
+msgstr ""
+
+#: dq-includes/osclass/frm/Item.form.class.php:119
+#: dq-includes/osclass/frm/Item.form.class.php:128
+msgid "Select Subcategory"
+msgstr ""
+
+#: dq-includes/osclass/frm/Item.form.class.php:125
+msgid "No Subcategory"
+msgstr ""
+
+#: dq-includes/osclass/frm/Item.form.class.php:483
+#: dq-includes/osclass/frm/User.form.class.php:103
+msgid "Select a country..."
+msgstr ""
+
+#: dq-includes/osclass/frm/Item.form.class.php:527
+#: dq-includes/osclass/frm/Item.form.class.php:865
+#: dq-includes/osclass/frm/Item.form.class.php:896
+#: dq-includes/osclass/frm/Item.form.class.php:903
+#: dq-includes/osclass/frm/Item.form.class.php:905
+#: dq-includes/osclass/frm/User.form.class.php:115
+#: dq-includes/osclass/frm/User.form.class.php:351
+#: dq-includes/osclass/frm/User.form.class.php:375
+#: dq-includes/osclass/frm/User.form.class.php:382
+#: dq-includes/osclass/frm/User.form.class.php:384
+msgid "Select a region..."
+msgstr ""
+
+#: dq-includes/osclass/frm/Item.form.class.php:553
+#: dq-includes/osclass/frm/Item.form.class.php:889
+#: dq-includes/osclass/frm/Item.form.class.php:899
+#: dq-includes/osclass/frm/Item.form.class.php:909
+#: dq-includes/osclass/frm/Item.form.class.php:911
+#: dq-includes/osclass/frm/Item.form.class.php:939
+#: dq-includes/osclass/frm/User.form.class.php:127
+#: dq-includes/osclass/frm/User.form.class.php:370
+#: dq-includes/osclass/frm/User.form.class.php:378
+#: dq-includes/osclass/frm/User.form.class.php:388
+#: dq-includes/osclass/frm/User.form.class.php:390
+#: dq-includes/osclass/frm/User.form.class.php:419
+msgid "Select a city..."
+msgstr ""
+
+#: dq-includes/osclass/frm/Item.form.class.php:713
+#: dq-includes/osclass/frm/Item.form.class.php:986
+msgid "Description needs to be longer"
+msgstr ""
+
+#: dq-includes/osclass/frm/Item.form.class.php:750
+#: dq-includes/osclass/frm/Item.form.class.php:1035
+msgid "Choose one category"
+msgstr ""
+
+#: dq-includes/osclass/frm/Item.form.class.php:753
+#: dq-includes/osclass/frm/Item.form.class.php:1038
+msgid "Price: no more than 50 characters"
+msgstr ""
+
+#: dq-includes/osclass/frm/Item.form.class.php:755
+#: dq-includes/osclass/frm/Item.form.class.php:1040
+msgid "Currency: make your selection"
+msgstr ""
+
+#: dq-includes/osclass/frm/Item.form.class.php:759
+#: dq-includes/osclass/frm/Item.form.class.php:1044
+msgid "Photo: must be %s"
+msgstr ""
+
+#: dq-includes/osclass/frm/Item.form.class.php:765
+#: dq-includes/osclass/frm/Item.form.class.php:1050
+msgid "Name: no more than 35 characters"
+msgstr ""
+
+#: dq-includes/osclass/frm/Item.form.class.php:773
+#: dq-includes/osclass/frm/Item.form.class.php:1064
+msgid "Address: enter at least 3 characters"
+msgstr ""
+
+#: dq-includes/osclass/frm/Item.form.class.php:774
+#: dq-includes/osclass/frm/Item.form.class.php:1065
+msgid "Address: no more than 100 characters"
+msgstr ""
+
+#: dq-includes/osclass/frm/Item.form.class.php:811
+#: dq-includes/osclass/frm/Item.form.class.php:1102
+#: dq-includes/osclass/frm/Item.form.class.php:1336
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr ""
+
+#: dq-includes/osclass/frm/Item.form.class.php:1057
+msgid "Select a region"
+msgstr ""
+
+#: dq-includes/osclass/frm/Item.form.class.php:1058
+msgid "Select a city"
+msgstr ""
+
+#: dq-includes/osclass/frm/Item.form.class.php:1060
+msgid "City area: enter at least 3 characters"
+msgstr ""
+
+#: dq-includes/osclass/frm/Item.form.class.php:1061
+msgid "City area: no more than 50 characters"
+msgstr ""
+
+#: dq-includes/osclass/frm/Item.form.class.php:1168
+msgid "Remove"
+msgstr ""
+
+#: dq-includes/osclass/frm/Item.form.class.php:1180
+msgid "Sorry, you have reached the maximum number of images per listing"
+msgstr ""
+
+#: dq-includes/osclass/frm/Item.form.class.php:1296
+msgid "Images already uploaded"
+msgstr ""
+
+#: dq-includes/osclass/frm/Item.form.class.php:1432
+msgid "Too many items ({netItems}) would be uploaded. Item limit is {itemLimit}."
+msgstr ""
+
+#: dq-includes/osclass/frm/Item.form.class.php:1433
+msgid "The files are being uploaded, if you leave now the upload will be cancelled."
+msgstr ""
+
+#: dq-includes/osclass/frm/Item.form.class.php:1434
+msgid "{file} has an invalid extension. Valid extension(s): {extensions}."
+msgstr ""
+
+#: dq-includes/osclass/frm/Item.form.class.php:1435
+msgid "{file} is too large, maximum file size is {sizeLimit}."
+msgstr ""
+
+#: dq-includes/osclass/frm/Item.form.class.php:1436
+msgid "{file} is empty, please select files again without it."
+msgstr ""
+
+#: dq-includes/osclass/frm/Item.form.class.php:1449
+msgid "Click or Drop for upload images"
+msgstr ""
+
+#: dq-includes/osclass/frm/Item.form.class.php:1450
+msgid "Processing..."
+msgstr ""
+
+#: dq-includes/osclass/frm/Item.form.class.php:1451
+msgid "Retry"
+msgstr ""
+
+#: dq-includes/osclass/frm/Item.form.class.php:1453
+msgid "Upload failed"
+msgstr ""
+
+#: dq-includes/osclass/frm/Item.form.class.php:1455
+msgid "Deleting..."
+msgstr ""
+
+#: dq-includes/osclass/frm/Item.form.class.php:1456
+msgid "{percent}% of {total_size}"
+msgstr ""
+
+#: dq-includes/osclass/frm/Item.form.class.php:1471
+msgid "Make primary image"
+msgstr ""
+
+#: dq-includes/osclass/frm/Item.form.class.php:1508
+msgid "Too many items were uploaded. Item limit is %d."
+msgstr ""
+
+#: dq-includes/osclass/frm/Language.form.class.php:129
+#: dq-includes/osclass/frm/Language.form.class.php:130
+msgid "Short name: this field is required"
+msgstr ""
+
+#: dq-includes/osclass/frm/Language.form.class.php:137
+#: dq-includes/osclass/frm/Language.form.class.php:138
+msgid "Currency format: this field is required"
+msgstr ""
+
+#: dq-includes/osclass/frm/Language.form.class.php:141
+msgid "Number of decimals: this field is required"
+msgstr ""
+
+#: dq-includes/osclass/frm/Language.form.class.php:142
+msgid "Number of decimals: this field must only contain numeric characters"
+msgstr ""
+
+#: dq-includes/osclass/frm/Language.form.class.php:145
+#: dq-includes/osclass/frm/Language.form.class.php:146
+msgid "Decimal point: this field is required"
+msgstr ""
+
+#: dq-includes/osclass/frm/Language.form.class.php:149
+#: dq-includes/osclass/frm/Language.form.class.php:150
+msgid "Thousands separator: this field is required"
+msgstr ""
+
+#: dq-includes/osclass/frm/Language.form.class.php:153
+#: dq-includes/osclass/frm/Language.form.class.php:154
+msgid "Date format: this field is required"
+msgstr ""
+
+#: dq-includes/osclass/frm/Page.form.class.php:74
+msgid "Body"
+msgstr ""
+
+#: dq-includes/osclass/frm/SendFriend.form.class.php:115
+msgid "Friend's name: this field is required"
+msgstr ""
+
+#: dq-includes/osclass/frm/SendFriend.form.class.php:118
+msgid "Friend's email: this field is required"
+msgstr ""
+
+#: dq-includes/osclass/frm/SendFriend.form.class.php:119
+msgid "Invalid friend's email address"
+msgstr ""
+
+#: dq-includes/osclass/frm/User.form.class.php:152
+msgid "Company"
+msgstr ""
+
+#: dq-includes/osclass/frm/User.form.class.php:159
+msgid "All"
+msgstr ""
+
+#: dq-includes/osclass/frm/User.form.class.php:195
+msgid "Password: this field is required"
+msgstr ""
+
+#: dq-includes/osclass/frm/User.form.class.php:199
+msgid "Second password: this field is required"
+msgstr ""
+
+#: dq-includes/osclass/frm/User.form.class.php:200
+#: dq-includes/osclass/frm/User.form.class.php:308
+msgid "Second password: enter at least 5 characters"
+msgstr ""
+
+#: dq-includes/osclass/functions.php:193
+msgid "Contact seller"
+msgstr ""
+
+#: dq-includes/osclass/functions.php:201
+#: dq-includes/osclass/install-functions.php:836
+msgid "Error"
+msgstr ""
+
+#: dq-includes/osclass/functions.php:212
+msgid "page"
+msgstr ""
+
+#: dq-includes/osclass/functions.php:222
+msgid "Show all listings"
+msgstr ""
+
+#: dq-includes/osclass/functions.php:267
+msgid "Manage my listings"
+msgstr ""
+
+#: dq-includes/osclass/functions.php:268
+msgid "Manage my alerts"
+msgstr ""
+
+#: dq-includes/osclass/functions.php:274
+msgid "Recover my password"
+msgstr ""
+
+#: dq-includes/osclass/functions.php:534
+#: dq-includes/osclass/helpers/hUtils.php:175
+msgid "Logout"
+msgstr ""
+
+#: dq-includes/osclass/functions.php:544
+msgid "New comments"
+msgstr ""
+
+#: dq-includes/osclass/helpers/hAdminMenu.php:176
+msgid "Compact"
+msgstr ""
+
+#: dq-includes/osclass/helpers/hItems.php:1112
+msgid "Check with seller"
+msgstr ""
+
+#: dq-includes/osclass/helpers/hItems.php:1113
+msgid "Free"
+msgstr ""
+
+#: dq-includes/osclass/helpers/hItems.php:1208
+msgid "From"
+msgstr ""
+
+#: dq-includes/osclass/helpers/hPagination.php:144
+msgid "Page"
+msgstr ""
+
+#: dq-includes/osclass/helpers/hPagination.php:147
+msgid "Go!"
+msgstr ""
+
+#: dq-includes/osclass/helpers/hPagination.php:168
+msgid "Showing %s to %s of %s results (filtered from %s total results)"
+msgstr ""
+
+#: dq-includes/osclass/helpers/hPagination.php:170
+msgid "Showing %s to %s of %s results"
+msgstr ""
+
+#: dq-includes/osclass/helpers/hSearch.php:51
+msgid "Newly listed"
+msgstr ""
+
+#: dq-includes/osclass/helpers/hSearch.php:52
+msgid "Lower price first"
+msgstr ""
+
+#: dq-includes/osclass/helpers/hSearch.php:53
+msgid "Higher price first"
+msgstr ""
+
+#: dq-includes/osclass/helpers/hUtils.php:133
+msgid "AM"
+msgstr ""
+
+#: dq-includes/osclass/helpers/hUtils.php:133
+msgid "PM"
+msgstr ""
+
+#: dq-includes/osclass/helpers/hUtils.php:133
+msgid "am"
+msgstr ""
+
+#: dq-includes/osclass/helpers/hUtils.php:133
+msgid "pm"
+msgstr ""
+
+#: dq-includes/osclass/helpers/hUtils.php:170
+msgid "Public Profile"
+msgstr ""
+
+#: dq-includes/osclass/helpers/hUtils.php:172
+msgid "Manage your listings"
+msgstr ""
+
+#: dq-includes/osclass/helpers/hUtils.php:173
+msgid "Manage your alerts"
+msgstr ""
+
+#: dq-includes/osclass/helpers/hUtils.php:174
+msgid "My profile"
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:58
+msgid "PHP version >= 5.x"
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:60
+msgid "PHP5 is required to run Osclass. You may talk with your hosting to upgrade your PHP version."
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:63
+msgid "MySQLi extension for PHP"
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:65
+msgid "MySQLi extension is required. How to <a target=\"_blank\" href=\"http://www.php.net/manual/en/mysqli.setup.php\">install/configure</a>."
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:68
+msgid "GD extension for PHP"
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:70
+msgid "GD extension is required. How to <a target=\"_blank\" href=\"http://www.php.net/manual/en/image.setup.php\">install/configure</a>."
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:73
+msgid "Folder <code>dq-content/uploads</code> exists"
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:75
+msgid "You have to create <code>uploads</code> folder, i.e.: <code>mkdir %sdq-content/uploads/</code>"
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:78
+msgid "<code>dq-content/uploads</code> folder is writable"
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:80
+msgid "<code>uploads</code> folder has to be writable, i.e.: <code>chmod a+w %sdq-content/uploads/</code>"
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:83
+msgid "Folder <code>dq-content/downloads</code> exists"
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:85
+msgid "You have to create <code>downloads</code> folder, i.e.: <code>mkdir %sdq-content/downloads/</code>"
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:88
+msgid "<code>dq-content/downloads</code> folder is writable"
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:90
+msgid "<code>downloads</code> folder has to be writable, i.e.: <code>chmod a+w %sdq-content/downloads/</code>"
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:93
+msgid "Folder <code>dq-content/languages</code> folder exists"
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:95
+msgid "You have to create the <code>languages</code> folder, i.e.: <code>mkdir %sdq-content/languages/</code>"
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:98
+msgid "<code>dq-content/languages</code> folder is writable"
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:100
+msgid "<code>languages</code> folder has to be writable, i.e.: <code>chmod a+w %sdq-content/languages/</code>"
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:111
+msgid "<code>config.php</code> file is writable"
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:113
+msgid "<code>config.php</code> file has to be writable, i.e.: <code>chmod a+w %sconfig.php</code>"
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:119
+msgid "Root directory is writable"
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:121
+msgid "Root folder has to be writable, i.e.: <code>chmod a+w %s</code>"
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:127
+msgid "<code>config-sample.php</code> file exists"
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:129
+msgid "<code>config-sample.php</code> file is required, you should re-download Osclass."
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:206
+#: dq-includes/osclass/install-functions.php:218
+#: dq-includes/osclass/install-functions.php:255
+#: dq-includes/osclass/install-functions.php:267
+msgid "Cannot connect to the database. Error number: %s"
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:210
+#: dq-includes/osclass/install-functions.php:259
+msgid "The database doesn't exist. You should check the \"Create DB\" checkbox and fill in a username and password with the right privileges"
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:212
+#: dq-includes/osclass/install-functions.php:261
+msgid "Cannot connect to the database. Check if the user has privileges."
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:214
+#: dq-includes/osclass/install-functions.php:263
+msgid "Cannot connect to the database. Check if the username and password are correct."
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:216
+#: dq-includes/osclass/install-functions.php:265
+msgid "Can't resolve MySQL host. Check if the host is correct."
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:231
+#: dq-includes/osclass/install-functions.php:238
+msgid "Can't create the database. Error number: %s"
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:235
+msgid "Can't create the database. Check if the admin username and password are correct."
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:275
+#: dq-includes/osclass/install-functions.php:277
+msgid "Can't write in config.php file. Check if the file is writable."
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:283
+#: dq-includes/osclass/install-functions.php:286
+msgid "config-sample.php doesn't exist. Check if everything is decompressed correctly."
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:290
+#: dq-includes/osclass/install-functions.php:293
+msgid "Can't copy config-sample.php. Check if the root directory is writable."
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:310
+#: dq-includes/osclass/install-functions.php:316
+msgid "Can't create the database structure. Error number: %s"
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:314
+msgid "There are tables with the same name in the database. Change the table prefix or the database and try again."
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:355
+#: dq-includes/osclass/install-functions.php:358
+msgid "The file %s doesn't exist"
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:369
+#: dq-includes/osclass/install-functions.php:375
+msgid "Can't insert basic configuration. Error number: %s"
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:373
+msgid "Can't insert basic configuration. This user has no privileges to 'INSERT' into the database."
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:634
+msgid "Database information"
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:641
+msgid "Server name or IP where the database engine resides"
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:644
+msgid "Database name"
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:646
+msgid "The name of the database you want to run Osclass in"
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:649
+msgid "User Name"
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:651
+msgid "Your MySQL username"
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:656
+msgid "Your MySQL password"
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:659
+msgid "Table prefix"
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:661
+msgid "If you want to run multiple Osclass installations in a single database, change this"
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:689
+msgid "Create DB"
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:690
+msgid "Check here if the database is not created and you want to create it now"
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:693
+msgid "DB admin username"
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:698
+msgid "DB admin password"
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:734
+msgid "Information needed"
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:736
+msgid "Admin user"
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:745
+msgid "Admin user is required"
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:758
+msgid "A password will be automatically generated for you if you leave this blank."
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:759
+msgid "You can modify username and password if you like, just change the input value."
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:761
+msgid "Contact information"
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:765
+msgid "Web title"
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:770
+msgid "Contact e-mail"
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:772
+msgid "Put your e-mail here"
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:777
+msgid "Choose countries/cities where your target users are located"
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:779
+msgid "Once you type a country, you'll be able to choose region and city as well. Therefore, the installation will be more specific."
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:791
+msgid "Skip location"
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:792
+msgid "International"
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:799
+msgid "All regions"
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:803
+msgid "All cities"
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:806
+msgid "There are no regions available for this country"
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:808
+msgid "There are no cities available for this region"
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:814
+msgid "No internet connection. You can continue the installation and insert countries later."
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:828
+msgid "Loading..."
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:840
+msgid "Go back"
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:883
+msgid "The selected location could not been installed"
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:886
+msgid "Congratulations!"
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:887
+msgid "Osclass has been installed. Were you expecting more steps? Sorry to disappoint you!"
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:888
+msgid "An e-mail with the password for dq-admin has been sent to: %s"
+msgstr ""
+
+#: dq-includes/osclass/install-functions.php:913
+msgid "Finish and go to the administration panel"
+msgstr ""
+
+#: dq-includes/osclass/install-location.php:96
+msgid "Hi %s,"
+msgstr ""
+
+#: dq-includes/osclass/install-location.php:97
+msgid "Your Osclass installation at %s is up and running. You can access the administration panel with these details:"
+msgstr ""
+
+#: dq-includes/osclass/install-location.php:99
+msgid "username: %s"
+msgstr ""
+
+#: dq-includes/osclass/install-location.php:100
+msgid "password: %s"
+msgstr ""
+
+#: dq-includes/osclass/install-location.php:102
+msgid "Remember that for any doubts you might have you can consult our <a href=\"%1$s\">documentation</a>, <a href=\"%2$s\">forum</a> or <a href=\"%3$s\">blog</a>."
+msgstr ""
+
+#: dq-includes/osclass/install-location.php:103
+msgid "Osclass doesn’t run any developments but we can put you in touch with third party developers through a Premium Support. And hey, if you would like to contribute to Osclass - learn how <a href=\"%1$s\">here</a>!"
+msgstr ""
+
+#: dq-includes/osclass/install-location.php:104
+msgid "Cheers,"
+msgstr ""
+
+#: dq-includes/osclass/install-location.php:105
+msgid "The <a href=\"http://osclass.org/\">Osclass</a> team"
+msgstr ""
+
+#: dq-includes/osclass/install.php:88
+msgid "Looks like you've already installed Osclass. To reinstall please clear your old database tables first."
+msgstr ""
+
+#: dq-includes/osclass/install.php:134
+msgid "Osclass Installation"
+msgstr ""
+
+#: dq-includes/osclass/install.php:161
+msgid "Welcome"
+msgstr ""
+
+#: dq-includes/osclass/install.php:166
+msgid "Choose language"
+msgstr ""
+
+#: dq-includes/osclass/install.php:175
+msgid "Check the next requirements:"
+msgstr ""
+
+#: dq-includes/osclass/install.php:177
+msgid "Requirements help:"
+msgstr ""
+
+#: dq-includes/osclass/install.php:184
+msgid "Need more help?"
+msgstr ""
+
+#: dq-includes/osclass/install.php:188
+msgid "All right! All the requirements have met:"
+msgstr ""
+
+#: dq-includes/osclass/install.php:198
+msgid "Allow my site to appear in search engines like Google."
+msgstr ""
+
+#: dq-includes/osclass/install.php:204
+msgid "Help make Osclass better by automatically sending usage statistics and crash reports to Osclass."
+msgstr ""
+
+#: dq-includes/osclass/install.php:210
+msgid "Try again"
+msgstr ""
+
+#: dq-includes/osclass/install.php:214
+msgid "Run the install"
+msgstr ""
+
+#: dq-includes/osclass/install.php:238
+msgid "Readme"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:4
+msgid "For sale"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:5
+msgid "Vehicles"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:6
+msgid "Classes"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:7
+msgid "Real estate"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:8
+msgid "Services"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:9
+msgid "Community"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:10
+msgid "Personals"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:11
+msgid "Jobs"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:12
+msgid "Animals"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:13
+msgid "Art - Collectibles"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:14
+msgid "Barter"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:15
+msgid "Books - Magazines"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:16
+msgid "Cameras - Camera Accessories"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:17
+msgid "CDs - Records"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:18
+msgid "Cell Phones - Accessories"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:19
+msgid "Clothing"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:20
+msgid "Computers - Hardware"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:21
+msgid "DVD"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:22
+msgid "Electronics"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:23
+msgid "For Babies - Infants"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:24
+msgid "Garage Sale"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:25
+msgid "Health - Beauty"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:26
+msgid "Home - Furniture - Garden Supplies"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:27
+msgid "Jewelry - Watches"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:28
+msgid "Musical Instruments"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:29
+msgid "Sporting Goods - Bicycles"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:30
+msgid "Tickets"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:31
+msgid "Toys - Games - Hobbies"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:32
+msgid "Video Games - Consoles"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:33
+msgid "Everything Else"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:34
+msgid "Cars"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:35
+msgid "Car Parts"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:36
+msgid "Motorcycles"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:37
+msgid "Boats - Ships"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:38
+msgid "RVs - Campers - Caravans"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:39
+msgid "Trucks - Commercial Vehicles"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:40
+msgid "Other Vehicles"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:41
+msgid "Computer - Multimedia Classes"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:42
+msgid "Language Classes"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:43
+msgid "Music - Theatre - Dance Classes"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:44
+msgid "Tutoring - Private Lessons"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:45
+msgid "Other Classes"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:46
+msgid "Houses - Apartments for Sale"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:47
+msgid "Houses - Apartments for Rent"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:48
+msgid "Rooms for Rent - Shared"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:49
+msgid "Housing Swap"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:50
+msgid "Vacation Rentals"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:51
+msgid "Parking Spots"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:52
+msgid "Land"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:53
+msgid "Office - Commercial Space"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:54
+msgid "Shops for Rent - Sale"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:55
+msgid "Babysitter - Nanny"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:56
+msgid "Casting - Auditions"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:57
+msgid "Computer"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:58
+msgid "Event Services"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:59
+msgid "Health - Beauty - Fitness"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:60
+msgid "Horoscopes - Tarot"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:61
+msgid "Household - Domestic Help"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:62
+msgid "Moving - Storage"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:63
+msgid "Repair"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:64
+msgid "Writing - Editing - Translating"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:65
+msgid "Other Services"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:66
+msgid "Carpool"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:67
+msgid "Community Activities"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:68
+msgid "Events"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:69
+msgid "Musicians - Artists - Bands"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:70
+msgid "Volunteers"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:71
+msgid "Lost And Found"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:72
+msgid "Women looking for Men"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:73
+msgid "Men looking for Women"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:74
+msgid "Men looking for Men"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:75
+msgid "Women looking for Women"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:76
+msgid "Friendship - Activity Partners"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:77
+msgid "Missed Connections"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:78
+msgid "Accounting - Finance"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:79
+msgid "Advertising - Public Relations"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:80
+msgid "Arts - Entertainment - Publishing"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:81
+msgid "Clerical - Administrative"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:82
+msgid "Customer Service"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:83
+msgid "Education - Training"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:84
+msgid "Engineering - Architecture"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:85
+msgid "Healthcare"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:86
+msgid "Human Resource"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:87
+msgid "Internet"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:88
+msgid "Legal"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:89
+msgid "Manual Labor"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:90
+msgid "Manufacturing - Operations"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:91
+msgid "Marketing"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:92
+msgid "Non-profit - Volunteer"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:93
+msgid "Real Estate"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:94
+msgid "Restaurant - Food Service"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:95
+msgid "Retail"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:96
+msgid "Sales"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:97
+msgid "Technology"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:98
+msgid "Other Jobs"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:104
+msgid "Example Ad"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:105
+msgid "Description of the example ad. Insert here some usefull description of your ad."
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:106
+msgid "Example author"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:107
+msgid "osclass@example.com"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:108
+msgid "Example country"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:109
+msgid "Example region"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:110
+msgid "Example city"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:115
+msgid "Example page title"
+msgstr ""
+
+#: dq-includes/osclass/installer/basic_data.php:116
+msgid "This is an example page description. This is a good place to put your Terms of Service or any other help information."
+msgstr ""
+
+#: dq-includes/osclass/model/Item.php:1117
+msgid "%s in"
+msgstr ""
+
+#: dq-includes/osclass/model/Item.php:1126
+msgid "There's no description available in your language"
+msgstr ""
+
+#: dq-includes/osclass/upgrade-funcs.php:44
+msgid "Osclass &raquo; Has some errors"
+msgstr ""
+
+#: dq-includes/osclass/upgrade-funcs.php:45
+msgid "We've encountered some problems while updating the database structure. The following queries failed:"
+msgstr ""
+
+#: dq-includes/osclass/upgrade-funcs.php:47
+msgid "These errors could be false-positive errors. If you're sure that is the case, you can <a href=\"%s\">continue with the upgrade</a>, or <a href=\"http://forums.osclass.org/\">ask in our forums</a>."
+msgstr ""
+
+#: dq-includes/osclass/upgrade-funcs.php:287
+msgid "You need to calculate location stats, please go to admin panel, tools, recalculate location stats or click"
+msgstr ""
+
+#: dq-includes/osclass/upgrade-funcs.php:287
+msgid "here"
+msgstr ""
+
+#: dq-includes/osclass/upgrade-funcs.php:464
+msgid "Osclass &raquo; Updated correctly"
+msgstr ""
+
+#: dq-includes/osclass/upgrade-funcs.php:465
+msgid "Osclass has been updated successfully. <a href=\"http://forums.osclass.org/\">Need more help?</a>"
+msgstr ""
+
+#: dq-includes/osclass/utils.php:1855
+msgid "Everything looks good! Your Osclass installation is up-to-date"
+msgstr ""
+
+#: dq-includes/osclass/utils.php:1858
+msgid "Nearly everything looks good! Your Osclass installation is up-to-date, but there were some errors removing temporary files. Please manually remove the \"dq-content/downloads/oc-temp\" folder"
+msgstr ""
+
+#: dq-includes/osclass/utils.php:1864
+msgid "Problems when upgrading the database"
+msgstr ""
+
+#: dq-includes/osclass/utils.php:1868
+#: dq-includes/osclass/utils.php:2134
+msgid "Problems when copying files. Please check your permissions. "
+msgstr ""
+
+#: dq-includes/osclass/utils.php:1872
+#: dq-includes/osclass/utils.php:2145
+msgid "Nothing to copy"
+msgstr ""
+
+#: dq-includes/osclass/utils.php:1876
+#: dq-includes/osclass/utils.php:2149
+msgid "Unzip failed"
+msgstr ""
+
+#: dq-includes/osclass/utils.php:1880
+#: dq-includes/osclass/utils.php:2153
+msgid "Download failed"
+msgstr ""
+
+#: dq-includes/osclass/utils.php:1884
+#: dq-includes/osclass/utils.php:2161
+msgid "Missing download URL"
+msgstr ""
+
+#: dq-includes/osclass/utils.php:1889
+msgid "We had some errors upgrading your database. The follwing queries failed:"
+msgstr ""
+
+#: dq-includes/osclass/utils.php:2127
+msgid "Everything looks good!"
+msgstr ""
+
+#: dq-includes/osclass/utils.php:2130
+msgid "Nearly everything looks good! but there were some errors removing temporary files. Please manually remove the \\\"dq-content/downloads/oc-temp\\\" folder"
+msgstr ""
+
+#: dq-includes/osclass/utils.php:2139
+msgid "NOTE: Web user and destination folder user is not the same, you might have an issue there. <br/>Do this in your console:<br/>chown -R %s:%s %s"
+msgstr ""
+
+#: dq-includes/osclass/utils.php:2157
+msgid "Input code not valid"
+msgstr ""
+
+#: dq-load.php:206
+msgid "The website is currently undergoing maintenance"
+msgstr ""
+

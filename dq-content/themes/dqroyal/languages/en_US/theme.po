@@ -1,0 +1,932 @@
+# English translations for modern - theme map package.
+# Copyright (C) 2013 THE modern - theme map'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the modern - theme map package.
+# Automatically generated, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: modern - theme map 3.0.3\n"
+"Report-Msgid-Bugs-To: info@osclass.org\n"
+"POT-Creation-Date: 2013-11-06 17:07+0100\n"
+"PO-Revision-Date: 2013-11-06 17:07+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: tmp/modern/./404.php:34
+msgid "Page not found"
+msgstr "Page not found"
+
+#: tmp/modern/./admin/header.php:5 tmp/modern/./inc.functions.php:6
+#: tmp/modern/./inc.functions.php:14
+msgid "Header logo"
+msgstr "Header logo"
+
+#: tmp/modern/./admin/header.php:8
+msgid "Preview"
+msgstr "Preview"
+
+#: tmp/modern/./admin/header.php:15
+msgid "Remove logo"
+msgstr "Remove logo"
+
+#: tmp/modern/./admin/header.php:23
+msgid "No logo has been uploaded yet"
+msgstr "No logo has been uploaded yet"
+
+#: tmp/modern/./admin/header.php:26
+msgid "Upload logo"
+msgstr "Upload logo"
+
+#: tmp/modern/./admin/header.php:28
+msgid "The preferred size of the logo is 600x100."
+msgstr "The preferred size of the logo is 600x100."
+
+#: tmp/modern/./admin/header.php:30
+msgid ""
+"<strong>Note:</strong> Uploading another logo will overwrite the current "
+"logo."
+msgstr ""
+"<strong>Note:</strong> Uploading another logo will overwrite the current "
+"logo."
+
+#: tmp/modern/./admin/header.php:38
+msgid "Logo image (png,gif,jpg)"
+msgstr "Logo image (png,gif,jpg)"
+
+#: tmp/modern/./admin/header.php:44
+msgid "Upload"
+msgstr "Upload"
+
+#: tmp/modern/./admin/header.php:53
+#, php-format
+msgid "The images folder <strong>%s</strong> is not writable on your server"
+msgstr "The images folder <strong>%s</strong> is not writable on your server"
+
+#: tmp/modern/./admin/header.php:54
+msgid "OSClass can't upload the logo image from the administration panel."
+msgstr "OSClass can't upload the logo image from the administration panel."
+
+#: tmp/modern/./admin/header.php:55
+msgid "Please make the aforementioned image folder writable."
+msgstr "Please make the aforementioned image folder writable."
+
+#: tmp/modern/./admin/header.php:60
+msgid ""
+"To make a directory writable under UNIX execute this command from the shell:"
+msgstr ""
+"To make a directory writable under UNIX execute this command from the shell:"
+
+#: tmp/modern/./admin/map_settings.php:2
+msgid "Map Options"
+msgstr "Map Options"
+
+#: tmp/modern/./admin/map_settings.php:3
+msgid "How to assign a region to your map?"
+msgstr "How to assign a region to your map?"
+
+#: tmp/modern/./admin/map_settings.php:3
+msgid ""
+"First, click in the map to select the area you want to set. Then, a dialog "
+"will appear and you only need to select the region you want to assign. "
+"Finally, once you have selected the region, click the save button."
+msgstr ""
+"First, click in the map to select the area you want to set. Then, a dialog "
+"will appear and you only need to select the region you want to assign. "
+"Finally, once you have selected the region, click the save button."
+
+#: tmp/modern/./admin/map_settings.php:11
+#: tmp/modern/./admin/map_settings.php:28
+#: tmp/modern/./admin/map_settings.php:52
+#: tmp/modern/./admin/map_settings.php:75
+msgid "Select a region"
+msgstr "Select a region"
+
+#: tmp/modern/./admin/map_settings.php:32
+msgid "Select a region first"
+msgstr "Select a region first"
+
+#: tmp/modern/./admin/map_settings.php:36
+#: tmp/modern/./admin/map_settings.php:57 tmp/modern/./admin/settings.php:39
+msgid "Save changes"
+msgstr "Save changes"
+
+#: tmp/modern/./admin/settings.php:12
+msgid ""
+"I would like to contribute to the development of OSClass with a donation of"
+msgstr ""
+"I would like to contribute to the development of OSClass with a donation of"
+
+#: tmp/modern/./admin/settings.php:17
+msgid "Custom"
+msgstr "Custom"
+
+#: tmp/modern/./admin/settings.php:18
+msgid "Donate"
+msgstr "Donate"
+
+#: tmp/modern/./admin/settings.php:22 tmp/modern/./inc.functions.php:7
+#: tmp/modern/./inc.functions.php:15
+msgid "Theme settings"
+msgstr "Theme settings"
+
+#: tmp/modern/./admin/settings.php:28
+msgid "Search placeholder"
+msgstr "Search placeholder"
+
+#: tmp/modern/./admin/settings.php:32
+msgid "Footer link"
+msgstr "Footer link"
+
+#: tmp/modern/./admin/settings.php:34
+msgid ""
+"I want to help OSClass by linking to <a href=\"http://osclass.org/\" target="
+"\"_blank\">osclass.org</a> from my site with the following text:"
+msgstr ""
+"I want to help OSClass by linking to <a href=\"http://osclass.org/\" target="
+"\"_blank\">osclass.org</a> from my site with the following text:"
+
+#: tmp/modern/./admin/settings.php:35
+msgid ""
+"This website is proudly using the <a title=\"OSClass web\" href=\"http://"
+"osclass.org/\">classifieds scripts</a> software <strong>OSClass</strong>"
+msgstr ""
+"This website is proudly using the <a title=\"OSClass web\" href=\"http://"
+"osclass.org/\">classifieds scripts</a> software <strong>OSClass</strong>"
+
+#: tmp/modern/./alert-form.php:6
+msgid "You have sucessfully subscribed to the alert"
+msgstr "You have sucessfully subscribed to the alert"
+
+#: tmp/modern/./alert-form.php:7 tmp/modern/./user-change_email.php:42
+msgid "Invalid email address"
+msgstr "Invalid email address"
+
+#: tmp/modern/./alert-form.php:8
+msgid "There was a problem with the alert"
+msgstr "There was a problem with the alert"
+
+#: tmp/modern/./alert-form.php:39
+msgid "Subscribe to this search"
+msgstr "Subscribe to this search"
+
+#: tmp/modern/./alert-form.php:55
+msgid "Subscribe now"
+msgstr "Subscribe now"
+
+#: tmp/modern/./contact.php:35 tmp/modern/./template-contact.php:37
+msgid "Contact us"
+msgstr "Contact us"
+
+#: tmp/modern/./contact.php:41 tmp/modern/./template-contact.php:43
+msgid "Subject"
+msgstr "Subject"
+
+#: tmp/modern/./contact.php:41 tmp/modern/./contact.php:43
+#: tmp/modern/./item-contact.php:52 tmp/modern/./item.php:228
+#: tmp/modern/./template-contact.php:43 tmp/modern/./template-contact.php:45
+#: tmp/modern/./user-public-profile.php:124
+msgid "optional"
+msgstr "optional"
+
+#: tmp/modern/./contact.php:42 tmp/modern/./item-contact.php:53
+#: tmp/modern/./item-send-friend.php:52 tmp/modern/./item.php:233
+#: tmp/modern/./template-contact.php:44
+#: tmp/modern/./user-public-profile.php:125
+msgid "Message"
+msgstr "Message"
+
+#: tmp/modern/./contact.php:43 tmp/modern/./item-contact.php:49
+#: tmp/modern/./item-send-friend.php:47 tmp/modern/./item.php:163
+#: tmp/modern/./item.php:226 tmp/modern/./template-contact.php:45
+#: tmp/modern/./user-public-profile.php:122
+msgid "Your name"
+msgstr "Your name"
+
+#: tmp/modern/./contact.php:44 tmp/modern/./item-contact.php:50
+#: tmp/modern/./item-send-friend.php:48 tmp/modern/./item.php:227
+#: tmp/modern/./template-contact.php:46
+#: tmp/modern/./user-public-profile.php:123
+msgid "Your e-mail address"
+msgstr "Your e-mail address"
+
+#: tmp/modern/./contact.php:47 tmp/modern/./item-send-friend.php:55
+#: tmp/modern/./item.php:168 tmp/modern/./item.php:253
+#: tmp/modern/./template-contact.php:48
+#: tmp/modern/./user-public-profile.php:142
+msgid "Send"
+msgstr "Send"
+
+#: tmp/modern/./footer.php:28
+msgid "Contact"
+msgstr "Contact"
+
+#: tmp/modern/./footer.php:35
+msgid ""
+"This website is proudly using the <a title=\"Osclass web\" href=\"http://"
+"osclass.org/\">classifieds scripts</a> software <strong>Osclass</strong>"
+msgstr ""
+"This website is proudly using the <a title=\"Osclass web\" href=\"http://"
+"osclass.org/\">classifieds scripts</a> software <strong>Osclass</strong>"
+
+#: tmp/modern/./footer.php:48
+msgid "Your search must be at least three characters long"
+msgstr "Your search must be at least three characters long"
+
+#: tmp/modern/./functions.php:55
+msgid "Theme settings updated correctly"
+msgstr "Theme settings updated correctly"
+
+#: tmp/modern/./functions.php:62
+msgid "The logo image has been uploaded correctly"
+msgstr "The logo image has been uploaded correctly"
+
+#: tmp/modern/./functions.php:64 tmp/modern/./functions.php:67
+msgid "An error has occurred, please try again"
+msgstr "An error has occurred, please try again"
+
+#: tmp/modern/./functions.php:74
+msgid "The logo image has been removed"
+msgstr "The logo image has been removed"
+
+#: tmp/modern/./functions.php:76
+msgid "Image not found"
+msgstr "Image not found"
+
+#: tmp/modern/./functions.php:99
+msgid "ie. PHP Programmer"
+msgstr "ie. PHP Programmer"
+
+#: tmp/modern/./head.php:41
+msgid "No file selected"
+msgstr "No file selected"
+
+#: tmp/modern/./head.php:42
+msgid "Choose File"
+msgstr "Choose File"
+
+#: tmp/modern/./header.php:34
+#, php-format
+msgid "Hi %s"
+msgstr "Hi %s"
+
+#: tmp/modern/./header.php:35
+msgid "My account"
+msgstr "My account"
+
+#: tmp/modern/./header.php:36
+msgid "Logout"
+msgstr "Logout"
+
+#: tmp/modern/./header.php:40 tmp/modern/./item.php:206
+msgid "Login"
+msgstr "Login"
+
+#: tmp/modern/./header.php:43 tmp/modern/./item.php:207
+#: tmp/modern/./user-login.php:43
+msgid "Register for a free account"
+msgstr "Register for a free account"
+
+#: tmp/modern/./header.php:49 tmp/modern/./item-post.php:173
+#: tmp/modern/./item.php:216 tmp/modern/./user-login.php:38
+#: tmp/modern/./user-profile.php:83 tmp/modern/./user-recover.php:38
+#: tmp/modern/./user-register.php:49
+msgid "E-mail"
+msgstr "E-mail"
+
+#: tmp/modern/./header.php:51 tmp/modern/./user-login.php:39
+#: tmp/modern/./user-register.php:44
+msgid "Password"
+msgstr "Password"
+
+#: tmp/modern/./header.php:53 tmp/modern/./user-login.php:40
+msgid "Remember me"
+msgstr "Remember me"
+
+#: tmp/modern/./header.php:54 tmp/modern/./user-login.php:41
+msgid "Log in"
+msgstr "Log in"
+
+#: tmp/modern/./header.php:56 tmp/modern/./user-login.php:43
+msgid "Forgot password?"
+msgstr "Forgot password?"
+
+#: tmp/modern/./header.php:66
+msgid "Language"
+msgstr "Language"
+
+#: tmp/modern/./header.php:79
+msgid "Publish your ad for free"
+msgstr "Publish your ad for free"
+
+#: tmp/modern/./inc.functions.php:8 tmp/modern/./inc.functions.php:16
+msgid "Map settings"
+msgstr "Map settings"
+
+#: tmp/modern/./inc.functions.php:12
+msgid "Brasil theme"
+msgstr "Brasil theme"
+
+#: tmp/modern/./inc.functions.php:30
+msgid "Region saved correctly"
+msgstr "Region saved correctly"
+
+#: tmp/modern/./inc.functions.php:83
+#, php-format
+msgid ""
+"Wait! There are unassigned map areas in the map. <a href=\"%s\">Click here</"
+"a> to assign regions to the map."
+msgstr ""
+"Wait! There are unassigned map areas in the map. <a href=\"%s\">Click here</"
+"a> to assign regions to the map."
+
+#: tmp/modern/./inc.search.php:54 tmp/modern/./item-edit.php:118
+#: tmp/modern/./item-post.php:116
+msgid "Select a category"
+msgstr "Select a category"
+
+#: tmp/modern/./inc.search.php:56
+msgid "Search"
+msgstr "Search"
+
+#: tmp/modern/./item-contact.php:35 tmp/modern/./item.php:111
+msgid "Contact seller"
+msgstr "Contact seller"
+
+#: tmp/modern/./item-contact.php:43
+msgid "To (seller)"
+msgstr "To (seller)"
+
+#: tmp/modern/./item-contact.php:44 tmp/modern/./item-send-friend.php:42
+msgid "Listing"
+msgstr "Listing"
+
+#: tmp/modern/./item-contact.php:52 tmp/modern/./item.php:228
+#: tmp/modern/./user-public-profile.php:124
+msgid "Phone number"
+msgstr "Phone number"
+
+#: tmp/modern/./item-contact.php:55
+msgid "Send message"
+msgstr "Send message"
+
+#: tmp/modern/./item-edit.php:106
+msgid "Update your listing"
+msgstr "Update your listing"
+
+#: tmp/modern/./item-edit.php:115 tmp/modern/./item-post.php:113
+msgid "General Information"
+msgstr "General Information"
+
+#: tmp/modern/./item-edit.php:117 tmp/modern/./item-post.php:115
+#: tmp/modern/./search.php:278
+msgid "Category"
+msgstr "Category"
+
+#: tmp/modern/./item-edit.php:125 tmp/modern/./item-post.php:124
+#: tmp/modern/./search.php:268 tmp/modern/./user-alerts.php:50
+#: tmp/modern/./user-dashboard.php:50 tmp/modern/./user-items.php:53
+msgid "Price"
+msgstr "Price"
+
+#: tmp/modern/./item-edit.php:133 tmp/modern/./item-post.php:131
+msgid "Photos"
+msgstr "Photos"
+
+#: tmp/modern/./item-edit.php:142 tmp/modern/./item-post.php:137
+msgid "Add new photo"
+msgstr "Add new photo"
+
+#: tmp/modern/./item-edit.php:147 tmp/modern/./main.php:79
+#: tmp/modern/./search.php:246 tmp/modern/./user-public-profile.php:69
+msgid "Location"
+msgstr "Location"
+
+#: tmp/modern/./item-edit.php:149 tmp/modern/./item-post.php:144
+#: tmp/modern/./item.php:84 tmp/modern/./user-profile.php:102
+msgid "Country"
+msgstr "Country"
+
+#: tmp/modern/./item-edit.php:153 tmp/modern/./item-post.php:148
+#: tmp/modern/./item.php:85 tmp/modern/./user-profile.php:106
+msgid "Region"
+msgstr "Region"
+
+#: tmp/modern/./item-edit.php:157 tmp/modern/./item-post.php:152
+#: tmp/modern/./item.php:86 tmp/modern/./search.php:248
+#: tmp/modern/./user-profile.php:110
+msgid "City"
+msgstr "City"
+
+#: tmp/modern/./item-edit.php:161 tmp/modern/./item.php:87
+#: tmp/modern/./user-profile.php:114
+msgid "City area"
+msgstr "City area"
+
+#: tmp/modern/./item-edit.php:165 tmp/modern/./item-post.php:160
+#: tmp/modern/./item.php:88 tmp/modern/./user-profile.php:118
+#: tmp/modern/./user-public-profile.php:68
+msgid "Address"
+msgstr "Address"
+
+#: tmp/modern/./item-edit.php:177 tmp/modern/./user-change_email.php:83
+#: tmp/modern/./user-change_password.php:57
+#: tmp/modern/./user-change_username.php:104 tmp/modern/./user-profile.php:129
+msgid "Update"
+msgstr "Update"
+
+#: tmp/modern/./item-edit.php:178 tmp/modern/./user-profile.php:58
+msgid "Cancel"
+msgstr "Cancel"
+
+#: tmp/modern/./item-post.php:106
+msgid "Publish a listing"
+msgstr "Publish a listing"
+
+#: tmp/modern/./item-post.php:142
+msgid "Listing Location"
+msgstr "Listing Location"
+
+#: tmp/modern/./item-post.php:156
+msgid "City Area"
+msgstr "City Area"
+
+#: tmp/modern/./item-post.php:167
+msgid "Seller's information"
+msgstr "Seller's information"
+
+#: tmp/modern/./item-post.php:169 tmp/modern/./item.php:211
+#: tmp/modern/./item.php:213 tmp/modern/./user-profile.php:70
+#: tmp/modern/./user-register.php:43
+msgid "Name"
+msgstr "Name"
+
+#: tmp/modern/./item-post.php:180
+msgid "Show e-mail on the listing page"
+msgstr "Show e-mail on the listing page"
+
+#: tmp/modern/./item-post.php:193
+msgid "Publish"
+msgstr "Publish"
+
+#: tmp/modern/./item-send-friend.php:35
+msgid "Send to a friend"
+msgstr "Send to a friend"
+
+#: tmp/modern/./item-send-friend.php:50
+msgid "Your friend's name"
+msgstr "Your friend's name"
+
+#: tmp/modern/./item-send-friend.php:51
+msgid "Your friend's e-mail address"
+msgstr "Your friend's e-mail address"
+
+#: tmp/modern/./item.php:60
+msgid "Edit item"
+msgstr "Edit item"
+
+#: tmp/modern/./item.php:65
+msgid "Mark as"
+msgstr "Mark as"
+
+#: tmp/modern/./item.php:67
+msgid "spam"
+msgstr "spam"
+
+#: tmp/modern/./item.php:68
+msgid "misclassified"
+msgstr "misclassified"
+
+#: tmp/modern/./item.php:69
+msgid "duplicated"
+msgstr "duplicated"
+
+#: tmp/modern/./item.php:70
+msgid "expired"
+msgstr "expired"
+
+#: tmp/modern/./item.php:71
+msgid "offensive"
+msgstr "offensive"
+
+#: tmp/modern/./item.php:80
+msgid "Published date"
+msgstr "Published date"
+
+#: tmp/modern/./item.php:81
+msgid "Modified date"
+msgstr "Modified date"
+
+#: tmp/modern/./item.php:115
+msgid "Share"
+msgstr "Share"
+
+#: tmp/modern/./item.php:121
+msgid "Useful information"
+msgstr "Useful information"
+
+#: tmp/modern/./item.php:123
+msgid "Avoid scams by acting locally or paying with PayPal"
+msgstr "Avoid scams by acting locally or paying with PayPal"
+
+#: tmp/modern/./item.php:124
+msgid ""
+"Never pay with Western Union, Moneygram or other anonymous payment services"
+msgstr ""
+"Never pay with Western Union, Moneygram or other anonymous payment services"
+
+#: tmp/modern/./item.php:125
+msgid ""
+"Don't buy or sell outside of your country. Don't accept cashier cheques from "
+"outside your country"
+msgstr ""
+"Don't buy or sell outside of your country. Don't accept cashier cheques from "
+"outside your country"
+
+#: tmp/modern/./item.php:126
+msgid ""
+"This site is never involved in any transaction, and does not handle "
+"payments, shipping, guarantee transactions, provide escrow services, or "
+"offer \"buyer protection\" or \"seller certification\""
+msgstr ""
+"This site is never involved in any transaction, and does not handle "
+"payments, shipping, guarantee transactions, provide escrow services, or "
+"offer \"buyer protection\" or \"seller certification\""
+
+#: tmp/modern/./item.php:132
+msgid "Comments"
+msgstr "Comments"
+
+#: tmp/modern/./item.php:139
+msgid "by"
+msgstr "by"
+
+#: tmp/modern/./item.php:143
+msgid "Delete your comment"
+msgstr "Delete your comment"
+
+#: tmp/modern/./item.php:143 tmp/modern/./user-items.php:58
+#: tmp/modern/./user-profile.php:55
+msgid "Delete"
+msgstr "Delete"
+
+#: tmp/modern/./item.php:155
+msgid "Leave your comment (spam and offensive messages will be removed)"
+msgstr "Leave your comment (spam and offensive messages will be removed)"
+
+#: tmp/modern/./item.php:164
+msgid "Your e-mail"
+msgstr "Your e-mail"
+
+#: tmp/modern/./item.php:166
+msgid "Title"
+msgstr "Title"
+
+#: tmp/modern/./item.php:167
+msgid "Comment"
+msgstr "Comment"
+
+#: tmp/modern/./item.php:180
+msgid "Image"
+msgstr "Image"
+
+#: tmp/modern/./item.php:192 tmp/modern/./user-public-profile.php:113
+msgid "Contact publisher"
+msgstr "Contact publisher"
+
+#: tmp/modern/./item.php:195
+msgid "The listing is expired. You can't contact the publisher."
+msgstr "The listing is expired. You can't contact the publisher."
+
+#: tmp/modern/./item.php:199
+msgid "It's your own listing, you can't contact the publisher."
+msgstr "It's your own listing, you can't contact the publisher."
+
+#: tmp/modern/./item.php:203
+msgid ""
+"You must log in or register a new account in order to contact the advertiser"
+msgstr ""
+"You must log in or register a new account in order to contact the advertiser"
+
+#: tmp/modern/./item.php:219
+msgid "Tel"
+msgstr "Tel"
+
+#: tmp/modern/./item.php:230
+msgid "Attachments"
+msgstr "Attachments"
+
+#: tmp/modern/./item.php:247 tmp/modern/./user-public-profile.php:136
+msgid "Enter the words above"
+msgstr "Enter the words above"
+
+#: tmp/modern/./item.php:249 tmp/modern/./user-public-profile.php:138
+msgid "Help"
+msgstr "Help"
+
+#: tmp/modern/./main.php:38
+msgid "Latest Listings"
+msgstr "Latest Listings"
+
+#: tmp/modern/./main.php:40
+msgid "No Latest Listings"
+msgstr "No Latest Listings"
+
+#: tmp/modern/./main.php:70
+msgid "See all offers"
+msgstr "See all offers"
+
+#: tmp/modern/./search.php:194
+msgid "Sort by"
+msgstr "Sort by"
+
+#: tmp/modern/./search.php:213
+#, php-format
+msgid "There are no results matching \"%s\""
+msgstr "There are no results matching \"%s\""
+
+#: tmp/modern/./search.php:241
+msgid "Your search"
+msgstr "Your search"
+
+#: tmp/modern/./search.php:256
+msgid "Show only"
+msgstr "Show only"
+
+#: tmp/modern/./search.php:261
+msgid "Show only listings with pictures"
+msgstr "Show only listings with pictures"
+
+#: tmp/modern/./search.php:269
+msgid "Min"
+msgstr "Min"
+
+#: tmp/modern/./search.php:271
+msgid "Max"
+msgstr "Max"
+
+#: tmp/modern/./search.php:308
+msgid "Apply"
+msgstr "Apply"
+
+#: tmp/modern/./search.php:326
+msgid "Selected"
+msgstr "Selected"
+
+#: tmp/modern/./search.php:327
+msgid "Nothing selected, input was"
+msgstr "Nothing selected, input was"
+
+#: tmp/modern/./search_gallery.php:41 tmp/modern/./search_list.php:41
+msgid "Sponsored ad"
+msgstr "Sponsored ad"
+
+#: tmp/modern/./user-alerts.php:32 tmp/modern/./user-change_email.php:62
+#: tmp/modern/./user-change_password.php:33
+#: tmp/modern/./user-change_username.php:82 tmp/modern/./user-dashboard.php:33
+#: tmp/modern/./user-items.php:33 tmp/modern/./user-profile.php:37
+msgid "User account manager"
+msgstr "User account manager"
+
+#: tmp/modern/./user-alerts.php:37
+msgid "Your alerts"
+msgstr "Your alerts"
+
+#: tmp/modern/./user-alerts.php:39
+msgid "You do not have any alerts yet"
+msgstr "You do not have any alerts yet"
+
+#: tmp/modern/./user-alerts.php:43
+msgid "Alert"
+msgstr "Alert"
+
+#: tmp/modern/./user-alerts.php:43
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "This action can't be undone. Are you sure you want to continue?"
+
+#: tmp/modern/./user-alerts.php:43
+msgid "Delete this alert"
+msgstr "Delete this alert"
+
+#: tmp/modern/./user-alerts.php:49 tmp/modern/./user-dashboard.php:49
+#: tmp/modern/./user-items.php:52
+msgid "Publication date"
+msgstr "Publication date"
+
+#: tmp/modern/./user-alerts.php:57
+msgid "Listings"
+msgstr "Listings"
+
+#: tmp/modern/./user-change_email.php:68
+msgid "Change your e-mail"
+msgstr "Change your e-mail"
+
+#: tmp/modern/./user-change_email.php:75
+msgid "Current e-mail"
+msgstr "Current e-mail"
+
+#: tmp/modern/./user-change_email.php:79
+msgid "New e-mail"
+msgstr "New e-mail"
+
+#: tmp/modern/./user-change_password.php:39
+msgid "Change your password"
+msgstr "Change your password"
+
+#: tmp/modern/./user-change_password.php:45
+msgid "Current password"
+msgstr "Current password"
+
+#: tmp/modern/./user-change_password.php:49
+#: tmp/modern/./user-forgot_password.php:41
+msgid "New password"
+msgstr "New password"
+
+#: tmp/modern/./user-change_password.php:53
+#: tmp/modern/./user-forgot_password.php:45
+msgid "Repeat new password"
+msgstr "Repeat new password"
+
+#: tmp/modern/./user-change_username.php:40
+msgid "Username: this field is required"
+msgstr "Username: this field is required"
+
+#: tmp/modern/./user-change_username.php:65
+msgid "The username is available"
+msgstr "The username is available"
+
+#: tmp/modern/./user-change_username.php:67
+msgid "The username is NOT available"
+msgstr "The username is NOT available"
+
+#: tmp/modern/./user-change_username.php:88
+msgid "Change your username"
+msgstr "Change your username"
+
+#: tmp/modern/./user-change_username.php:95 tmp/modern/./user-profile.php:74
+msgid "Username"
+msgstr "Username"
+
+#: tmp/modern/./user-change_username.php:99
+msgid ""
+"WARNING: Once set, you will not be able to change your username again. "
+"Choose wisely."
+msgstr ""
+"WARNING: Once set, you will not be able to change your username again. "
+"Choose wisely."
+
+#: tmp/modern/./user-dashboard.php:39
+#, php-format
+msgid "Listings from %s"
+msgstr "Listings from %s"
+
+#: tmp/modern/./user-dashboard.php:41
+msgid "No listings have been added yet"
+msgstr "No listings have been added yet"
+
+#: tmp/modern/./user-dashboard.php:52
+msgid "View listing"
+msgstr "View listing"
+
+#: tmp/modern/./user-dashboard.php:54 tmp/modern/./user-items.php:56
+msgid "Edit"
+msgstr "Edit"
+
+#: tmp/modern/./user-dashboard.php:57 tmp/modern/./user-items.php:61
+msgid "Activate"
+msgstr "Activate"
+
+#: tmp/modern/./user-forgot_password.php:33 tmp/modern/./user-recover.php:33
+msgid "Recover your password"
+msgstr "Recover your password"
+
+#: tmp/modern/./user-forgot_password.php:48
+msgid "Change password"
+msgstr "Change password"
+
+#: tmp/modern/./user-items.php:39
+msgid "Your listings"
+msgstr "Your listings"
+
+#: tmp/modern/./user-items.php:39
+msgid "Post a new listing"
+msgstr "Post a new listing"
+
+#: tmp/modern/./user-items.php:41
+msgid "You don't have any listings yet"
+msgstr "You don't have any listings yet"
+
+#: tmp/modern/./user-items.php:47
+msgid "Active"
+msgstr "Active"
+
+#: tmp/modern/./user-items.php:47
+msgid "Inactive"
+msgstr "Inactive"
+
+#: tmp/modern/./user-items.php:48
+msgid "Premium"
+msgstr "Premium"
+
+#: tmp/modern/./user-items.php:49
+msgid "Spam"
+msgstr "Spam"
+
+#: tmp/modern/./user-items.php:58
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "This action can not be undone. Are you sure you want to continue?"
+
+#: tmp/modern/./user-login.php:33
+msgid "Access to your account"
+msgstr "Access to your account"
+
+#: tmp/modern/./user-profile.php:43
+msgid "Update your profile"
+msgstr "Update your profile"
+
+#: tmp/modern/./user-profile.php:78
+msgid "Modify username"
+msgstr "Modify username"
+
+#: tmp/modern/./user-profile.php:86
+msgid "Modify e-mail"
+msgstr "Modify e-mail"
+
+#: tmp/modern/./user-profile.php:86
+msgid "Modify password"
+msgstr "Modify password"
+
+#: tmp/modern/./user-profile.php:90
+msgid "User type"
+msgstr "User type"
+
+#: tmp/modern/./user-profile.php:94
+msgid "Cell phone"
+msgstr "Cell phone"
+
+#: tmp/modern/./user-profile.php:98
+msgid "Phone"
+msgstr "Phone"
+
+#: tmp/modern/./user-profile.php:122 tmp/modern/./user-public-profile.php:70
+msgid "Website"
+msgstr "Website"
+
+#: tmp/modern/./user-profile.php:130
+msgid "Delete my account"
+msgstr "Delete my account"
+
+#: tmp/modern/./user-profile.php:137
+msgid "Delete account"
+msgstr "Delete account"
+
+#: tmp/modern/./user-profile.php:140
+msgid ""
+"All your listings and alerts will be removed, this action can not be undone."
+msgstr ""
+"All your listings and alerts will be removed, this action can not be undone."
+
+#: tmp/modern/./user-public-profile.php:59
+#, php-format
+msgid "%s's profile"
+msgstr "%s's profile"
+
+#: tmp/modern/./user-public-profile.php:65
+msgid "Profile"
+msgstr "Profile"
+
+#: tmp/modern/./user-public-profile.php:67
+msgid "Full name"
+msgstr "Full name"
+
+#: tmp/modern/./user-public-profile.php:71
+msgid "User Description"
+msgstr "User Description"
+
+#: tmp/modern/./user-public-profile.php:75
+msgid "Latest listings"
+msgstr "Latest listings"
+
+#: tmp/modern/./user-recover.php:40
+msgid "Send me a new password"
+msgstr "Send me a new password"
+
+#: tmp/modern/./user-register.php:36
+msgid "Register an account for free"
+msgstr "Register an account for free"
+
+#: tmp/modern/./user-register.php:45
+msgid "Re-type password"
+msgstr "Re-type password"
+
+#: tmp/modern/./user-register.php:47
+msgid "Passwords don't match"
+msgstr "Passwords don't match"
+
+#: tmp/modern/./user-register.php:52
+msgid "Create"
+msgstr "Create"

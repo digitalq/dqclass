@@ -1,0 +1,152 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ghostbuster\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-01 19:01-0600\n"
+"PO-Revision-Date: 2012-08-01 19:01-0600\n"
+"Last-Translator: JChapman <siouxfallsrummages@gmail.com>\n"
+"Language-Team: JChapman\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_mn:1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: USA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: /var/www/osclass30/dq-content/plugins/ghost_fix\n"
+
+#: /var/www/osclass30/dq-content/plugins/ghost_fix/index.php:22
+msgid "Ghostbuster help"
+msgstr ""
+
+#: /var/www/osclass30/dq-content/plugins/ghost_fix/index.php:37
+msgid "Ghostbuster Help"
+msgstr ""
+
+#: /var/www/osclass30/dq-content/plugins/ghost_fix/index.php:38
+msgid "Q: What does the Ghostbuster plugin do?"
+msgstr ""
+
+#: /var/www/osclass30/dq-content/plugins/ghost_fix/index.php:39
+msgid "A: Ghostbuster tries to remove listings that did not fully delete."
+msgstr ""
+
+#: /var/www/osclass30/dq-content/plugins/ghost_fix/index.php:54
+msgid "Ghost Ads"
+msgstr ""
+
+#: /var/www/osclass30/dq-content/plugins/ghost_fix/index.php:56
+msgid "Click here to view ghost ads."
+msgstr ""
+
+#: /var/www/osclass30/dq-content/plugins/ghost_fix/index.php:68
+#: /var/www/osclass30/dq-content/plugins/ghost_fix/index.php:73
+#: /var/www/osclass30/dq-content/plugins/ghost_fix/index.php:186
+msgid "Ghostbuster"
+msgstr ""
+
+#: /var/www/osclass30/dq-content/plugins/ghost_fix/config.php:154
+msgid "You currently have "
+msgstr ""
+
+#: /var/www/osclass30/dq-content/plugins/ghost_fix/config.php:154
+msgid " ghost ad."
+msgid_plural " ghost ads"
+msgstr[0] ""
+msgstr[1] ""
+
+#: /var/www/osclass30/dq-content/plugins/ghost_fix/config.php:155
+msgid "Ghost ads in stats table "
+msgstr ""
+
+#: /var/www/osclass30/dq-content/plugins/ghost_fix/config.php:156
+msgid "Ghost ads in meta table "
+msgstr ""
+
+#: /var/www/osclass30/dq-content/plugins/ghost_fix/config.php:157
+msgid "Ghost ads in locations table "
+msgstr ""
+
+#: /var/www/osclass30/dq-content/plugins/ghost_fix/config.php:158
+msgid "Ghost ads in resources table "
+msgstr ""
+
+#: /var/www/osclass30/dq-content/plugins/ghost_fix/config.php:159
+msgid "Ghost ads in comments table "
+msgstr ""
+
+#: /var/www/osclass30/dq-content/plugins/ghost_fix/config.php:161
+msgid "Ghost ads in offer_item_options table "
+msgstr ""
+
+#: /var/www/osclass30/dq-content/plugins/ghost_fix/config.php:162
+msgid "Ghost ads in paypal_publish table "
+msgstr ""
+
+#: /var/www/osclass30/dq-content/plugins/ghost_fix/config.php:163
+msgid "Ghost ads in item_adManage_limit table "
+msgstr ""
+
+#: /var/www/osclass30/dq-content/plugins/ghost_fix/config.php:164
+msgid "Ghost ads in elitpay_publish table "
+msgstr ""
+
+#: /var/www/osclass30/dq-content/plugins/ghost_fix/config.php:165
+msgid "Ghost ads in item_products_attr table "
+msgstr ""
+
+#: /var/www/osclass30/dq-content/plugins/ghost_fix/config.php:166
+msgid "Ghost ads in item_buysell table "
+msgstr ""
+
+#: /var/www/osclass30/dq-content/plugins/ghost_fix/config.php:171
+msgid "You are ghost free!"
+msgstr ""
+
+#: /var/www/osclass30/dq-content/plugins/ghost_fix/config.php:174
+msgid "Ghost ad id number "
+msgstr ""
+
+#: /var/www/osclass30/dq-content/plugins/ghost_fix/config.php:180
+msgid "Remove Ghost Ads"
+msgstr ""
+
+#: /var/www/osclass30/dq-content/plugins/ghost_fix/settings.php:11
+msgid "Ghostbuster Settings"
+msgstr ""
+
+#: /var/www/osclass30/dq-content/plugins/ghost_fix/settings.php:25
+msgid "How often should Ghostbuster check for ghost ads?"
+msgstr ""
+
+#: /var/www/osclass30/dq-content/plugins/ghost_fix/settings.php:26
+msgid "Never"
+msgstr ""
+
+#: /var/www/osclass30/dq-content/plugins/ghost_fix/settings.php:27
+msgid "Hourly"
+msgstr ""
+
+#: /var/www/osclass30/dq-content/plugins/ghost_fix/settings.php:28
+msgid "Daily"
+msgstr ""
+
+#: /var/www/osclass30/dq-content/plugins/ghost_fix/settings.php:29
+msgid "Weekly"
+msgstr ""
+
+#: /var/www/osclass30/dq-content/plugins/ghost_fix/settings.php:37
+msgid "Update"
+msgstr ""
+
+#: /var/www/osclass30/dq-content/plugins/ghost_fix/settings.php:40
+msgid "Version"
+msgstr ""
+
+#: /var/www/osclass30/dq-content/plugins/ghost_fix/settings.php:40
+msgid "Author"
+msgstr ""
+
